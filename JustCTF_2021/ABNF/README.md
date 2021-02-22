@@ -62,7 +62,9 @@ So according to the chall description the flag should be
 - `xoxoxoxoxoxoxoxo`	(ignoring the 1st checker block which doesn't make sense)
 - `}`
 
+If we compile the result of every char checking from the rough decompilation, we can get a regex ( ABNF ) of the flag checker.
 The regex is `justCTF{a+b?b?(something_else|left|right)_(short|long)(c*dd)*[digit]+_(simple|hard)-((wrc){0,3}(qsp|wsp|(cwr)*))*(xoxo){4}}`
+
 So we get `justCTF{aleft_long0_hard-xoxoxoxoxoxoxoxo}`, using this as argument gives:
 ```bash
 ./checker.out justCTF{aleft_long0_hard-xoxoxoxoxoxoxoxo}
