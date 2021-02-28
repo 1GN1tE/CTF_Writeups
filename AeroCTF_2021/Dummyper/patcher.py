@@ -47,13 +47,13 @@ file.seek(off)
 
 new_dump += file.read()
 
-with open("new_dump_2", 'wb') as f:
+with open("new_dump", 'wb') as f:
 	f.write(new_dump)
 
 
 # CHECKER
 
-new = open("new_dump_2", "rb")
+new = open("new_dump", "rb")
 
 new.seek(0x13A9)
 data = new.read(896)
