@@ -1,4 +1,4 @@
-# debug_me_if_you_can
+# debug_me_if_you_can ![badge](https://img.shields.io/badge/Post%20CTF-Writeup-success)
 > I bet you can't crack this binary protected with my custom bl33d1ng edg3 pr0t3c70r!!!111oneoneone
 
 Attachments:
