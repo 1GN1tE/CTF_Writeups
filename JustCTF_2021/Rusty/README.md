@@ -1,4 +1,4 @@
-# Rusty
+# Rusty ![badge](https://img.shields.io/badge/Post%20CTF-Writeup-success)
 Looking at Rust code in disassembler/decompiler hurts, so... look somewhere else.
 
 Attachments:
