@@ -1,4 +1,4 @@
-# ABNF: grammar is fun
+# ABNF: grammar is fun ![badge](https://img.shields.io/badge/Post%20CTF-Writeup-success)
 
 There is binary provided, it check if flag is correct. However, it accepts more than just flag.
 From all accepted inputs, flag is (in that order):
