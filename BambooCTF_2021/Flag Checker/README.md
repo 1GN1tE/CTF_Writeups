@@ -5,7 +5,7 @@
 - Implemented the mechanism of the other 2 files which are modules in python
 - Bruteforce flag check
 
-[script](https://github.com/1GN1tE/CTF-haxx/blob/master/Writeups/BambooCTF/Flag%20Checker/sol.py)
+[script](./sol.py)
 
 - Made some changes of same characters for diff values
 
