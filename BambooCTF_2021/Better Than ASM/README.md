@@ -57,7 +57,7 @@ __int64 __fastcall check(__int64 a1)
 
 
 ## Solution
-[Script Here](https://github.com/1GN1tE/CTF-haxx/blob/master/Writeups/BambooCTF/Better%20Than%20ASM/script.py)
+[Script Here](./script.py)
 
 ## Flag
 The most meaningful text is the flag
