@@ -28,11 +28,8 @@ using System.Windows.Forms;
 
 namespace keygenme
 {
-	// Token: 0x02000006 RID: 6
 	internal static class Program
 	{
-		// Token: 0x0600001B RID: 27 RVA: 0x00002C72 File Offset: 0x00000E72
-		[STAThread]
 		private static void Main()
 		{
 			Application.EnableVisualStyles();
@@ -212,25 +209,25 @@ If the keycheck is passed it checks a buildID and the key array stuff with Crypt
 
 ### Crypter
 ```c#
-		public Crypter(byte[] rawkey)
-		{
-			SHA256 sha = SHA256.Create();
-			this.keyBytes = sha.ComputeHash(rawkey);
-		}
-		public string getKeyID()
-		{
-			byte[] array = SHA256.Create().ComputeHash(this.keyBytes);
-			StringBuilder stringBuilder = new StringBuilder();
-			for (int i = 0; i < array.Length; i++)
-			{
-				stringBuilder.Append(array[i].ToString("x2"));
-			}
-			return stringBuilder.ToString();
-		}
-		public bool checkKeyId(string keyid)
-		{
-			return this.getKeyID() == keyid;
-		}
+public Crypter(byte[] rawkey)
+{
+	SHA256 sha = SHA256.Create();
+	this.keyBytes = sha.ComputeHash(rawkey);
+}
+public string getKeyID()
+{
+	byte[] array = SHA256.Create().ComputeHash(this.keyBytes);
+	StringBuilder stringBuilder = new StringBuilder();
+	for (int i = 0; i < array.Length; i++)
+	{
+		stringBuilder.Append(array[i].ToString("x2"));
+	}
+	return stringBuilder.ToString();
+}
+public bool checkKeyId(string keyid)
+{
+	return this.getKeyID() == keyid;
+}
 ```
 - The constructor initializes `keyBytes` with SHA-256 of the `keyBytes` which is the array of key positions.
 - Then it checks if the BuildID(keyid) is equal to the SHA-256 hash of keyBytes.
@@ -238,7 +235,8 @@ If the keycheck is passed it checks a buildID and the key array stuff with Crypt
 **Solution**
 
 Wrote a bruteforcer which checks every possible `num2`(index of the words) that can be used as key and checked the hashes to get the Key
-[key_cracker.c](./key_cracker.c)
+[key_cracker.c](./key_cracker.c).
+
 Then used the key pos to get the words. [script](keygen.py)
 ```
 $ ./keygen
