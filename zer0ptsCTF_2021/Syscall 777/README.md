@@ -1,5 +1,4 @@
-# Syscall 777
-
+# Syscall 777 ![badge](https://img.shields.io/badge/Post%20CTF-Writeup-success)
 Did you know system call number 777 in Linux works as a flag checker?
 
 Attachments:
@@ -87,28 +86,29 @@ LABEL_2:
   return __readfsqword(0x28u) ^ v7;
 }
 ```
-So the function adds some SECCOMP filters with `prctl`. To analyze the filters I used [seccomp-tools](https://github.com/david942j/seccomp-tools) to dump the filters.
-
+So the function adds some SECCOMP filters with `prctl`. The function loads a Berkeley Packet Filter, which filters any system calls performed. To analyze the filters I used [seccomp-tools](https://github.com/david942j/seccomp-tools) to dump the filters.
+```
+$ seccomp-tools dump ./chall
+```
 Dump [File](./dump.txt)
 
 ### Analyzing Dump
-
 ```
  line  CODE  JT   JF      K
 =================================
  0000: 0x20 0x00 0x00 0x00000000  A = sys_number
- 0001: 0x15 0x00 0xc8 0x00000309  if (A != 0x309) goto 0202     ; if syscall number != 777 goto ALLOW
+ 0001: 0x15 0x00 0xc8 0x00000309  if (A != 0x309) goto 0202      ; if syscall number != 777 goto ALLOW
  0002: 0x20 0x00 0x00 0x00000010  A = args[0]
  0003: 0x54 0x00 0x00 0x000000ff  A &= 0xff
- 0004: 0x35 0xc7 0x00 0x00000080  if (A >= 128) goto 0204       ; if char at 3 of args[0] >= 128 goto ERRNO(1)
+ 0004: 0x35 0xc7 0x00 0x00000080  if (A >= 128) goto 0204        ; if char at 3 of args[0] >= 128 goto ERRNO(1)
  0005: 0x20 0x00 0x00 0x00000010  A = args[0]
  0006: 0x74 0x00 0x00 0x00000008  A >>= 8
  0007: 0x54 0x00 0x00 0x000000ff  A &= 0xff
- 0008: 0x35 0xc3 0x00 0x00000080  if (A >= 128) goto 0204       ; if char at 2 of args[0] >= 128 goto ERRNO(1)
+ 0008: 0x35 0xc3 0x00 0x00000080  if (A >= 128) goto 0204        ; if char at 2 of args[0] >= 128 goto ERRNO(1)
  0009: 0x20 0x00 0x00 0x00000010  A = args[0]
  0010: 0x74 0x00 0x00 0x00000010  A >>= 16
  0011: 0x54 0x00 0x00 0x000000ff  A &= 0xff
- 0012: 0x35 0xbf 0x00 0x00000080  if (A >= 128) goto 0204       ; if char at 1 of args[0] >= 128 goto ERRNO(1)
+ 0012: 0x35 0xbf 0x00 0x00000080  if (A >= 128) goto 0204        ; if char at 1 of args[0] >= 128 goto ERRNO(1)
  0013: 0x20 0x00 0x00 0x00000010  A = args[0]
  0014: 0x74 0x00 0x00 0x00000018  A >>= 24
  0015: 0x54 0x00 0x00 0x000000ff  A &= 0xff
@@ -323,20 +323,20 @@ And the checks of mem[8], mem[9], mem[10], mem[11] are:
 ```
   mem[8]          mem[9]          mem[10]         mem[11]
 ----------------------------------------------------------
-4127179254		4126139894		 665780030		 666819390
-1933881070		2002783966		1601724370		1532821474
-4255576062		3116543486		3151668710		4290701286
-1670347938		4056898606		2583645294		 197094626
-2720551936		1627051272		1627379644		2720880308
-2307981054		3415533530		3281895882		2174343406
-2673307092		 251771212		 251771212		2673307092
-4139379682		3602496994		3606265306		4143147994
-4192373742		4088827598		3015552726		3119098870
- 530288564		 530288564		3917315412		3917315412
-4025255646		2813168974		 614968622		1827055294
-3747612986		1340672294		1301225350		3708166042
-3098492862		3064954302		3086875838		3120414398
-2130820044		2115580844		2130523044		2145762244
+4127179254	4126139894	 665780030	 666819390
+1933881070	2002783966	1601724370	1532821474
+4255576062	3116543486	3151668710	4290701286
+1670347938	4056898606	2583645294	 197094626
+2720551936	1627051272	1627379644	2720880308
+2307981054	3415533530	3281895882	2174343406
+2673307092	 251771212	 251771212	2673307092
+4139379682	3602496994	3606265306	4143147994
+4192373742	4088827598	3015552726	3119098870
+ 530288564	 530288564	3917315412	3917315412
+4025255646	2813168974	 614968622	1827055294
+3747612986	1340672294	1301225350	3708166042
+3098492862	3064954302	3086875838	3120414398
+2130820044	2115580844	2130523044	2145762244
 ```
 So combining these, made a z3 solver python [script](./solve.py).
 ```
