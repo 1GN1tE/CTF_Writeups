@@ -84,7 +84,7 @@ void read_input(byte param_1)
 {
   read_key();
   DAT_cd68 = param_1;
-  if ((param_1 & 2) != 0) {
+  if ((DAT_cd68 & 2) != 0) {
     parse_input(-1,0);  /*Left key*/
   }
   if ((DAT_cd68 & 1) != 0) {
@@ -93,7 +93,7 @@ void read_input(byte param_1)
   if ((DAT_cd68 & 8) != 0) {
     parse_input(0,1);   /*Up key*/
   }
-  if ((DAT_cd68 & 4) == 0) {
+  if ((DAT_cd68 & 4) != 0) {
     parse_input(0,-1);  /*Down key*/
   }
   return;
