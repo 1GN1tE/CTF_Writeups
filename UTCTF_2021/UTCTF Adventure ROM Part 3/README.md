@@ -123,7 +123,7 @@ void parse_input(char x,char y)
 				if (map_value == 2) // 2 is key
 				{
 					tmp = new_y * 50 + new_x;
-					if (tmp ==check_pos[no_of_flag]) // Done with 2 8-bit registers
+					if (tmp != check_pos[no_of_flag]) // Done with 2 8-bit registers
 					{
 						chk = 0;
 					}
