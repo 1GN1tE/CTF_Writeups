@@ -5,7 +5,7 @@ Check out our brand new computer!
 `nc challenges.ctfd.io 30525`
 
 Attachments:
-* [vm.out](./vm.out])
+* [vm.out](./vm.out)
 
 ## Solution
 Opened the binary in Ghidra, after some clearup (Rename and Retype variable), we got
