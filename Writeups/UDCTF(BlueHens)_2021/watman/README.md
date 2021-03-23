@@ -1,4 +1,4 @@
-# Entropy
+# watman
 
 http://challenges.ctfd.io:30039/
 
