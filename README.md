@@ -2,7 +2,7 @@
 Click to expand:
 
 <details>
-<summary>BambooCTF 2021</summary>
+<summary>BambooFox CTF 2021</summary>
 <p>
 
 - [Flag Checker](./Writeups/BambooCTF_2021/Flag%20Checker)    Tags: `Verilog`
@@ -12,7 +12,7 @@ Click to expand:
 </details>
 
 <details>
-<summary>JustCTF 2021</summary>
+<summary>JustCTF[*] 2020</summary>
 <p>
 
 - [That's not crypto](./Writeups/JustCTF_2021/That's%20not%20crypto)    Tags: `Python`
@@ -26,7 +26,7 @@ Click to expand:
 </details>
 
 <details>
-<summary>AeroCTF 2021</summary>
+<summary>Aero CTF 2021</summary>
 <p>
 
 - [Dummyper](./Writeups/AeroCTF_2021/Dummyper)    Tags: `memdump`, `crypto`
@@ -35,12 +35,22 @@ Click to expand:
 </details>
 
 <details>
-<summary>zer0ptsCTF 2021</summary>
+<summary>zer0pts CTF 2021</summary>
 <p>
 
-- [Infected](./Writeups/zer0ptsCTF_2021/Infected)   Tags: `Character Device`
-- [Super Secret Login](./Writeups/zer0ptsCTF_2021/Super%20Secret%20Login)   Tags: `AutoIt`, `Cheat Engine`
-- [Syscall 777](./Writeups/zer0ptsCTF_2021/Syscall%20777)   Tags: `syscall`, `SECCOMP`, `BPF`
+- [Infected](./Writeups/zer0ptsCTF_2021/Infected)    Tags: `Character Device`
+- [Super Secret Login](./Writeups/zer0ptsCTF_2021/Super%20Secret%20Login)    Tags: `AutoIt`, `Cheat Engine`
+- [Syscall 777](./Writeups/zer0ptsCTF_2021/Syscall%20777)    Tags: `syscall`, `SECCOMP`, `BPF`
+
+</p>
+</details>
+
+<details>
+<summary>BsidesSF 2021 CTF</summary>
+<p>
+
+- [Keygenme](./Writeups/BsidesSF_2021/Keygenme)    Tags: `keygen`, `.NET`
+- [Relaunch](./Writeups/BsidesSF_2021/Relaunch)    Tags: `Bindiff`
 
 </p>
 </details>
@@ -62,6 +72,24 @@ Click to expand:
 - [compUDer](./Writeups/UDCTF(BlueHens)_2021/compUDer)    Tags: `VM`
 - [watman](./Writeups/UDCTF(BlueHens)_2021/watman)    Tags: `wasm`
 - [Entropy](./Writeups/UDCTF(BlueHens)_2021/Entropy)    Tags: ` `
+
+</p>
+</details>
+
+<details>
+<summary>VolgaCTF 2021 Qualifier</summary>
+<p>
+
+- [Snake](./Writeups/VolgaCTF(Quals)_2021/Snake)    Tags: `wasm`, `game`
+
+</p>
+</details>
+
+<details>
+<summary>UMassCTF 2021</summary>
+<p>
+
+- [Chains](./Writeups/UMassCTF_2021/Chains)    Tags: `ARM`, `optimize me`
 
 </p>
 </details>
