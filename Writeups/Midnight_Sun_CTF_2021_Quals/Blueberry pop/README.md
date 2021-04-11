@@ -84,7 +84,7 @@ if __name__ == '__main__':
 ```
 So I used this as seed of the bytes to get `rdata`
 
-Now we have got everything we need to generate key. I just bruteforced the milliseconds in timsestamp to get the flag and the username out of the two.
+Now we have got everything we need to generate key. I just bruteforced the milliseconds in timsestamp and used the username `erism` to get the flag.
 Solve script [here](./recover.py)
 
 ```
