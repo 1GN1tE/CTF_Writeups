@@ -216,7 +216,7 @@ end
 ```
 Full script [here](./script.gdb) (Disabled ASLR for breakpoint)
 
-I used python to spawn the process with the contents of key.txt as argument, than attached to gdb and executed the gdb script file (`source script.gdb`).
+I used python to spawn the process with the contents of key.txt as argument, than attached to gdb and executed the gdb script file (`source script.txt`).
 
 Python script [here](./solve.py)
 
