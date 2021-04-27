@@ -93,3 +93,37 @@ Click to expand:
 
 </p>
 </details>
+
+<details>
+<summary>ångstromCTF 2021</summary>
+<p>
+
+- [Infinity Gauntlet](./Writeups/AngstormCTF_2021/Infinity%20Gauntlet)    Tags: `PPC`
+- [FLag Submission Server](./Writeups/AngstormCTF_2021/Flag%20Submission%20Server)    Tags: `server binary`
+- [Lockpicking](./Writeups/AngstormCTF_2021/Lockpicking)    Tags: `virtual lock`
+- [Dysfunctional](./main/Writeups/AngstormCTF_2021/Dysfunctional)    Tags: `dynamic encryption`
+
+</p>
+</details>
+
+<details>
+<summary>Midnight Sun CTF 2021 Quals</summary>
+<p>
+
+- [murmur](./Writeups/Midnight_Sun_CTF_2021_Quals/murmur)    Tags: `hash`
+- [Blueberry Pop](./Writeups/Midnight_Sun_CTF_2021_Quals/Blueberry%20pop)    Tags: `time based enc`
+- [oVER9000](./Writeups/Midnight_Sun_CTF_2021_Quals/oVER9000)    Tags: `custom stream cipher`
+
+</p>
+</details>
+
+<details>
+<summary>S4CTF 2021</summary>
+<p>
+
+- [RE Diary](./Writeups/S4CTF_2021/RE%20Diary)    Tags: `enc`
+- [Water Color](.Writeups/S4CTF_2021/Water%20Color)    Tags: `apk`
+- [Dive in to Numbers](./Writeups/S4CTF_2021/Dive%20in%20to%20Numbers)    Tags: `maths`
+
+</p>
+</details>
