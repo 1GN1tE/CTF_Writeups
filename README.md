@@ -122,7 +122,7 @@ Click to expand:
 <p>
 
 - [RE Diary](./Writeups/S4CTF_2021/RE%20Diary)    Tags: `enc`
-- [Water Color](.Writeups/S4CTF_2021/Water%20Color)    Tags: `apk`
+- [Water Color](./Writeups/S4CTF_2021/Water%20Color)    Tags: `apk`
 - [Dive in to Numbers](./Writeups/S4CTF_2021/Dive%20in%20to%20Numbers)    Tags: `maths`
 
 </p>
