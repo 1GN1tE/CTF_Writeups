@@ -101,7 +101,7 @@ Click to expand:
 - [Infinity Gauntlet](./Writeups/AngstormCTF_2021/Infinity%20Gauntlet)    Tags: `PPC`
 - [FLag Submission Server](./Writeups/AngstormCTF_2021/Flag%20Submission%20Server)    Tags: `server binary`
 - [Lockpicking](./Writeups/AngstormCTF_2021/Lockpicking)    Tags: `virtual lock`
-- [Dysfunctional](./main/Writeups/AngstormCTF_2021/Dysfunctional)    Tags: `dynamic encryption`
+- [Dysfunctional](./Writeups/AngstormCTF_2021/Dysfunctional)    Tags: `dynamic encryption`
 
 </p>
 </details>
