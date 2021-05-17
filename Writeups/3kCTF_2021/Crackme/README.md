@@ -114,7 +114,7 @@ void __fastcall runvm(cpu *cpu)
 }
 ```
 
-I write a disassembler to parse the opcedes. Script [here](./disasm.py) , [Ouput](./disasm.txt)
+I wrote a disassembler to parse the opcodes. Script [here](./disasm.py), Output [here](./disasm.txt)
 
 After printing some stuff it takes a character and checks them
 ```
