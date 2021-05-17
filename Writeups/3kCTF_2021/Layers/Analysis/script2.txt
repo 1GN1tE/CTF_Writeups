@@ -1,0 +1,94 @@
+set pagination off
+set logging file gdb_output2.txt
+set logging on
+
+break *0x40423b
+commands
+silent
+x/x $rbp-0x294
+continue
+end
+break *0x4045cf
+commands
+silent
+x/x $rbp-0x294
+continue
+end
+break *0x404129
+commands
+silent
+x/x $rbp-0x294
+continue
+end
+break *0x40410a
+commands
+silent
+x/x $rbp-0x294
+continue
+end
+break *0x404974
+commands
+silent
+x/x $rbp-0x294
+continue
+end
+break *0x404142
+commands
+silent
+x/x $rbp-0x294
+continue
+end
+break *0x404883
+commands
+silent
+x/x $rbp-0x294
+continue
+end
+break *0x404983
+commands
+silent
+x/x $rbp-0x294
+continue
+end
+break *0x4045f7
+commands
+silent
+x/x $rbp-0x294
+continue
+end
+break *0x40421c
+commands
+silent
+x/x $rbp-0x294
+continue
+end
+break *0x404616
+commands
+silent
+x/x $rbp-0x294
+continue
+end
+break *0x404161
+commands
+silent
+x/x $rbp-0x294
+continue
+end
+break *0x404203
+commands
+silent
+x/x $rbp-0x294
+continue
+end
+break *0x4049ab
+commands
+silent
+x/x $rbp-0x294
+continue
+end
+break *0x4041d9
+commands
+silent
+x/x $rbp-0x294
+continue
+end

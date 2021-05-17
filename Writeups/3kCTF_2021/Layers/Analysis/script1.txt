@@ -1,0 +1,202 @@
+set pagination off
+set logging file gdb_output.txt
+set logging on
+
+break *0x401a0f
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401b34
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401adb
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401abc
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x4019b0
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x40171f
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x4018bf
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x4015eb
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x4016b7
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x40196e
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401c6d
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401b12
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401826
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x4019d8
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401d41
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x4017e8
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401681
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401747
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401604
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x4015cb
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401867
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x4016d6
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401ba5
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401d6b
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x4019e7
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x4017c4
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401b4d
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401cc7
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x40194f
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401644
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401c8f
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x40184e
+commands
+silent
+x/x $rbp-0x35c
+continue
+end
+break *0x401ca8
+commands
+silent
+x/x $rbp-0x35c
+continue
+end

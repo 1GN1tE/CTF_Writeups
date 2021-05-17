@@ -1,0 +1,250 @@
+set pagination off
+set logging file gdb_output3.txt
+set logging on
+
+break *0x403a5c
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x4037c5
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x4036ea
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403a86
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x4035a5
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x40364e
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403e35
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403806
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403875
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x4036a3
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x4037ed
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x4035cf
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403abe
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x4035eb
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x4038da
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x40373a
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403765
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403da2
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x4038b8
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403e0d
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x40382e
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x4036cb
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403e44
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403815
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403a9f
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403e6c
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403749
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403712
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x4035c5
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403b13
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x4037fc
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x40384d
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x40389f
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x40377e
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403d83
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403679
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403b32
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403ea5
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403628
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x403e7b
+commands
+silent
+x/x $rbp-0x300
+continue
+end
+break *0x40379d
+commands
+silent
+x/x $rbp-0x300
+continue
+end
