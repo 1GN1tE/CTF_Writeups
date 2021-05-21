@@ -1,4 +1,4 @@
-# Microscopic Revenge
+# Microscopic Revenge ![badge](https://img.shields.io/badge/Post%20CTF-Writeup-success)
 
 The 2021 version is here! YAY \o/
 
