@@ -125,6 +125,7 @@ def parse_file(unkn,filename):
 			if(sect.sh_name == ".chk"+str(j)):
 				for i in range(len(sect.data)):
 					sect.data[i] ^= ord(keys[j][i % 32])
+					
 		# print(sect.data)
 		sections.append(sect)
 
@@ -375,7 +376,7 @@ if __name__ == '__main__':
 	reg = registers()
 	unkn = unknown()
 
-	parse_file(unkn,"optimiseme.xvm")
+	parse_file(unkn,"pyaz.xvm")
 
 	reg.r14_IP = unkn.prog.e_entry
 	print_data()

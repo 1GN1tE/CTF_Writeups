@@ -265,5 +265,7 @@ I extracted the maze data by dynamically debugging with `x32dbg`. Solved the maz
 
 It gave the moves, from that I made the binary array and it to encrypted_serial. Then I xored the serial with the hardcoded key to get the flag. [solve.py](./solve.py)
 
+<p align="center"><img src="solve.png"></p>
+
 ## Flag
 > zh3r0{mAzes_w3Re_1nv3nteD_by_EgyptianS_cb3c82b9}
