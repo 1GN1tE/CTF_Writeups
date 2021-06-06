@@ -360,8 +360,8 @@ if __name__ == '__main__':
 	parse_file(unkn,"optimiseme.xvm")
 
 	reg.r14_IP = unkn.prog.e_entry
-	# print_data()
-	# exit()
+	print_data()
+	exit()
 
 	for obj in sections:
 		if(obj.sh_name == ".text"):

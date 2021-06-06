@@ -180,6 +180,20 @@ void __fastcall executeIns(reg *reg, unkn *unkn)
 
 I wrote a ugly disassembler which will load the sections and parse the bytecode instructions [interpreter.py](./interpreter.py)
 
+```
+Header                   b'xvm\x03'
+EntryPoint               0x13371000
+Program Header Size      0x0
+E_shoff                  0x4b3
+Section Header Size      0x2
+
+SECTIONS:
+Section Name     Section Data Size  Section Alloc Size   Section Virtual Address         Section Flags
+  .text                  0x9ff      0x1000                 0x13371000                        0x5      
+  .data                  0x6c       0x1000                 0x1337f000                        0x3      
+  stack                  0x0        0x3000                 0xcafe3000                        0x3      
+```
+
 It gave a disassembly of the bytecode.
 
 ### Decompiling Disassembly
