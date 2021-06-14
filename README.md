@@ -127,3 +127,40 @@ Click to expand:
 
 </p>
 </details>
+
+<details>
+<summary>3kCTF-2021</summary>
+<p>
+
+- [Crackme](./Writeups/3kCTF_2021/Crackme)    Tags: `VM`
+- [Layers](./Writeups/3kCTF_2021/Layers)    Tags: `LLVM Obfuscation`
+- [Microscopic Revenge](./Writeups/3kCTF_2021/Microscopic%20Revenge)    Tags: `nanomites` , `windows`
+
+</p>
+</details>
+
+<details>
+<summary>Pwn2Win CTF 2021</summary>
+<p>
+
+- [The Return of Too Slow](./Writeups/Pwn2Win_CTF_2021/the_return_of_too_slow)    Tags: `optimize me` , `DOS`
+
+</p>
+</details>
+
+<details>
+<summary>Zh3r0 CTF V2</summary>
+<p>
+
+- [Sabloom Text 6](./Writeups/zh3roCTF_2021/Sabloom_Text_6)    Tags: `app registration`
+- [OptimiseMe](./Writeups/zh3roCTF_2021/OptimiseMe)    Tags: `VM` , `optimize me`
+- [Pyaz](./Writeups/zh3roCTF_2021/Pyaz)    Tags: `VM` , `ecnrypted layers`
+
+</p>
+</details>
+
+
+
+## Others ##
+- [TUMCTF 2017](./Writeups/TUMCTF_2017/revenge_of_the_zwiebel)
+- [Pico CTF 2021](./Writeups/picoCTF_2021)
