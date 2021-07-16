@@ -7,7 +7,7 @@ Attachments:
 * [encrytped_flag.txt](./encrytped_flag.txt)
 
 ## Solution
-We are given a malware Microsoft Word file. Running [vmonkey](./https://github.com/decalage2/ViperMonkey) on the word files gives a base64 encoded powershell code. Log [here](./Offer_details.doc.log). Base64 decrypting and deobfuscating the code we get this [script](./weird.ps1)
+We are given a malware Microsoft Word file. Running [vmonkey](https://github.com/decalage2/ViperMonkey) on the word files gives a base64 encoded powershell code. Log [here](./Offer_details.doc.log). Base64 decrypting and deobfuscating the code we get this [script](./weird.ps1)
 
 So it intends to download `https://github.com/joezid/joezid.github.io/raw/main/Images/Weirdo.png` this file and saves it as `T14e00.exe` at `$HOME\D8c98nn\Oss08b_\` directory, and runs the file.
 
