@@ -1,0 +1,13 @@
+set pagination off
+break *0x55555555d49e
+commands
+silent
+set $x = $al
+set $y = (char *)$r13+$rdi
+set $z = $y[0]
+printf "%c %c\n",$x,$z
+set $al = $z
+continue
+end 
+
+r abcdefghijklmnopqrstuvwxyz

@@ -1,0 +1,3722 @@
+0x000	x = flag[0]
+0x002	if (x % 9 != 6) [!]Error
+0x004	z = x
+0x005	z = 0x(z)
+0x006	x = weird_data[z]
+0x007	unkn[0] = x
+0x009	x = flag[8]
+0x00b	if (x % 9 != 5) [!]Error
+0x00d	z = x
+0x00e	z = 0x(z)
+0x00f	x = weird_data[z]
+0x010	unkn[1] = x
+0x012	x = flag[16]
+0x014	if (x % 9 != 8) [!]Error
+0x016	z = x
+0x017	z = 0x(z)
+0x018	x = weird_data[z]
+0x019	unkn[2] = x
+0x01b	x = flag[24]
+0x01d	if (x % 9 != 3) [!]Error
+0x01f	z = x
+0x020	z = 0x(z)
+0x021	x = weird_data[z]
+0x022	unkn[3] = x
+0x024	x = flag[31]
+0x026	if (x % 9 != 3) [!]Error
+0x028	z = x
+0x029	z = 0x(z)
+0x02a	x = weird_data[z]
+0x02b	unkn[4] = x
+0x02d	Weird Check
+0x02e	z = 140
+0x030	z = 0x(z)
+0x031	puts("Checking flag...");
+0x032	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x033	++z
+0x034	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x035	++z
+0x036	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x037	++z
+0x038	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x039	++z
+0x03a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x03b	++z
+0x03c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x03d	++z
+0x03e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x03f	++z
+0x040	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x041	++z
+0x042	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x043	++z
+0x044	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x045	++z
+0x046	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x047	++z
+0x048	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x049	++z
+0x04a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x04b	++z
+0x04c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x04d	++z
+0x04e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x04f	++z
+0x050	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x051	++z
+0x052	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x053	++z
+0x054	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x055	++z
+0x056	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x057	++z
+0x058	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x059	++z
+0x05a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x05b	++z
+0x05c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x05d	++z
+0x05e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x05f	++z
+0x060	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x061	++z
+0x062	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x063	++z
+0x064	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x065	++z
+0x066	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x067	++z
+0x068	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x069	++z
+0x06a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x06b	++z
+0x06c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x06d	++z
+0x06e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x06f	++z
+0x070	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x071	++z
+0x072	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x073	++z
+0x074	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x075	++z
+0x076	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x077	++z
+0x078	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x079	++z
+0x07a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x07b	++z
+0x07c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x07d	++z
+0x07e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x07f	++z
+0x080	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x081	++z
+0x082	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x083	++z
+0x084	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x085	++z
+0x086	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x087	++z
+0x088	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x089	++z
+0x08a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x08b	++z
+0x08c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x08d	++z
+0x08e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x08f	++z
+0x090	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x091	++z
+0x092	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x093	++z
+0x094	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x095	++z
+0x096	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x097	++z
+0x098	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x099	++z
+0x09a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x09b	++z
+0x09c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x09d	++z
+0x09e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x09f	++z
+0x0a0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0a1	++z
+0x0a2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0a3	++z
+0x0a4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0a5	++z
+0x0a6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0a7	++z
+0x0a8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0a9	++z
+0x0aa	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0ab	++z
+0x0ac	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0ad	++z
+0x0ae	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0af	++z
+0x0b0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0b1	++z
+0x0b2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0b3	++z
+0x0b4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0b5	++z
+0x0b6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0b7	++z
+0x0b8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0b9	++z
+0x0ba	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0bb	++z
+0x0bc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0bd	++z
+0x0be	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0bf	++z
+0x0c0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0c1	++z
+0x0c2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0c3	++z
+0x0c4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0c5	++z
+0x0c6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0c7	++z
+0x0c8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0c9	++z
+0x0ca	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0cb	++z
+0x0cc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0cd	++z
+0x0ce	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0cf	++z
+0x0d0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0d1	++z
+0x0d2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0d3	++z
+0x0d4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0d5	++z
+0x0d6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0d7	++z
+0x0d8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0d9	++z
+0x0da	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0db	++z
+0x0dc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0dd	++z
+0x0de	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0df	++z
+0x0e0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0e1	++z
+0x0e2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0e3	++z
+0x0e4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0e5	++z
+0x0e6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0e7	++z
+0x0e8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0e9	++z
+0x0ea	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0eb	++z
+0x0ec	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0ed	++z
+0x0ee	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0ef	++z
+0x0f0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0f1	++z
+0x0f2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0f3	++z
+0x0f4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0f5	++z
+0x0f6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0f7	++z
+0x0f8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0f9	++z
+0x0fa	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0fb	++z
+0x0fc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0fd	++z
+0x0fe	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x0ff	++z
+0x100	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x101	++z
+0x102	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x103	++z
+0x104	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x105	++z
+0x106	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x107	++z
+0x108	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x109	++z
+0x10a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x10b	++z
+0x10c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x10d	++z
+0x10e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x10f	++z
+0x110	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x111	++z
+0x112	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x113	++z
+0x114	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x115	++z
+0x116	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x117	++z
+0x118	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x119	++z
+0x11a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x11b	++z
+0x11c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x11d	++z
+0x11e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x11f	++z
+0x120	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x121	++z
+0x122	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x123	++z
+0x124	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x125	++z
+0x126	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x127	++z
+0x128	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x129	++z
+0x12a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x12b	++z
+0x12c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x12d	++z
+0x12e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x12f	++z
+0x130	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x131	++z
+0x132	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x133	++z
+0x134	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x135	++z
+0x136	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x137	++z
+0x138	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x139	++z
+0x13a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x13b	++z
+0x13c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x13d	++z
+0x13e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x13f	++z
+0x140	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x141	++z
+0x142	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x143	++z
+0x144	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x145	++z
+0x146	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x147	++z
+0x148	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x149	++z
+0x14a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x14b	++z
+0x14c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x14d	++z
+0x14e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x14f	++z
+0x150	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x151	++z
+0x152	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x153	++z
+0x154	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x155	++z
+0x156	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x157	++z
+0x158	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x159	++z
+0x15a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x15b	++z
+0x15c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x15d	++z
+0x15e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x15f	++z
+0x160	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x161	++z
+0x162	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x163	++z
+0x164	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x165	++z
+0x166	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x167	++z
+0x168	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x169	++z
+0x16a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x16b	++z
+0x16c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x16d	++z
+0x16e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x16f	++z
+0x170	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x171	++z
+0x172	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x173	++z
+0x174	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x175	++z
+0x176	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x177	++z
+0x178	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x179	++z
+0x17a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x17b	++z
+0x17c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x17d	++z
+0x17e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x17f	++z
+0x180	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x181	++z
+0x182	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x183	++z
+0x184	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x185	++z
+0x186	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x187	++z
+0x188	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x189	++z
+0x18a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x18b	++z
+0x18c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x18d	++z
+0x18e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x18f	++z
+0x190	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x191	++z
+0x192	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x193	++z
+0x194	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x195	++z
+0x196	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x197	++z
+0x198	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x199	++z
+0x19a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x19b	++z
+0x19c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x19d	++z
+0x19e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x19f	++z
+0x1a0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1a1	++z
+0x1a2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1a3	++z
+0x1a4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1a5	++z
+0x1a6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1a7	++z
+0x1a8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1a9	++z
+0x1aa	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1ab	++z
+0x1ac	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1ad	++z
+0x1ae	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1af	++z
+0x1b0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1b1	++z
+0x1b2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1b3	++z
+0x1b4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1b5	++z
+0x1b6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1b7	++z
+0x1b8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1b9	++z
+0x1ba	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1bb	++z
+0x1bc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1bd	++z
+0x1be	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1bf	++z
+0x1c0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1c1	++z
+0x1c2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1c3	++z
+0x1c4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1c5	++z
+0x1c6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1c7	++z
+0x1c8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1c9	++z
+0x1ca	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1cb	++z
+0x1cc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1cd	++z
+0x1ce	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1cf	++z
+0x1d0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1d1	++z
+0x1d2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1d3	++z
+0x1d4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1d5	++z
+0x1d6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1d7	++z
+0x1d8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1d9	++z
+0x1da	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1db	++z
+0x1dc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1dd	++z
+0x1de	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1df	++z
+0x1e0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1e1	++z
+0x1e2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1e3	++z
+0x1e4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1e5	++z
+0x1e6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1e7	++z
+0x1e8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1e9	++z
+0x1ea	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1eb	++z
+0x1ec	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1ed	++z
+0x1ee	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1ef	++z
+0x1f0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1f1	++z
+0x1f2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1f3	++z
+0x1f4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1f5	++z
+0x1f6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1f7	++z
+0x1f8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x1f9	x = flag[1]
+0x1fb	if (x % 9 != 2) [!]Error
+0x1fd	z = x
+0x1fe	z = 0x(z)
+0x1ff	x = weird_data[z]
+0x200	unkn[0] = x
+0x202	x = flag[9]
+0x204	if (x % 9 != 6) [!]Error
+0x206	z = x
+0x207	z = 0x(z)
+0x208	x = weird_data[z]
+0x209	unkn[1] = x
+0x20b	x = flag[17]
+0x20d	if (x % 9 != 1) [!]Error
+0x20f	z = x
+0x210	z = 0x(z)
+0x211	x = weird_data[z]
+0x212	unkn[2] = x
+0x214	x = flag[25]
+0x216	if (x % 9 != 0) [!]Error
+0x218	z = x
+0x219	z = 0x(z)
+0x21a	x = weird_data[z]
+0x21b	unkn[3] = x
+0x21d	Weird Check
+0x21e	z = 225
+0x220	z = 0x(z)
+0x221	puts("Checking flag...");
+0x222	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x223	++z
+0x224	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x225	++z
+0x226	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x227	++z
+0x228	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x229	++z
+0x22a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x22b	++z
+0x22c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x22d	++z
+0x22e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x22f	++z
+0x230	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x231	++z
+0x232	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x233	++z
+0x234	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x235	++z
+0x236	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x237	++z
+0x238	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x239	++z
+0x23a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x23b	++z
+0x23c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x23d	++z
+0x23e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x23f	++z
+0x240	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x241	++z
+0x242	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x243	++z
+0x244	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x245	++z
+0x246	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x247	++z
+0x248	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x249	++z
+0x24a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x24b	++z
+0x24c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x24d	++z
+0x24e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x24f	++z
+0x250	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x251	++z
+0x252	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x253	++z
+0x254	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x255	++z
+0x256	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x257	++z
+0x258	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x259	++z
+0x25a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x25b	++z
+0x25c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x25d	++z
+0x25e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x25f	++z
+0x260	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x261	++z
+0x262	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x263	++z
+0x264	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x265	++z
+0x266	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x267	++z
+0x268	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x269	++z
+0x26a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x26b	++z
+0x26c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x26d	++z
+0x26e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x26f	++z
+0x270	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x271	++z
+0x272	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x273	++z
+0x274	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x275	++z
+0x276	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x277	++z
+0x278	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x279	++z
+0x27a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x27b	++z
+0x27c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x27d	++z
+0x27e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x27f	++z
+0x280	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x281	++z
+0x282	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x283	++z
+0x284	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x285	++z
+0x286	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x287	++z
+0x288	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x289	++z
+0x28a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x28b	++z
+0x28c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x28d	++z
+0x28e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x28f	++z
+0x290	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x291	++z
+0x292	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x293	++z
+0x294	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x295	++z
+0x296	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x297	++z
+0x298	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x299	++z
+0x29a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x29b	++z
+0x29c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x29d	++z
+0x29e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x29f	++z
+0x2a0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2a1	++z
+0x2a2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2a3	++z
+0x2a4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2a5	++z
+0x2a6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2a7	++z
+0x2a8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2a9	++z
+0x2aa	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2ab	++z
+0x2ac	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2ad	++z
+0x2ae	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2af	++z
+0x2b0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2b1	++z
+0x2b2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2b3	++z
+0x2b4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2b5	++z
+0x2b6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2b7	++z
+0x2b8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2b9	++z
+0x2ba	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2bb	++z
+0x2bc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2bd	++z
+0x2be	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2bf	++z
+0x2c0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2c1	++z
+0x2c2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2c3	++z
+0x2c4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2c5	++z
+0x2c6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2c7	++z
+0x2c8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2c9	++z
+0x2ca	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2cb	++z
+0x2cc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2cd	++z
+0x2ce	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2cf	++z
+0x2d0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2d1	++z
+0x2d2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2d3	++z
+0x2d4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2d5	++z
+0x2d6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2d7	++z
+0x2d8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2d9	++z
+0x2da	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2db	++z
+0x2dc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2dd	++z
+0x2de	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2df	++z
+0x2e0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2e1	++z
+0x2e2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2e3	++z
+0x2e4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2e5	++z
+0x2e6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2e7	++z
+0x2e8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2e9	++z
+0x2ea	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2eb	++z
+0x2ec	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2ed	++z
+0x2ee	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2ef	++z
+0x2f0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2f1	++z
+0x2f2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2f3	++z
+0x2f4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2f5	++z
+0x2f6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2f7	++z
+0x2f8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2f9	++z
+0x2fa	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2fb	++z
+0x2fc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2fd	++z
+0x2fe	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x2ff	++z
+0x300	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x301	++z
+0x302	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x303	++z
+0x304	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x305	++z
+0x306	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x307	++z
+0x308	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x309	x = flag[2]
+0x30b	if (x % 9 != 0) [!]Error
+0x30d	z = x
+0x30e	z = 0x(z)
+0x30f	x = weird_data[z]
+0x310	unkn[0] = x
+0x312	x = flag[10]
+0x314	if (x % 9 != 4) [!]Error
+0x316	z = x
+0x317	z = 0x(z)
+0x318	x = weird_data[z]
+0x319	unkn[1] = x
+0x31b	x = flag[18]
+0x31d	if (x % 9 != 5) [!]Error
+0x31f	z = x
+0x320	z = 0x(z)
+0x321	x = weird_data[z]
+0x322	unkn[2] = x
+0x324	x = flag[26]
+0x326	if (x % 9 != 2) [!]Error
+0x328	z = x
+0x329	z = 0x(z)
+0x32a	x = weird_data[z]
+0x32b	unkn[3] = x
+0x32d	x = flag[32]
+0x32f	if (x % 9 != 3) [!]Error
+0x331	z = x
+0x332	z = 0x(z)
+0x333	x = weird_data[z]
+0x334	unkn[4] = x
+0x336	Weird Check
+0x337	z = 299
+0x339	z = 0x(z)
+0x33a	puts("Checking flag...");
+0x33b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x33c	++z
+0x33d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x33e	++z
+0x33f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x340	++z
+0x341	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x342	++z
+0x343	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x344	++z
+0x345	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x346	++z
+0x347	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x348	++z
+0x349	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x34a	++z
+0x34b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x34c	++z
+0x34d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x34e	++z
+0x34f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x350	++z
+0x351	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x352	++z
+0x353	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x354	++z
+0x355	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x356	++z
+0x357	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x358	++z
+0x359	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x35a	++z
+0x35b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x35c	++z
+0x35d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x35e	++z
+0x35f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x360	++z
+0x361	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x362	++z
+0x363	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x364	++z
+0x365	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x366	++z
+0x367	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x368	++z
+0x369	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x36a	++z
+0x36b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x36c	++z
+0x36d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x36e	++z
+0x36f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x370	++z
+0x371	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x372	++z
+0x373	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x374	++z
+0x375	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x376	++z
+0x377	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x378	++z
+0x379	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x37a	++z
+0x37b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x37c	++z
+0x37d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x37e	++z
+0x37f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x380	++z
+0x381	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x382	++z
+0x383	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x384	++z
+0x385	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x386	++z
+0x387	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x388	++z
+0x389	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x38a	++z
+0x38b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x38c	++z
+0x38d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x38e	++z
+0x38f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x390	++z
+0x391	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x392	++z
+0x393	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x394	++z
+0x395	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x396	++z
+0x397	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x398	++z
+0x399	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x39a	++z
+0x39b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x39c	++z
+0x39d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x39e	++z
+0x39f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3a0	++z
+0x3a1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3a2	++z
+0x3a3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3a4	++z
+0x3a5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3a6	++z
+0x3a7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3a8	++z
+0x3a9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3aa	++z
+0x3ab	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3ac	++z
+0x3ad	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3ae	++z
+0x3af	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3b0	++z
+0x3b1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3b2	++z
+0x3b3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3b4	++z
+0x3b5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3b6	++z
+0x3b7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3b8	++z
+0x3b9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3ba	++z
+0x3bb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3bc	++z
+0x3bd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3be	++z
+0x3bf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3c0	++z
+0x3c1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3c2	++z
+0x3c3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3c4	++z
+0x3c5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3c6	++z
+0x3c7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3c8	++z
+0x3c9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3ca	++z
+0x3cb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3cc	++z
+0x3cd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3ce	++z
+0x3cf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3d0	++z
+0x3d1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3d2	++z
+0x3d3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3d4	++z
+0x3d5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3d6	++z
+0x3d7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3d8	++z
+0x3d9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3da	++z
+0x3db	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3dc	++z
+0x3dd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3de	++z
+0x3df	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3e0	++z
+0x3e1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3e2	++z
+0x3e3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3e4	++z
+0x3e5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3e6	++z
+0x3e7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3e8	++z
+0x3e9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3ea	++z
+0x3eb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3ec	++z
+0x3ed	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3ee	++z
+0x3ef	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3f0	++z
+0x3f1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3f2	++z
+0x3f3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3f4	++z
+0x3f5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3f6	++z
+0x3f7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3f8	++z
+0x3f9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3fa	++z
+0x3fb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3fc	++z
+0x3fd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x3fe	++z
+0x3ff	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x400	++z
+0x401	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x402	++z
+0x403	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x404	++z
+0x405	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x406	++z
+0x407	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x408	++z
+0x409	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x40a	++z
+0x40b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x40c	++z
+0x40d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x40e	++z
+0x40f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x410	++z
+0x411	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x412	++z
+0x413	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x414	++z
+0x415	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x416	++z
+0x417	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x418	++z
+0x419	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x41a	++z
+0x41b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x41c	++z
+0x41d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x41e	++z
+0x41f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x420	++z
+0x421	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x422	++z
+0x423	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x424	++z
+0x425	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x426	++z
+0x427	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x428	++z
+0x429	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x42a	++z
+0x42b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x42c	++z
+0x42d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x42e	++z
+0x42f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x430	++z
+0x431	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x432	++z
+0x433	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x434	++z
+0x435	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x436	++z
+0x437	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x438	++z
+0x439	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x43a	++z
+0x43b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x43c	++z
+0x43d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x43e	++z
+0x43f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x440	++z
+0x441	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x442	++z
+0x443	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x444	++z
+0x445	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x446	++z
+0x447	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x448	++z
+0x449	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x44a	++z
+0x44b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x44c	++z
+0x44d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x44e	++z
+0x44f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x450	++z
+0x451	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x452	++z
+0x453	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x454	++z
+0x455	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x456	++z
+0x457	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x458	++z
+0x459	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x45a	++z
+0x45b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x45c	++z
+0x45d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x45e	++z
+0x45f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x460	++z
+0x461	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x462	++z
+0x463	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x464	++z
+0x465	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x466	++z
+0x467	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x468	++z
+0x469	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x46a	++z
+0x46b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x46c	++z
+0x46d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x46e	++z
+0x46f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x470	++z
+0x471	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x472	++z
+0x473	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x474	++z
+0x475	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x476	++z
+0x477	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x478	++z
+0x479	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x47a	++z
+0x47b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x47c	++z
+0x47d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x47e	++z
+0x47f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x480	++z
+0x481	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x482	++z
+0x483	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x484	++z
+0x485	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x486	++z
+0x487	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x488	++z
+0x489	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x48a	++z
+0x48b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x48c	++z
+0x48d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x48e	++z
+0x48f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x490	++z
+0x491	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x492	++z
+0x493	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x494	++z
+0x495	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x496	++z
+0x497	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x498	++z
+0x499	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x49a	++z
+0x49b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x49c	++z
+0x49d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x49e	++z
+0x49f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4a0	++z
+0x4a1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4a2	++z
+0x4a3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4a4	++z
+0x4a5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4a6	++z
+0x4a7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4a8	++z
+0x4a9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4aa	++z
+0x4ab	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4ac	++z
+0x4ad	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4ae	++z
+0x4af	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4b0	++z
+0x4b1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4b2	++z
+0x4b3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4b4	++z
+0x4b5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4b6	++z
+0x4b7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4b8	++z
+0x4b9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4ba	x = flag[3]
+0x4bc	if (x % 9 != 8) [!]Error
+0x4be	z = x
+0x4bf	z = 0x(z)
+0x4c0	x = weird_data[z]
+0x4c1	unkn[0] = x
+0x4c3	x = flag[11]
+0x4c5	if (x % 9 != 5) [!]Error
+0x4c7	z = x
+0x4c8	z = 0x(z)
+0x4c9	x = weird_data[z]
+0x4ca	unkn[1] = x
+0x4cc	x = flag[19]
+0x4ce	if (x % 9 != 3) [!]Error
+0x4d0	z = x
+0x4d1	z = 0x(z)
+0x4d2	x = weird_data[z]
+0x4d3	unkn[2] = x
+0x4d5	x = flag[27]
+0x4d7	if (x % 9 != 7) [!]Error
+0x4d9	z = x
+0x4da	z = 0x(z)
+0x4db	x = weird_data[z]
+0x4dc	unkn[3] = x
+0x4de	Weird Check
+0x4df	z = 359
+0x4e1	z = 0x(z)
+0x4e2	puts("Checking flag...");
+0x4e3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4e4	++z
+0x4e5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4e6	++z
+0x4e7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4e8	++z
+0x4e9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4ea	++z
+0x4eb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4ec	++z
+0x4ed	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4ee	++z
+0x4ef	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4f0	++z
+0x4f1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4f2	++z
+0x4f3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4f4	++z
+0x4f5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4f6	++z
+0x4f7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4f8	++z
+0x4f9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4fa	++z
+0x4fb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4fc	++z
+0x4fd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x4fe	++z
+0x4ff	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x500	++z
+0x501	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x502	++z
+0x503	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x504	++z
+0x505	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x506	++z
+0x507	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x508	++z
+0x509	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x50a	++z
+0x50b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x50c	++z
+0x50d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x50e	++z
+0x50f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x510	++z
+0x511	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x512	++z
+0x513	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x514	++z
+0x515	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x516	++z
+0x517	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x518	++z
+0x519	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x51a	++z
+0x51b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x51c	++z
+0x51d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x51e	++z
+0x51f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x520	++z
+0x521	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x522	++z
+0x523	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x524	++z
+0x525	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x526	++z
+0x527	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x528	++z
+0x529	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x52a	++z
+0x52b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x52c	++z
+0x52d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x52e	++z
+0x52f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x530	++z
+0x531	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x532	++z
+0x533	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x534	++z
+0x535	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x536	++z
+0x537	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x538	++z
+0x539	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x53a	++z
+0x53b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x53c	++z
+0x53d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x53e	++z
+0x53f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x540	++z
+0x541	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x542	++z
+0x543	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x544	++z
+0x545	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x546	++z
+0x547	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x548	++z
+0x549	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x54a	++z
+0x54b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x54c	++z
+0x54d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x54e	++z
+0x54f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x550	++z
+0x551	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x552	++z
+0x553	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x554	++z
+0x555	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x556	++z
+0x557	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x558	++z
+0x559	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x55a	++z
+0x55b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x55c	++z
+0x55d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x55e	++z
+0x55f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x560	++z
+0x561	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x562	++z
+0x563	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x564	++z
+0x565	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x566	++z
+0x567	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x568	++z
+0x569	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x56a	++z
+0x56b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x56c	++z
+0x56d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x56e	++z
+0x56f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x570	++z
+0x571	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x572	++z
+0x573	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x574	++z
+0x575	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x576	++z
+0x577	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x578	++z
+0x579	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x57a	++z
+0x57b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x57c	++z
+0x57d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x57e	++z
+0x57f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x580	++z
+0x581	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x582	++z
+0x583	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x584	++z
+0x585	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x586	++z
+0x587	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x588	++z
+0x589	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x58a	++z
+0x58b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x58c	++z
+0x58d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x58e	++z
+0x58f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x590	++z
+0x591	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x592	++z
+0x593	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x594	++z
+0x595	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x596	++z
+0x597	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x598	++z
+0x599	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x59a	++z
+0x59b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x59c	++z
+0x59d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x59e	++z
+0x59f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5a0	++z
+0x5a1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5a2	++z
+0x5a3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5a4	++z
+0x5a5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5a6	++z
+0x5a7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5a8	++z
+0x5a9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5aa	++z
+0x5ab	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5ac	++z
+0x5ad	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5ae	++z
+0x5af	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5b0	++z
+0x5b1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5b2	++z
+0x5b3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5b4	++z
+0x5b5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5b6	++z
+0x5b7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5b8	++z
+0x5b9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5ba	++z
+0x5bb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5bc	++z
+0x5bd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5be	++z
+0x5bf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5c0	++z
+0x5c1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5c2	++z
+0x5c3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5c4	++z
+0x5c5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5c6	++z
+0x5c7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5c8	++z
+0x5c9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5ca	++z
+0x5cb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5cc	++z
+0x5cd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5ce	++z
+0x5cf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5d0	++z
+0x5d1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5d2	++z
+0x5d3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5d4	++z
+0x5d5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5d6	++z
+0x5d7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5d8	++z
+0x5d9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5da	++z
+0x5db	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5dc	++z
+0x5dd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5de	++z
+0x5df	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5e0	++z
+0x5e1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5e2	++z
+0x5e3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5e4	++z
+0x5e5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5e6	++z
+0x5e7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5e8	++z
+0x5e9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5ea	++z
+0x5eb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5ec	++z
+0x5ed	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5ee	++z
+0x5ef	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5f0	++z
+0x5f1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5f2	++z
+0x5f3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5f4	++z
+0x5f5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x5f6	x = flag[4]
+0x5f8	if (x % 9 != 3) [!]Error
+0x5fa	z = x
+0x5fb	z = 0x(z)
+0x5fc	x = weird_data[z]
+0x5fd	unkn[0] = x
+0x5ff	x = flag[12]
+0x601	if (x % 9 != 8) [!]Error
+0x603	z = x
+0x604	z = 0x(z)
+0x605	x = weird_data[z]
+0x606	unkn[1] = x
+0x608	x = flag[20]
+0x60a	if (x % 9 != 3) [!]Error
+0x60c	z = x
+0x60d	z = 0x(z)
+0x60e	x = weird_data[z]
+0x60f	unkn[2] = x
+0x611	x = flag[28]
+0x613	if (x % 9 != 8) [!]Error
+0x615	z = x
+0x616	z = 0x(z)
+0x617	x = weird_data[z]
+0x618	unkn[3] = x
+0x61a	x = flag[33]
+0x61c	if (x % 9 != 3) [!]Error
+0x61e	z = x
+0x61f	z = 0x(z)
+0x620	x = weird_data[z]
+0x621	unkn[4] = x
+0x623	Weird Check
+0x624	z = 689
+0x626	z = 0x(z)
+0x627	puts("Checking flag...");
+0x628	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x629	++z
+0x62a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x62b	++z
+0x62c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x62d	++z
+0x62e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x62f	++z
+0x630	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x631	++z
+0x632	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x633	++z
+0x634	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x635	++z
+0x636	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x637	++z
+0x638	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x639	++z
+0x63a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x63b	++z
+0x63c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x63d	++z
+0x63e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x63f	++z
+0x640	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x641	++z
+0x642	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x643	++z
+0x644	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x645	++z
+0x646	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x647	++z
+0x648	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x649	++z
+0x64a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x64b	++z
+0x64c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x64d	++z
+0x64e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x64f	++z
+0x650	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x651	++z
+0x652	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x653	++z
+0x654	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x655	++z
+0x656	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x657	++z
+0x658	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x659	++z
+0x65a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x65b	++z
+0x65c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x65d	++z
+0x65e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x65f	++z
+0x660	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x661	++z
+0x662	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x663	++z
+0x664	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x665	++z
+0x666	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x667	++z
+0x668	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x669	++z
+0x66a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x66b	++z
+0x66c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x66d	++z
+0x66e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x66f	++z
+0x670	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x671	++z
+0x672	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x673	++z
+0x674	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x675	++z
+0x676	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x677	++z
+0x678	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x679	++z
+0x67a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x67b	++z
+0x67c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x67d	++z
+0x67e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x67f	++z
+0x680	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x681	++z
+0x682	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x683	++z
+0x684	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x685	++z
+0x686	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x687	++z
+0x688	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x689	++z
+0x68a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x68b	++z
+0x68c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x68d	++z
+0x68e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x68f	++z
+0x690	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x691	++z
+0x692	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x693	++z
+0x694	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x695	++z
+0x696	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x697	++z
+0x698	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x699	++z
+0x69a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x69b	++z
+0x69c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x69d	++z
+0x69e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x69f	++z
+0x6a0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6a1	++z
+0x6a2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6a3	++z
+0x6a4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6a5	++z
+0x6a6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6a7	++z
+0x6a8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6a9	++z
+0x6aa	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6ab	++z
+0x6ac	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6ad	++z
+0x6ae	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6af	++z
+0x6b0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6b1	++z
+0x6b2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6b3	++z
+0x6b4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6b5	++z
+0x6b6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6b7	++z
+0x6b8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6b9	++z
+0x6ba	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6bb	++z
+0x6bc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6bd	++z
+0x6be	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6bf	++z
+0x6c0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6c1	++z
+0x6c2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6c3	++z
+0x6c4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6c5	++z
+0x6c6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6c7	++z
+0x6c8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6c9	++z
+0x6ca	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6cb	++z
+0x6cc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6cd	++z
+0x6ce	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6cf	++z
+0x6d0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6d1	++z
+0x6d2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6d3	++z
+0x6d4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6d5	++z
+0x6d6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6d7	++z
+0x6d8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6d9	++z
+0x6da	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6db	++z
+0x6dc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6dd	++z
+0x6de	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6df	++z
+0x6e0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6e1	++z
+0x6e2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6e3	++z
+0x6e4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6e5	++z
+0x6e6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6e7	++z
+0x6e8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6e9	++z
+0x6ea	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6eb	++z
+0x6ec	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6ed	++z
+0x6ee	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6ef	++z
+0x6f0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6f1	++z
+0x6f2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6f3	++z
+0x6f4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6f5	++z
+0x6f6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6f7	++z
+0x6f8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6f9	++z
+0x6fa	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6fb	++z
+0x6fc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6fd	++z
+0x6fe	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x6ff	++z
+0x700	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x701	++z
+0x702	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x703	++z
+0x704	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x705	++z
+0x706	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x707	++z
+0x708	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x709	++z
+0x70a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x70b	++z
+0x70c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x70d	++z
+0x70e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x70f	++z
+0x710	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x711	++z
+0x712	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x713	++z
+0x714	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x715	++z
+0x716	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x717	++z
+0x718	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x719	++z
+0x71a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x71b	++z
+0x71c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x71d	++z
+0x71e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x71f	++z
+0x720	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x721	++z
+0x722	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x723	++z
+0x724	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x725	++z
+0x726	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x727	++z
+0x728	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x729	++z
+0x72a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x72b	++z
+0x72c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x72d	++z
+0x72e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x72f	++z
+0x730	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x731	++z
+0x732	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x733	++z
+0x734	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x735	++z
+0x736	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x737	++z
+0x738	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x739	++z
+0x73a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x73b	++z
+0x73c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x73d	++z
+0x73e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x73f	++z
+0x740	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x741	++z
+0x742	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x743	++z
+0x744	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x745	++z
+0x746	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x747	++z
+0x748	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x749	++z
+0x74a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x74b	++z
+0x74c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x74d	++z
+0x74e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x74f	++z
+0x750	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x751	++z
+0x752	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x753	++z
+0x754	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x755	++z
+0x756	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x757	++z
+0x758	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x759	++z
+0x75a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x75b	++z
+0x75c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x75d	++z
+0x75e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x75f	++z
+0x760	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x761	++z
+0x762	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x763	++z
+0x764	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x765	++z
+0x766	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x767	++z
+0x768	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x769	++z
+0x76a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x76b	++z
+0x76c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x76d	++z
+0x76e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x76f	++z
+0x770	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x771	++z
+0x772	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x773	++z
+0x774	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x775	++z
+0x776	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x777	++z
+0x778	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x779	++z
+0x77a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x77b	++z
+0x77c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x77d	++z
+0x77e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x77f	++z
+0x780	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x781	++z
+0x782	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x783	++z
+0x784	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x785	++z
+0x786	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x787	++z
+0x788	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x789	++z
+0x78a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x78b	++z
+0x78c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x78d	++z
+0x78e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x78f	++z
+0x790	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x791	++z
+0x792	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x793	++z
+0x794	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x795	++z
+0x796	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x797	++z
+0x798	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x799	++z
+0x79a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x79b	++z
+0x79c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x79d	++z
+0x79e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x79f	++z
+0x7a0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7a1	++z
+0x7a2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7a3	++z
+0x7a4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7a5	++z
+0x7a6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7a7	++z
+0x7a8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7a9	++z
+0x7aa	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7ab	++z
+0x7ac	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7ad	++z
+0x7ae	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7af	++z
+0x7b0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7b1	++z
+0x7b2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7b3	++z
+0x7b4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7b5	++z
+0x7b6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7b7	++z
+0x7b8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7b9	++z
+0x7ba	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7bb	++z
+0x7bc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7bd	++z
+0x7be	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7bf	++z
+0x7c0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7c1	++z
+0x7c2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7c3	++z
+0x7c4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7c5	++z
+0x7c6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7c7	++z
+0x7c8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7c9	++z
+0x7ca	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7cb	++z
+0x7cc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7cd	++z
+0x7ce	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7cf	++z
+0x7d0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7d1	++z
+0x7d2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7d3	++z
+0x7d4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7d5	++z
+0x7d6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7d7	++z
+0x7d8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7d9	++z
+0x7da	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7db	++z
+0x7dc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7dd	++z
+0x7de	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7df	++z
+0x7e0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7e1	++z
+0x7e2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7e3	++z
+0x7e4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7e5	++z
+0x7e6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7e7	++z
+0x7e8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7e9	++z
+0x7ea	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7eb	++z
+0x7ec	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7ed	++z
+0x7ee	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7ef	++z
+0x7f0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7f1	++z
+0x7f2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7f3	++z
+0x7f4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7f5	++z
+0x7f6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7f7	++z
+0x7f8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7f9	++z
+0x7fa	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7fb	++z
+0x7fc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7fd	++z
+0x7fe	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x7ff	++z
+0x800	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x801	++z
+0x802	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x803	++z
+0x804	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x805	++z
+0x806	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x807	++z
+0x808	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x809	++z
+0x80a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x80b	++z
+0x80c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x80d	++z
+0x80e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x80f	++z
+0x810	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x811	++z
+0x812	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x813	++z
+0x814	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x815	++z
+0x816	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x817	++z
+0x818	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x819	++z
+0x81a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x81b	++z
+0x81c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x81d	++z
+0x81e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x81f	++z
+0x820	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x821	++z
+0x822	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x823	++z
+0x824	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x825	++z
+0x826	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x827	++z
+0x828	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x829	++z
+0x82a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x82b	++z
+0x82c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x82d	++z
+0x82e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x82f	++z
+0x830	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x831	++z
+0x832	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x833	++z
+0x834	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x835	++z
+0x836	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x837	++z
+0x838	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x839	++z
+0x83a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x83b	++z
+0x83c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x83d	++z
+0x83e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x83f	++z
+0x840	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x841	++z
+0x842	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x843	++z
+0x844	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x845	++z
+0x846	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x847	++z
+0x848	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x849	++z
+0x84a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x84b	++z
+0x84c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x84d	++z
+0x84e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x84f	++z
+0x850	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x851	++z
+0x852	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x853	++z
+0x854	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x855	++z
+0x856	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x857	++z
+0x858	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x859	++z
+0x85a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x85b	++z
+0x85c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x85d	++z
+0x85e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x85f	++z
+0x860	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x861	++z
+0x862	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x863	++z
+0x864	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x865	++z
+0x866	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x867	++z
+0x868	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x869	++z
+0x86a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x86b	++z
+0x86c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x86d	++z
+0x86e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x86f	++z
+0x870	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x871	++z
+0x872	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x873	++z
+0x874	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x875	++z
+0x876	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x877	++z
+0x878	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x879	++z
+0x87a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x87b	++z
+0x87c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x87d	++z
+0x87e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x87f	++z
+0x880	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x881	++z
+0x882	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x883	++z
+0x884	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x885	++z
+0x886	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x887	++z
+0x888	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x889	++z
+0x88a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x88b	++z
+0x88c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x88d	++z
+0x88e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x88f	++z
+0x890	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x891	++z
+0x892	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x893	++z
+0x894	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x895	++z
+0x896	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x897	++z
+0x898	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x899	++z
+0x89a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x89b	++z
+0x89c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x89d	++z
+0x89e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x89f	++z
+0x8a0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8a1	++z
+0x8a2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8a3	++z
+0x8a4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8a5	++z
+0x8a6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8a7	++z
+0x8a8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8a9	++z
+0x8aa	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8ab	++z
+0x8ac	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8ad	++z
+0x8ae	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8af	++z
+0x8b0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8b1	++z
+0x8b2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8b3	++z
+0x8b4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8b5	++z
+0x8b6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8b7	++z
+0x8b8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8b9	++z
+0x8ba	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8bb	++z
+0x8bc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8bd	++z
+0x8be	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8bf	++z
+0x8c0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8c1	++z
+0x8c2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8c3	++z
+0x8c4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8c5	++z
+0x8c6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8c7	++z
+0x8c8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8c9	++z
+0x8ca	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8cb	++z
+0x8cc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8cd	++z
+0x8ce	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8cf	++z
+0x8d0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8d1	++z
+0x8d2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8d3	++z
+0x8d4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8d5	++z
+0x8d6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8d7	++z
+0x8d8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8d9	++z
+0x8da	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8db	++z
+0x8dc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8dd	++z
+0x8de	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8df	++z
+0x8e0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8e1	++z
+0x8e2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8e3	++z
+0x8e4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8e5	++z
+0x8e6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8e7	++z
+0x8e8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8e9	++z
+0x8ea	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8eb	++z
+0x8ec	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8ed	++z
+0x8ee	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8ef	++z
+0x8f0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8f1	++z
+0x8f2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8f3	++z
+0x8f4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8f5	++z
+0x8f6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8f7	++z
+0x8f8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8f9	++z
+0x8fa	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8fb	++z
+0x8fc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8fd	++z
+0x8fe	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x8ff	++z
+0x900	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x901	++z
+0x902	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x903	++z
+0x904	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x905	++z
+0x906	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x907	++z
+0x908	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x909	++z
+0x90a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x90b	++z
+0x90c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x90d	++z
+0x90e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x90f	++z
+0x910	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x911	++z
+0x912	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x913	++z
+0x914	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x915	++z
+0x916	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x917	++z
+0x918	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x919	++z
+0x91a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x91b	++z
+0x91c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x91d	++z
+0x91e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x91f	++z
+0x920	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x921	++z
+0x922	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x923	++z
+0x924	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x925	++z
+0x926	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x927	++z
+0x928	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x929	++z
+0x92a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x92b	++z
+0x92c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x92d	++z
+0x92e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x92f	++z
+0x930	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x931	++z
+0x932	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x933	++z
+0x934	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x935	++z
+0x936	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x937	++z
+0x938	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x939	++z
+0x93a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x93b	++z
+0x93c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x93d	++z
+0x93e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x93f	++z
+0x940	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x941	++z
+0x942	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x943	++z
+0x944	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x945	++z
+0x946	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x947	++z
+0x948	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x949	++z
+0x94a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x94b	++z
+0x94c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x94d	++z
+0x94e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x94f	++z
+0x950	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x951	++z
+0x952	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x953	++z
+0x954	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x955	++z
+0x956	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x957	++z
+0x958	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x959	++z
+0x95a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x95b	++z
+0x95c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x95d	++z
+0x95e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x95f	++z
+0x960	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x961	++z
+0x962	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x963	x = flag[5]
+0x965	if (x % 9 != 6) [!]Error
+0x967	z = x
+0x968	z = 0x(z)
+0x969	x = weird_data[z]
+0x96a	unkn[0] = x
+0x96c	x = flag[13]
+0x96e	if (x % 9 != 5) [!]Error
+0x970	z = x
+0x971	z = 0x(z)
+0x972	x = weird_data[z]
+0x973	unkn[1] = x
+0x975	x = flag[21]
+0x977	if (x % 9 != 5) [!]Error
+0x979	z = x
+0x97a	z = 0x(z)
+0x97b	x = weird_data[z]
+0x97c	unkn[2] = x
+0x97e	x = flag[29]
+0x980	if (x % 9 != 6) [!]Error
+0x982	z = x
+0x983	z = 0x(z)
+0x984	x = weird_data[z]
+0x985	unkn[3] = x
+0x987	Weird Check
+0x988	z = 400
+0x98a	z = 0x(z)
+0x98b	puts("Checking flag...");
+0x98c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x98d	++z
+0x98e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x98f	++z
+0x990	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x991	++z
+0x992	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x993	++z
+0x994	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x995	++z
+0x996	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x997	++z
+0x998	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x999	++z
+0x99a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x99b	++z
+0x99c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x99d	++z
+0x99e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x99f	++z
+0x9a0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9a1	++z
+0x9a2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9a3	++z
+0x9a4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9a5	++z
+0x9a6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9a7	++z
+0x9a8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9a9	++z
+0x9aa	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9ab	++z
+0x9ac	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9ad	++z
+0x9ae	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9af	++z
+0x9b0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9b1	++z
+0x9b2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9b3	++z
+0x9b4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9b5	++z
+0x9b6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9b7	++z
+0x9b8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9b9	++z
+0x9ba	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9bb	++z
+0x9bc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9bd	++z
+0x9be	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9bf	++z
+0x9c0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9c1	++z
+0x9c2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9c3	++z
+0x9c4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9c5	++z
+0x9c6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9c7	++z
+0x9c8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9c9	++z
+0x9ca	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9cb	++z
+0x9cc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9cd	++z
+0x9ce	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9cf	++z
+0x9d0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9d1	++z
+0x9d2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9d3	++z
+0x9d4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9d5	++z
+0x9d6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9d7	++z
+0x9d8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9d9	++z
+0x9da	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9db	++z
+0x9dc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9dd	++z
+0x9de	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9df	++z
+0x9e0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9e1	++z
+0x9e2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9e3	++z
+0x9e4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9e5	++z
+0x9e6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9e7	++z
+0x9e8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9e9	++z
+0x9ea	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9eb	++z
+0x9ec	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9ed	++z
+0x9ee	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9ef	++z
+0x9f0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9f1	++z
+0x9f2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9f3	++z
+0x9f4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9f5	++z
+0x9f6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9f7	++z
+0x9f8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9f9	++z
+0x9fa	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9fb	++z
+0x9fc	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9fd	++z
+0x9fe	if (weird_data[z] != qword_206538[c++]) [!]Error
+0x9ff	++z
+0xa00	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa01	++z
+0xa02	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa03	++z
+0xa04	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa05	++z
+0xa06	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa07	++z
+0xa08	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa09	++z
+0xa0a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa0b	++z
+0xa0c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa0d	++z
+0xa0e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa0f	++z
+0xa10	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa11	++z
+0xa12	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa13	++z
+0xa14	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa15	++z
+0xa16	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa17	++z
+0xa18	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa19	++z
+0xa1a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa1b	++z
+0xa1c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa1d	++z
+0xa1e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa1f	++z
+0xa20	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa21	++z
+0xa22	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa23	++z
+0xa24	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa25	++z
+0xa26	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa27	++z
+0xa28	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa29	++z
+0xa2a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa2b	++z
+0xa2c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa2d	++z
+0xa2e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa2f	++z
+0xa30	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa31	++z
+0xa32	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa33	++z
+0xa34	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa35	++z
+0xa36	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa37	++z
+0xa38	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa39	++z
+0xa3a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa3b	++z
+0xa3c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa3d	++z
+0xa3e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa3f	++z
+0xa40	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa41	++z
+0xa42	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa43	++z
+0xa44	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa45	++z
+0xa46	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa47	++z
+0xa48	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa49	++z
+0xa4a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa4b	++z
+0xa4c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa4d	++z
+0xa4e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa4f	++z
+0xa50	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa51	++z
+0xa52	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa53	++z
+0xa54	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa55	++z
+0xa56	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa57	++z
+0xa58	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa59	++z
+0xa5a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa5b	++z
+0xa5c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa5d	++z
+0xa5e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa5f	++z
+0xa60	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa61	++z
+0xa62	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa63	++z
+0xa64	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa65	++z
+0xa66	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa67	++z
+0xa68	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa69	++z
+0xa6a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa6b	++z
+0xa6c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa6d	++z
+0xa6e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa6f	++z
+0xa70	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa71	++z
+0xa72	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa73	++z
+0xa74	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa75	++z
+0xa76	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa77	++z
+0xa78	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa79	++z
+0xa7a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa7b	++z
+0xa7c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa7d	++z
+0xa7e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa7f	++z
+0xa80	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa81	++z
+0xa82	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa83	++z
+0xa84	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa85	++z
+0xa86	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa87	++z
+0xa88	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa89	++z
+0xa8a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa8b	++z
+0xa8c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa8d	++z
+0xa8e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa8f	++z
+0xa90	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa91	++z
+0xa92	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa93	++z
+0xa94	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa95	++z
+0xa96	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa97	++z
+0xa98	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa99	++z
+0xa9a	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa9b	++z
+0xa9c	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa9d	++z
+0xa9e	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xa9f	++z
+0xaa0	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xaa1	++z
+0xaa2	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xaa3	++z
+0xaa4	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xaa5	++z
+0xaa6	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xaa7	++z
+0xaa8	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xaa9	++z
+0xaaa	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xaab	x = flag[6]
+0xaad	if (x % 9 != 1) [!]Error
+0xaaf	z = x
+0xab0	z = 0x(z)
+0xab1	x = weird_data[z]
+0xab2	unkn[0] = x
+0xab4	x = flag[14]
+0xab6	if (x % 9 != 0) [!]Error
+0xab8	z = x
+0xab9	z = 0x(z)
+0xaba	x = weird_data[z]
+0xabb	unkn[1] = x
+0xabd	x = flag[22]
+0xabf	if (x % 9 != 4) [!]Error
+0xac1	z = x
+0xac2	z = 0x(z)
+0xac3	x = weird_data[z]
+0xac4	unkn[2] = x
+0xac6	x = flag[30]
+0xac8	if (x % 9 != 2) [!]Error
+0xaca	z = x
+0xacb	z = 0x(z)
+0xacc	x = weird_data[z]
+0xacd	unkn[3] = x
+0xacf	x = flag[34]
+0xad1	if (x % 9 != 5) [!]Error
+0xad3	z = x
+0xad4	z = 0x(z)
+0xad5	x = weird_data[z]
+0xad6	unkn[4] = x
+0xad8	Weird Check
+0xad9	z = 500
+0xadb	z = 0x(z)
+0xadc	puts("Checking flag...");
+0xadd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xade	++z
+0xadf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xae0	++z
+0xae1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xae2	++z
+0xae3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xae4	++z
+0xae5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xae6	++z
+0xae7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xae8	++z
+0xae9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xaea	++z
+0xaeb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xaec	++z
+0xaed	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xaee	++z
+0xaef	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xaf0	++z
+0xaf1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xaf2	++z
+0xaf3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xaf4	++z
+0xaf5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xaf6	++z
+0xaf7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xaf8	++z
+0xaf9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xafa	++z
+0xafb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xafc	++z
+0xafd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xafe	++z
+0xaff	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb00	++z
+0xb01	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb02	++z
+0xb03	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb04	++z
+0xb05	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb06	++z
+0xb07	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb08	++z
+0xb09	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb0a	++z
+0xb0b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb0c	++z
+0xb0d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb0e	++z
+0xb0f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb10	++z
+0xb11	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb12	++z
+0xb13	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb14	++z
+0xb15	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb16	++z
+0xb17	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb18	++z
+0xb19	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb1a	++z
+0xb1b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb1c	++z
+0xb1d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb1e	++z
+0xb1f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb20	++z
+0xb21	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb22	++z
+0xb23	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb24	++z
+0xb25	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb26	++z
+0xb27	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb28	++z
+0xb29	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb2a	++z
+0xb2b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb2c	++z
+0xb2d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb2e	++z
+0xb2f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb30	++z
+0xb31	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb32	++z
+0xb33	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb34	++z
+0xb35	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb36	++z
+0xb37	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb38	++z
+0xb39	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb3a	++z
+0xb3b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb3c	++z
+0xb3d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb3e	++z
+0xb3f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb40	++z
+0xb41	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb42	++z
+0xb43	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb44	++z
+0xb45	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb46	++z
+0xb47	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb48	++z
+0xb49	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb4a	++z
+0xb4b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb4c	++z
+0xb4d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb4e	++z
+0xb4f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb50	++z
+0xb51	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb52	++z
+0xb53	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb54	++z
+0xb55	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb56	++z
+0xb57	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb58	++z
+0xb59	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb5a	++z
+0xb5b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb5c	++z
+0xb5d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb5e	++z
+0xb5f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb60	++z
+0xb61	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb62	++z
+0xb63	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb64	++z
+0xb65	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb66	++z
+0xb67	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb68	++z
+0xb69	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb6a	++z
+0xb6b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb6c	++z
+0xb6d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb6e	++z
+0xb6f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb70	++z
+0xb71	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb72	++z
+0xb73	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb74	++z
+0xb75	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb76	++z
+0xb77	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb78	++z
+0xb79	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb7a	++z
+0xb7b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb7c	++z
+0xb7d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb7e	++z
+0xb7f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb80	++z
+0xb81	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb82	++z
+0xb83	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb84	++z
+0xb85	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb86	++z
+0xb87	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb88	++z
+0xb89	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb8a	++z
+0xb8b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb8c	++z
+0xb8d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb8e	++z
+0xb8f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb90	++z
+0xb91	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb92	++z
+0xb93	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb94	++z
+0xb95	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb96	++z
+0xb97	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb98	++z
+0xb99	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb9a	++z
+0xb9b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb9c	++z
+0xb9d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xb9e	++z
+0xb9f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xba0	++z
+0xba1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xba2	++z
+0xba3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xba4	++z
+0xba5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xba6	++z
+0xba7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xba8	++z
+0xba9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbaa	++z
+0xbab	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbac	++z
+0xbad	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbae	++z
+0xbaf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbb0	++z
+0xbb1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbb2	++z
+0xbb3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbb4	++z
+0xbb5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbb6	++z
+0xbb7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbb8	++z
+0xbb9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbba	++z
+0xbbb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbbc	++z
+0xbbd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbbe	++z
+0xbbf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbc0	++z
+0xbc1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbc2	++z
+0xbc3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbc4	++z
+0xbc5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbc6	++z
+0xbc7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbc8	++z
+0xbc9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbca	++z
+0xbcb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbcc	++z
+0xbcd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbce	++z
+0xbcf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbd0	++z
+0xbd1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbd2	++z
+0xbd3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbd4	++z
+0xbd5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbd6	++z
+0xbd7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbd8	++z
+0xbd9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbda	++z
+0xbdb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbdc	++z
+0xbdd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbde	++z
+0xbdf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbe0	++z
+0xbe1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbe2	++z
+0xbe3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbe4	++z
+0xbe5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbe6	++z
+0xbe7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbe8	++z
+0xbe9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbea	++z
+0xbeb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbec	++z
+0xbed	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbee	++z
+0xbef	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbf0	++z
+0xbf1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbf2	++z
+0xbf3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbf4	++z
+0xbf5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbf6	++z
+0xbf7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbf8	++z
+0xbf9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbfa	++z
+0xbfb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbfc	++z
+0xbfd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xbfe	++z
+0xbff	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc00	++z
+0xc01	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc02	++z
+0xc03	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc04	++z
+0xc05	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc06	++z
+0xc07	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc08	++z
+0xc09	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc0a	++z
+0xc0b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc0c	++z
+0xc0d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc0e	++z
+0xc0f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc10	++z
+0xc11	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc12	++z
+0xc13	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc14	++z
+0xc15	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc16	++z
+0xc17	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc18	++z
+0xc19	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc1a	++z
+0xc1b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc1c	++z
+0xc1d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc1e	++z
+0xc1f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc20	++z
+0xc21	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc22	++z
+0xc23	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc24	++z
+0xc25	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc26	++z
+0xc27	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc28	++z
+0xc29	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc2a	++z
+0xc2b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc2c	++z
+0xc2d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc2e	++z
+0xc2f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc30	++z
+0xc31	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc32	++z
+0xc33	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc34	++z
+0xc35	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc36	++z
+0xc37	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc38	++z
+0xc39	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc3a	++z
+0xc3b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc3c	++z
+0xc3d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc3e	++z
+0xc3f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc40	++z
+0xc41	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc42	++z
+0xc43	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc44	++z
+0xc45	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc46	++z
+0xc47	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc48	++z
+0xc49	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc4a	++z
+0xc4b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc4c	++z
+0xc4d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc4e	++z
+0xc4f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc50	++z
+0xc51	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc52	++z
+0xc53	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc54	++z
+0xc55	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc56	++z
+0xc57	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc58	++z
+0xc59	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc5a	++z
+0xc5b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc5c	++z
+0xc5d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc5e	++z
+0xc5f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc60	++z
+0xc61	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc62	++z
+0xc63	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc64	++z
+0xc65	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc66	++z
+0xc67	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc68	++z
+0xc69	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc6a	++z
+0xc6b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc6c	++z
+0xc6d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc6e	++z
+0xc6f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc70	++z
+0xc71	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc72	++z
+0xc73	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc74	++z
+0xc75	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc76	++z
+0xc77	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc78	++z
+0xc79	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc7a	++z
+0xc7b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc7c	++z
+0xc7d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc7e	++z
+0xc7f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc80	++z
+0xc81	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc82	++z
+0xc83	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc84	++z
+0xc85	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc86	++z
+0xc87	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc88	++z
+0xc89	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc8a	++z
+0xc8b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc8c	++z
+0xc8d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc8e	++z
+0xc8f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc90	++z
+0xc91	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc92	++z
+0xc93	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc94	++z
+0xc95	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc96	++z
+0xc97	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc98	++z
+0xc99	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc9a	++z
+0xc9b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc9c	++z
+0xc9d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xc9e	++z
+0xc9f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xca0	++z
+0xca1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xca2	++z
+0xca3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xca4	++z
+0xca5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xca6	++z
+0xca7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xca8	++z
+0xca9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcaa	++z
+0xcab	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcac	++z
+0xcad	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcae	++z
+0xcaf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcb0	++z
+0xcb1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcb2	++z
+0xcb3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcb4	++z
+0xcb5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcb6	++z
+0xcb7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcb8	++z
+0xcb9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcba	++z
+0xcbb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcbc	++z
+0xcbd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcbe	++z
+0xcbf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcc0	++z
+0xcc1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcc2	++z
+0xcc3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcc4	++z
+0xcc5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcc6	++z
+0xcc7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcc8	++z
+0xcc9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcca	++z
+0xccb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xccc	++z
+0xccd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcce	++z
+0xccf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcd0	++z
+0xcd1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcd2	++z
+0xcd3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcd4	++z
+0xcd5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcd6	++z
+0xcd7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcd8	++z
+0xcd9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcda	++z
+0xcdb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcdc	++z
+0xcdd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcde	++z
+0xcdf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xce0	++z
+0xce1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xce2	++z
+0xce3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xce4	++z
+0xce5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xce6	++z
+0xce7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xce8	++z
+0xce9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcea	++z
+0xceb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcec	++z
+0xced	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcee	++z
+0xcef	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcf0	++z
+0xcf1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcf2	++z
+0xcf3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcf4	++z
+0xcf5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcf6	++z
+0xcf7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcf8	++z
+0xcf9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcfa	++z
+0xcfb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcfc	++z
+0xcfd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xcfe	++z
+0xcff	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd00	++z
+0xd01	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd02	++z
+0xd03	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd04	++z
+0xd05	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd06	++z
+0xd07	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd08	++z
+0xd09	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd0a	++z
+0xd0b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd0c	++z
+0xd0d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd0e	++z
+0xd0f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd10	++z
+0xd11	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd12	++z
+0xd13	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd14	++z
+0xd15	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd16	++z
+0xd17	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd18	++z
+0xd19	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd1a	++z
+0xd1b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd1c	++z
+0xd1d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd1e	++z
+0xd1f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd20	++z
+0xd21	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd22	++z
+0xd23	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd24	++z
+0xd25	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd26	++z
+0xd27	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd28	++z
+0xd29	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd2a	++z
+0xd2b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd2c	++z
+0xd2d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd2e	++z
+0xd2f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd30	++z
+0xd31	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd32	++z
+0xd33	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd34	++z
+0xd35	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd36	++z
+0xd37	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd38	++z
+0xd39	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd3a	++z
+0xd3b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd3c	++z
+0xd3d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd3e	++z
+0xd3f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd40	++z
+0xd41	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd42	++z
+0xd43	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd44	++z
+0xd45	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd46	++z
+0xd47	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd48	++z
+0xd49	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd4a	++z
+0xd4b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd4c	++z
+0xd4d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd4e	++z
+0xd4f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd50	++z
+0xd51	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd52	++z
+0xd53	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd54	++z
+0xd55	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd56	++z
+0xd57	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd58	++z
+0xd59	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd5a	++z
+0xd5b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd5c	++z
+0xd5d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd5e	++z
+0xd5f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd60	++z
+0xd61	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd62	++z
+0xd63	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd64	++z
+0xd65	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd66	++z
+0xd67	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd68	++z
+0xd69	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd6a	++z
+0xd6b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd6c	++z
+0xd6d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd6e	++z
+0xd6f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd70	++z
+0xd71	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd72	++z
+0xd73	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd74	++z
+0xd75	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd76	++z
+0xd77	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd78	++z
+0xd79	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd7a	++z
+0xd7b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd7c	++z
+0xd7d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd7e	++z
+0xd7f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd80	++z
+0xd81	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd82	++z
+0xd83	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd84	++z
+0xd85	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd86	++z
+0xd87	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd88	++z
+0xd89	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd8a	++z
+0xd8b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd8c	++z
+0xd8d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd8e	++z
+0xd8f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd90	++z
+0xd91	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd92	++z
+0xd93	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd94	++z
+0xd95	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd96	++z
+0xd97	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd98	++z
+0xd99	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd9a	++z
+0xd9b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd9c	++z
+0xd9d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xd9e	++z
+0xd9f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xda0	++z
+0xda1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xda2	++z
+0xda3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xda4	++z
+0xda5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xda6	++z
+0xda7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xda8	++z
+0xda9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdaa	++z
+0xdab	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdac	++z
+0xdad	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdae	++z
+0xdaf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdb0	++z
+0xdb1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdb2	++z
+0xdb3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdb4	++z
+0xdb5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdb6	++z
+0xdb7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdb8	++z
+0xdb9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdba	++z
+0xdbb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdbc	++z
+0xdbd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdbe	++z
+0xdbf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdc0	++z
+0xdc1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdc2	++z
+0xdc3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdc4	++z
+0xdc5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdc6	++z
+0xdc7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdc8	++z
+0xdc9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdca	++z
+0xdcb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdcc	++z
+0xdcd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdce	++z
+0xdcf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdd0	++z
+0xdd1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdd2	++z
+0xdd3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdd4	++z
+0xdd5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdd6	++z
+0xdd7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdd8	++z
+0xdd9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdda	++z
+0xddb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xddc	++z
+0xddd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdde	++z
+0xddf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xde0	++z
+0xde1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xde2	++z
+0xde3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xde4	++z
+0xde5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xde6	++z
+0xde7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xde8	++z
+0xde9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdea	++z
+0xdeb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xdec	x = flag[7]
+0xdee	if (x % 9 != 5) [!]Error
+0xdf0	z = x
+0xdf1	z = 0x(z)
+0xdf2	x = weird_data[z]
+0xdf3	unkn[0] = x
+0xdf5	x = flag[15]
+0xdf7	if (x % 9 != 3) [!]Error
+0xdf9	z = x
+0xdfa	z = 0x(z)
+0xdfb	x = weird_data[z]
+0xdfc	unkn[1] = x
+0xdfe	x = flag[23]
+0xe00	if (x % 9 != 1) [!]Error
+0xe02	z = x
+0xe03	z = 0x(z)
+0xe04	x = weird_data[z]
+0xe05	unkn[2] = x
+0xe07	x = flag[35]
+0xe09	if (x % 9 != 8) [!]Error
+0xe0b	z = x
+0xe0c	z = 0x(z)
+0xe0d	x = weird_data[z]
+0xe0e	unkn[3] = x
+0xe10	Weird Check
+0xe11	z = 491
+0xe13	z = 0x(z)
+0xe14	puts("Checking flag...");
+0xe15	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe16	++z
+0xe17	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe18	++z
+0xe19	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe1a	++z
+0xe1b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe1c	++z
+0xe1d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe1e	++z
+0xe1f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe20	++z
+0xe21	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe22	++z
+0xe23	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe24	++z
+0xe25	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe26	++z
+0xe27	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe28	++z
+0xe29	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe2a	++z
+0xe2b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe2c	++z
+0xe2d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe2e	++z
+0xe2f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe30	++z
+0xe31	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe32	++z
+0xe33	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe34	++z
+0xe35	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe36	++z
+0xe37	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe38	++z
+0xe39	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe3a	++z
+0xe3b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe3c	++z
+0xe3d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe3e	++z
+0xe3f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe40	++z
+0xe41	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe42	++z
+0xe43	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe44	++z
+0xe45	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe46	++z
+0xe47	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe48	++z
+0xe49	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe4a	++z
+0xe4b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe4c	++z
+0xe4d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe4e	++z
+0xe4f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe50	++z
+0xe51	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe52	++z
+0xe53	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe54	++z
+0xe55	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe56	++z
+0xe57	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe58	++z
+0xe59	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe5a	++z
+0xe5b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe5c	++z
+0xe5d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe5e	++z
+0xe5f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe60	++z
+0xe61	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe62	++z
+0xe63	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe64	++z
+0xe65	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe66	++z
+0xe67	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe68	++z
+0xe69	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe6a	++z
+0xe6b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe6c	++z
+0xe6d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe6e	++z
+0xe6f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe70	++z
+0xe71	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe72	++z
+0xe73	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe74	++z
+0xe75	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe76	++z
+0xe77	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe78	++z
+0xe79	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe7a	++z
+0xe7b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe7c	++z
+0xe7d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe7e	++z
+0xe7f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe80	++z
+0xe81	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe82	++z
+0xe83	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe84	++z
+0xe85	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe86	++z
+0xe87	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe88	++z
+0xe89	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe8a	++z
+0xe8b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe8c	++z
+0xe8d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe8e	++z
+0xe8f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe90	++z
+0xe91	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe92	++z
+0xe93	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe94	++z
+0xe95	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe96	++z
+0xe97	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe98	++z
+0xe99	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe9a	++z
+0xe9b	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe9c	++z
+0xe9d	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xe9e	++z
+0xe9f	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xea0	++z
+0xea1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xea2	++z
+0xea3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xea4	++z
+0xea5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xea6	++z
+0xea7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xea8	++z
+0xea9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xeaa	++z
+0xeab	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xeac	++z
+0xead	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xeae	++z
+0xeaf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xeb0	++z
+0xeb1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xeb2	++z
+0xeb3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xeb4	++z
+0xeb5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xeb6	++z
+0xeb7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xeb8	++z
+0xeb9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xeba	++z
+0xebb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xebc	++z
+0xebd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xebe	++z
+0xebf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xec0	++z
+0xec1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xec2	++z
+0xec3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xec4	++z
+0xec5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xec6	++z
+0xec7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xec8	++z
+0xec9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xeca	++z
+0xecb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xecc	++z
+0xecd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xece	++z
+0xecf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xed0	++z
+0xed1	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xed2	++z
+0xed3	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xed4	++z
+0xed5	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xed6	++z
+0xed7	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xed8	++z
+0xed9	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xeda	++z
+0xedb	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xedc	++z
+0xedd	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xede	++z
+0xedf	if (weird_data[z] != qword_206538[c++]) [!]Error
+0xee0	z = 129
+0xee2	z = 0x(z)
+0xee3	putchar(weird_data[z + y]);
+0xee4	++z
+0xee5	putchar(weird_data[z + y]);
+0xee6	++z
+0xee7	putchar(weird_data[z + y]);
+0xee8	++z
+0xee9	putchar(weird_data[z + y]);
+0xeea	++z
+0xeeb	putchar(weird_data[z + y]);
+0xeec	++z
+0xeed	putchar(weird_data[z + y]);
+0xeee	++z
+0xeef	putchar(weird_data[z + y]);
+0xef0	++z
+0xef1	putchar(weird_data[z + y]);
+0xef2	++z
+0xef3	putchar(weird_data[z + y]);
+0xef4	[!] 0
+0xef5	[!] 0
+0xef6	[!] 0
+0xef7	[!] 0
+0xef8	[!] 0
+0xef9	[!] 0
+0xefa	[!] 0
+0xefb	[!] 0
+0xefc	[!] 0
+0xefd	[!] 0
+0xefe	[!] 0
